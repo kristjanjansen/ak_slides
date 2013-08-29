@@ -1,0 +1,10 @@
+{
+  "volo": {
+    "baseUrl": "vendor",
+    "dependencies": {
+      "jquery": "github:jquery/jquery/2.0.3",
+      "marked": "github:chjj/marked/v0.2.9",
+      "mustache": "github:janl/mustache.js/0.7.2"
+    }
+  }
+}

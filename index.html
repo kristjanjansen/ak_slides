@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="css/style.css"  /> 
+  </head>
+  <body>
+    
+    <script type="text/html" id="index">
+
+    <header>
+    <h1>Slides</h1>
+    </header>
+    
+    <article>     
+    
+    {{#index}}
+      
+      <li><a href="./slides/{{.}}">{{.}}</a>
+    
+    {{/index}}
+    </article>     
+
+    </script>
+    
+    <script type="text/javascript" src="vendor/jquery.js"></script> 
+    <script type="text/javascript" src="vendor/marked.js"></script> 
+    <script type="text/javascript" src="vendor/mustache.js"></script> 
+    
+    <script type="text/javascript" src="js/app.js"></script> 
+  
+  </body>
+</html>
