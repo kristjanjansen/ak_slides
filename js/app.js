@@ -37,14 +37,17 @@ function renderIndex(ctx, next) {
 }
 
 function renderSlides(ctx, next) {
-  
-  console.log(Mustache.render($('#slides').html(), {slide: ctx.params.slides}))
-  
+    
   $.get('./slides/' + ctx.params.slides, function(data) {
-    var slides = data.split('\n\n\n')
-
+    
+    var slides = data
+      .split('\n\n\n')
+      .map(function(item) { 
+        return marked(item)
+      })
+        
     $('.wrapper').html(
-      Mustache.render($('#slides').html(), {slide: ctx.params.slides})    
+      Mustache.render($('#slides').html(), {slide: ctx.params.slides, slides: slides})    
     )
 
   }, 'text')
