@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="css/style.css"  /> 
   </head>
   <body>
@@ -13,23 +14,25 @@
     <h1>Slides</h1>
     </header>
     
-    <article>        
+    <div class="content">
     {{#index}}      
       <li><a href="./slides/{{.}}/page">{{.}}</a>    
     {{/index}}
-    </article>     
+    </div>     
 
     </script>
     
     <script type="text/html" id="slides">
 
     <header>
-    <h1>{{slide}}</h1>
+    <h1><a href="/">Slides</a> &rsaquo; {{slide}}</h1>
     </header>     
 
+    <div class="content">
     {{#slides}}      
       {{{.}}}  
     {{/slides}}
+    </div>
     
     </script>
     

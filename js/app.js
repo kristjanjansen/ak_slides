@@ -15,10 +15,9 @@
 
 $(document).ready(function() {
 
-page.base('/tmp/ak_slides2')
-page('/slides/:slides/page', renderSlides)
-page('/', renderIndex)
-page({dispatch: true})
+  page('/slides/:slides/page', renderSlides)
+  page('/', renderIndex)
+  page({dispatch: true})
 
 })
 
@@ -43,7 +42,7 @@ function renderSlides(ctx, next) {
     var slides = data
       .split('\n\n\n')
       .map(function(item) { 
-        return marked(item)
+        return marked(item, {breaks: true})
       })
         
     $('.wrapper').html(
