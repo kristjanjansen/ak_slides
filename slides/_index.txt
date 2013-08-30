@@ -1,5 +1,3 @@
-presentations.md
-specialprojects.md
 infographics.md
 pictogram-history.md
 pictogram-creating.md
@@ -7,3 +5,5 @@ pictogram-stories.md
 pictogram-wayfinding.md
 typo-reference.md
 typo-creating.md
+presentations.md
+specialprojects.md
