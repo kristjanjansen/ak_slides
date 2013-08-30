@@ -1,10 +1,3 @@
----
-layout: slide
-title: Pictograms. History
-teacher: Merit
-published: true
----
-
 # Pictogram History
 
 

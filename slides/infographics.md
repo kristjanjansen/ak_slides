@@ -1,10 +1,3 @@
----
-layout: slide
-title: Infographics
-teacher: Oliver
-published: true
----
-
 ## History
 
 http://www.guardian.co.uk/news/datablog/2012/mar/16/infographics-data-visualisation-history

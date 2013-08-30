@@ -4,7 +4,7 @@ page({dispatch: true, click: true})
 
 function renderIndex(ctx, next) {
   
-  $.get('/slides/index.txt', function(data) {
+  $.get('/slides/_index.txt', function(data) {
 
     $('.wrapper').html(
       Mustache.render($('#index').html(), {index: data.split('\n')})

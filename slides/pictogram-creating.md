@@ -1,11 +1,4 @@
----
-layout: slide
-title: Pictograms. Creating
-teacher: Kristjan
----
-
 # Creating pictograms
-
 
 ## Sketching
 

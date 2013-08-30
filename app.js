@@ -5,7 +5,7 @@ app = express()
 
 var port = 3001
 
-var static = ['css','fonts','js','slides','vendor']
+var static = ['css','fonts','images','js','slides','vendor']
   .forEach(function(item){
     app.use('/' + item, express.static(path.join(__dirname, item)))
 })
