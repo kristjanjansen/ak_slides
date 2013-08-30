@@ -1,3 +1,4 @@
+specialprojects.md
 presentations.md
 infographics.md
 pictogram-history.md
