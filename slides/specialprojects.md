@@ -10,3 +10,7 @@ http://www.alibaba.com/product-gs/620125303/dot_matrix_display_digital_alarm_led
 
 
 http://walyou.com/optical-illusion-led-watch-hides-the-time-from-you/
+
+http://www.tokyoflash.com/en/watches/1/
+
+http://blog.tokyoflash.com/
