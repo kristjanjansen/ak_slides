@@ -264,12 +264,6 @@ http://pinterest.com/denizsir/graphics-signages-posters-advertisements/
 http://retaildesignblog.net/
 
 
-### Presentation
-
-http://risd.gd/MFA/2013/
-http://www.flickr.com/photos/frankrolf/4731691564/in/pool-443263@N22
-
-
 ### Identity and branding
 
 http://www.behance.net/gallery/Knights-Care-Branding/1526117
@@ -369,10 +363,6 @@ http://www.slideshare.net/pasteinplace/final-wayfinding-book
 
 http://www.slideshare.net/karmatsky/make-wayfinding?from_search=25
 
-### Portfolios
-
-http://portfolios.sva.edu/
-http://studentshow.com/
 
 ### Slides
 
@@ -625,14 +615,17 @@ http://www.behance.net/gallery/Interior-Design-Study-Campus-Wayfinding-Project/6
 
 ![](http://behance.vo.llnwd.net/profiles25/1291109/projects/4542755/hd_e78085cc7a64ec8be7cb9bd0845b9f8a.jpg)
 
+
 ### Exibithions
 
 http://www.behance.net/gallery/Lille-Metropole_A-Flexible-Visual-Identity/8789669
 @expand
 
+
 #### Animals
 
 http://www.behance.net/gallery/Zoo-Icons/6738408
+
 
 ## Wayfinding fonts
 

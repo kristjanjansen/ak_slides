@@ -74,6 +74,12 @@ http://www.behance.net/gallery/Newspaper-Infographics/1081061
 ![](http://behance.vo.llnwd.net/profiles15/257283/projects/1081061/df93dbc8b7cee7a5f11282742e5ba831.jpg)
 
 
+### Music viz
+
+http://badassjs.com/post/41708259332/teoria-a-javascript-music-theory-library-for-working
+http://www.youtube.com/watch?v=IaEJgdtDVFY
+
+
 ## Possible visits / partners
 
 * Veiko Visnapuu (Meie Maa)
