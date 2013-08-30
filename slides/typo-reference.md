@@ -1,9 +1,3 @@
----
-layout: slide
-title: Typography. Reference
-teacher: Oliver
----
-
 # Typography reference
 
 

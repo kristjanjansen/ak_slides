@@ -1,9 +1,3 @@
----
-layout: slide
-title:  Typography. Creating type
-teacher: Kristjan
----
-
 # Creating type
 
 

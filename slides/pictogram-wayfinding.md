@@ -1,9 +1,3 @@
----
-layout: slide
-title: Pictograms. Wayfinding
-teacher: Kristjan
----
-
 # Pictograms and wayfinding
 
 

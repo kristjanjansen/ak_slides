@@ -1,9 +1,3 @@
----
-layout: slide
-title: Pictograms. Stories
-teacher: Merit
----
-
 # Pictograms and storytelling
 
 
