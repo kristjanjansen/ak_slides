@@ -13,13 +13,11 @@
   
 //})
 
-$(document).ready(function() {
-
-  page('/slides/:slides/page', renderSlides)
   page('/', renderIndex)
+  page('/:slides/page', renderSlides)
   page({dispatch: true})
-
-})
+//  page('/')
+  
 
 
 function renderIndex(ctx, next) {
