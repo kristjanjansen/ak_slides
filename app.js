@@ -3,7 +3,7 @@ var express = require('express');
 
 app = express()
 
-var port = 3000
+var port = 4000
 
 var static = ['css','fonts','images','js','slides','vendor']
   .forEach(function(item){
