@@ -1,17 +1,6 @@
 page('/', renderIndex)
-page('/slides/:slide/page', renderSlides)
-page('*', attachHandler)
-page({dispatch: true, click: false})
-
-function attachHandler(ctx, next) {
-
-  $('a').click(function(e){
-    var url = $(this).attr('href')
-    page(url)
-    e.preventDefault()
-
-  })
-}
+page('/:slide', renderSlides)
+page({dispatch: true, click: true})
 
 function renderIndex(ctx, next) {
   
@@ -20,7 +9,7 @@ function renderIndex(ctx, next) {
     $('.wrapper').html(
       Mustache.render($('#index').html(), {index: data.split('\n')})
     )
-    next()
+
   }, 'text')
 
 }
@@ -41,8 +30,6 @@ function renderSlides(ctx, next) {
     $('.wrapper').html(
       Mustache.render($('#slides').html(), {slide: ctx.params.slide, slides: slides})    
     )
-
-    next()
 
   }, 'text')
 
