@@ -48,7 +48,7 @@ function renderSlideshow(ctx, next) {
         return item.replace(/href/g, 'target="_blank" href')
       })
       .forEach(function(item) {
-        slides.push({slide: item, x: x += 1000})
+        slides.push({slide: item, x: x += 1200})
       })
   
     // console.log(slides)

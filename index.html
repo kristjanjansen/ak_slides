@@ -36,10 +36,12 @@
     
     <script type="text/html" id="slideshow">
     <a class="stop" href="/{{slide}}">◼</a>
-    <div id="impress">
+    <div id="impress" data-transition-duration="0">
     {{#slides}}
-    <div class="step" data-x="{{x}}" data-y="0">    
+    <div class="step" data-x="{{x}}" data-y="0">
+      <div class="content">
       {{{slide}}}
+      </div>
     </div>
     {{/slides}}
     </div>

@@ -78,10 +78,29 @@ img {
 .stop {
   padding-top: 20px;
 }
-.step {
+#impress {
+  font-size: 2.5em;
+  line-height: 1.25em;
+}
+#impress p {
+  font-size: 0.65em;
+  line-height: 1.25em;
+  margin-bottom: 1em;
+}
+#impress ul {
+  text-align: left;
+}
+#impress .step {
   border: 1px solid black;
   width: 800px;
   height: 600px;
   text-align: center;
+  background: white;
   vertical-align: middle;
+  display: table;
+}
+
+#impress .step .content {
+  vertical-align: middle;
+  display: table-cell;
 }
