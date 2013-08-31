@@ -1,6 +1,6 @@
 page('/', renderIndex)
 page('/:slide', renderSlides)
-page('/:slide/slideshow', renderReveal)
+page('/:slide/slideshow', renderSlideshow)
 page({dispatch: true, click: true})
 
 function renderIndex(ctx, next) {
@@ -31,7 +31,7 @@ function renderSlides(ctx, next) {
 }
 
 
-function renderReveal(ctx, next) {
+function renderSlideshow(ctx, next) {
     
   $.get('/slides/' + ctx.params.slide, function(data) {
     
@@ -45,12 +45,12 @@ function renderReveal(ctx, next) {
       })
         
     $('body').html(
-      Mustache.render($('#reveal').html(), {slides: slides})    
+      Mustache.render($('#slideshow').html(), {slides: slides})    
     )
 
     $('head').append('\
     <link rel="stylesheet" type="text/css" href="/vendor/reveal/css/reveal.min.css" />\
-    <link rel="stylesheet" type="text/css" href="/vendor/reveal/css/theme/simple.css" />\
+    <link rel="stylesheet" type="text/css" href="/css/slideshow.css" />\
     <script type="text/javascript" src="/vendor/reveal/lib/js/head.min.js"></script>\
   	<script type="text/javascript" src="/vendor/reveal/js/reveal.min.js"></script>\
     ');
