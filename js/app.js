@@ -4,7 +4,7 @@ page('/:slide/slideshow', renderSlideshow)
 page({dispatch: true, click: true})
 
 function renderIndex(ctx, next) {
-  
+    
   $.get('/slides/_index.txt', function(data) {
 
     $('.wrapper').html(
@@ -48,12 +48,15 @@ function renderSlideshow(ctx, next) {
       Mustache.render($('#slideshow').html(), {slide: ctx.params.slide, slides: slides})    
     )
 
-    $('head').append('\
-    <link rel="stylesheet" type="text/css" href="/vendor/reveal/css/reveal.min.css" />\
-    <link rel="stylesheet" type="text/css" href="/css/slideshow.css" />\
+/*
+    $('#inject').html('\
+    <link class="injected" rel="stylesheet" type="text/css" href="/vendor/reveal/css/reveal.min.css" />\
+    <link class="injected" rel="stylesheet" type="text/css" href="/css/slideshow.css" />'
+    
     <script type="text/javascript" src="/vendor/reveal/lib/js/head.min.js"></script>\
   	<script type="text/javascript" src="/vendor/reveal/js/reveal.min.js"></script>\
     ');
+*/
     
     Reveal.initialize({
   	  controls: true,

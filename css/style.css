@@ -71,4 +71,8 @@ img {
 }
 .play {
   float: right;
+  margin-right: 30px;
+}
+.play, .stop {
+  font-size: 22px;
 }
