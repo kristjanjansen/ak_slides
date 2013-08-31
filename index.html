@@ -29,18 +29,16 @@
     </header>     
 
     <div class="content">
-    {{#slides}}      
-      {{{.}}}  
-    {{/slides}}
+      {{{content}}}  
     </div>
     
     </script>
     
     <script type="text/html" id="slideshow">
-
+    <a href="/{{slide}}">&larr;</a>
     <div id="impress">
     {{#slides}}
-    <div class="step slide" data-x="{{x}}" data-y="0" data-scale="4">    
+    <div class="step" data-x="{{x}}" data-y="0" data-z="3000">    
       {{{slide}}}
     </div>
     {{/slides}}

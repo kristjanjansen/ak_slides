@@ -21,21 +21,11 @@ function renderSlides(ctx, next) {
     
     var y = 0;
     
-    var slides = data
-      .split('\n\n\n')
-      .map(function(item) { 
-        return marked(item, {breaks: true})
-      })
-      .map(function(item) {
-        return item.replace(/href/g, 'target="_blank" href')
-      })
-      .map(function(item) {
-        return {slide: item, y: y}
-        y = y + 1000
-      })
+    var content = marked(data, {breaks: true})
+      .replace(/href/g, 'target="_blank" href')
               
     $('.wrapper').html(
-      Mustache.render($('#slides').html(), {slide: ctx.params.slide, slides: slides})    
+      Mustache.render($('#slides').html(), {slide: ctx.params.slide, content: content})    
     )
 
   }, 'text')
@@ -58,7 +48,7 @@ function renderSlideshow(ctx, next) {
         return item.replace(/href/g, 'target="_blank" href')
       })
       .forEach(function(item) {
-        slides.push({slide: item, x: x += 1000})
+        slides.push({slide: item, x: x += 1500})
       })
   
     // console.log(slides)
