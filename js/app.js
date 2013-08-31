@@ -48,6 +48,13 @@ function renderReveal(ctx, next) {
       Mustache.render($('#reveal').html(), {slides: slides})    
     )
 
+    $('head').append('\
+    <link rel="stylesheet" type="text/css" href="/vendor/reveal/css/reveal.min.css" />\
+    <link rel="stylesheet" type="text/css" href="/vendor/reveal/css/theme/simple.css" />\
+    <script type="text/javascript" src="/vendor/reveal/lib/js/head.min.js"></script>\
+  	<script type="text/javascript" src="/vendor/reveal/js/reveal.min.js"></script>\
+    ');
+    
     Reveal.initialize({
   	  controls: true,
   	  progress: false,
