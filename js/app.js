@@ -1,13 +1,13 @@
 page('/', renderIndex)
-page('/:slide', renderSlides)
 page('/:slide/slideshow', renderSlideshow)
-page({dispatch: true, click: true})
+page('/:slide', renderSlides)
+page({dispatch: true})
 
 function renderIndex(ctx, next) {
     
   $.get('/slides/_index.txt', function(data) {
 
-    $('.wrapper').html(
+    $('body').html(
       Mustache.render($('#index').html(), {index: data.split('\n')})
     )
 
@@ -22,7 +22,7 @@ function renderSlides(ctx, next) {
     
     var content = marked(data, {breaks: true}).replace(/href/g, 'target="_blank" href')
         
-    $('.wrapper').html(
+    $('body').html(
       Mustache.render($('#slides').html(), {slide: ctx.params.slide, content: content})    
     )
 
@@ -57,7 +57,7 @@ function renderSlideshow(ctx, next) {
   	<script type="text/javascript" src="/vendor/reveal/js/reveal.min.js"></script>\
     ');
 */
-    
+    /*
     Reveal.initialize({
   	  controls: true,
   	  progress: false,
@@ -66,7 +66,7 @@ function renderSlideshow(ctx, next) {
   	  transitionSpeed: 'fast',
   	  transition: 'none',
     })
-    
+    */
   }, 'text')
 
 }
