@@ -3,6 +3,10 @@
   <head>
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/css/style.css"  /> 
+
+    <link rel="stylesheet" type="text/css" href="/vendor/reveal/css/reveal.min.css"  /> 
+    <link rel="stylesheet" type="text/css" href="/vendor/reveal/css/theme/simple.css"  />
+    
   </head>
   <body>
     
@@ -10,28 +14,40 @@
     
     <script type="text/html" id="index">
 
-    <header>
-    <h1>Slides</h1>
-    </header>
-    <div class="content">
-    {{#index}}      
-        <h3><a href="/{{.}}">{{.}}</a></h3>    
-    {{/index}}
-    </div>     
+      <header>
+      <h1>Slides</h1>
+      </header>
+      <div class="content">
+      {{#index}}      
+          <h3><a href="/{{.}}">{{.}}</a></h3>    
+      {{/index}}
+      </div>     
 
     </script>
     
     <script type="text/html" id="slides">
 
-    <header>
-    <h1><a href="/">Slides</a> &rsaquo; {{slide}}</h1>
-    </header>     
+      <header>
+      <h1><a href="/">Slides</a> &rsaquo; {{slide}}</h1>
+      </header>     
 
-    <div class="content">
-    {{#slides}}      
-      {{{.}}}  
-    {{/slides}}
-    </div>
+      <div class="content">
+      {{{content}}}      
+      </div>
+    
+    </script>
+    
+    <script type="text/html" id="reveal">
+    
+      <div class="reveal">
+          <div class="slides">
+          {{#slides}}      
+          <section>
+          {{{.}}}
+          </section>
+          {{/slides}}
+          </div>
+      </div>
     
     </script>
     
@@ -39,6 +55,8 @@
     <script type="text/javascript" src="/vendor/page/index.js"></script> 
     <script type="text/javascript" src="/vendor/marked.js"></script> 
     <script type="text/javascript" src="/vendor/mustache.js"></script> 
+    <script type="text/javascript" src="/vendor/reveal/lib/js/head.min.js"></script>
+		<script type="text/javascript" src="/vendor/reveal/js/reveal.min.js"></script>
     
     <script type="text/javascript" src="/js/app.js"></script> 
   
