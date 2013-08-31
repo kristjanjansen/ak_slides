@@ -23,7 +23,7 @@ body {
   font-size: 0.65em !important;
 }
 
-.links {
+.stop {
   position: absolute;
   z-index: 1000;
   padding: 10px 0 0 20px;
@@ -31,7 +31,5 @@ body {
   opacity: 0.25;
   font-size: 40px;
   line-height: 40px;  
-}
-.links a {
   text-decoration: none;
 }

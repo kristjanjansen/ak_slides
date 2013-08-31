@@ -17,10 +17,23 @@
       
   </body>
 
+  <script type="text/html" id="index">
+
+     <header>
+     <h1>Slides</h1>
+     </header>
+     <div class="content">
+     {{#index}}      
+         <h3><a href="/{{.}}">{{.}}</a></h3>    
+     {{/index}}
+     </div>     
+
+   </script>
+   
   <script type="text/html" id="slides">
 
     <header>
-    <h1><a href="/">Slides</a> &rsaquo; {{slide}}</h1>
+    <h1><a href="/">Slides</a> &rsaquo; {{slide}} <a class="play" href="/{{slide}}/slideshow">▶</a></h1>
     </header>     
 
     <div class="content">
@@ -30,7 +43,7 @@
   </script>
   
   <script type="text/html" id="slideshow">
-  
+    <a class="stop" href="/{{slide}}">█</a>
     <div class="reveal">
         <div class="slides">
         {{#slides}}      
@@ -41,19 +54,6 @@
         </div>
     </div>
   
-  </script>
-  
-  <script type="text/html" id="index">
-
-    <header>
-    <h1>Slides</h1>
-    </header>
-    <div class="content">
-    {{#index}}      
-        <h3><a href="/{{.}}">{{.}}</a> <a href="/{{.}}/slideshow">Slides</a></h3>    
-    {{/index}}
-    </div>     
-
   </script>
   
 </html>

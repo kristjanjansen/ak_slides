@@ -45,7 +45,7 @@ function renderSlideshow(ctx, next) {
       })
         
     $('body').html(
-      Mustache.render($('#slideshow').html(), {slides: slides})    
+      Mustache.render($('#slideshow').html(), {slide: ctx.params.slide, slides: slides})    
     )
 
     $('head').append('\

@@ -69,3 +69,6 @@ header a:hover  {
 img {
   max-width: 600px;
 }
+.play {
+  float: right;
+}
