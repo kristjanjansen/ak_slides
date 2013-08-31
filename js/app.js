@@ -27,7 +27,7 @@ function renderSlides(ctx, next) {
     $('.wrapper').html(
       Mustache.render($('#slides').html(), {slide: ctx.params.slide, content: content})    
     )
-
+    
   }, 'text')
 
 }
