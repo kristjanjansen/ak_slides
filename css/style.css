@@ -69,3 +69,19 @@ header a:hover  {
 img {
   max-width: 600px;
 }
+.play, .stop {
+  font-size: 18px;
+  float: right;
+  padding-right: 20px;
+  text-decoration: none;
+}
+.stop {
+  padding-top: 20px;
+}
+.step {
+  border: 1px solid black;
+  width: 800px;
+  height: 600px;
+  text-align: center;
+  vertical-align: middle;
+}

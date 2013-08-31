@@ -16,7 +16,7 @@
     </header>
     <div class="content">
     {{#index}}      
-        <h3><a href="/{{.}}">{{.}}</a> <a href="/{{.}}/slideshow">&rarr;</a></h3>    
+        <h3><a href="/{{.}}">{{.}}</a></h3>    
     {{/index}}
     </div>     
 
@@ -25,7 +25,7 @@
     <script type="text/html" id="slides">
 
     <header>
-    <h1><a href="/">Slides</a> &rsaquo; {{slide}}</h1>
+    <h1><a href="/">Slides</a> &rsaquo; {{slide}} <a class="play" href="/{{slide}}/slideshow">▶</a> </h1>
     </header>     
 
     <div class="content">
@@ -35,10 +35,10 @@
     </script>
     
     <script type="text/html" id="slideshow">
-    <a href="/{{slide}}">&larr;</a>
+    <a class="stop" href="/{{slide}}">◼</a>
     <div id="impress">
     {{#slides}}
-    <div class="step" data-x="{{x}}" data-y="0" data-z="3000">    
+    <div class="step" data-x="{{x}}" data-y="0">    
       {{{slide}}}
     </div>
     {{/slides}}
