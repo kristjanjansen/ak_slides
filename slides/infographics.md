@@ -111,10 +111,20 @@ http://www.youtube.com/watch?v=IaEJgdtDVFY
 ## Possible visits / partners
 
 * Veiko Visnapuu (Meie Maa)
-* Raul Vinni (Oma saar) http://www.flickr.com/photos/kuukosmonaut/sets/72157628038307615/
-* Henri Laupmaa (Infograafika Instituut)  Via Skype?
-* Kuressaare LV http://kuressaare.kristjanjansen.ee
-* ELF http://keskkonnateated.ee http://www.elfond.ee/meieplaneet https://vimeo.com/34618681
+
+* Raul Vinni (Oma saar)
+  http://www.flickr.com/photos/kuukosmonaut/sets/72157628038307615/
+
+* Henri Laupmaa (Infograafika Instituut) 
+  Via Skype?
+  
+* Kuressaare LV
+  http://kuressaare.kristjanjansen.ee
+
+* ELF
+  http://keskkonnateated.ee
+  http://www.elfond.ee/meieplaneet
+  https://vimeo.com/34618681
   
 
 
