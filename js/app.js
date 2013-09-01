@@ -5,6 +5,8 @@ page({dispatch: true, click: true})
 
 function renderIndex(ctx, next) {
   
+  $('body').removeAttr('class').removeAttr('style')
+  
   $.get('/slides/_index.txt', function(data) {
 
     $('.wrapper').html(
@@ -16,6 +18,8 @@ function renderIndex(ctx, next) {
 }
 
 function renderSlides(ctx, next) {
+  
+  $('body').removeAttr('class').removeAttr('style')
     
   $.get('/slides/' + ctx.params.slide, function(data) {
     
