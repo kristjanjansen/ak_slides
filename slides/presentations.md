@@ -1,5 +1,6 @@
 # Esitlustehnikad ja portfoolio
 
+
 ## Suured postrid
 
 http://www.flickr.com/photos/frankrolf/4731691564/in/pool-443263@N22
