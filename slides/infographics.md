@@ -90,7 +90,19 @@ http://www.behance.net/gallery/Newspaper-Infographics/1081061
 ![](http://behance.vo.llnwd.net/profiles15/257283/projects/1081061/df93dbc8b7cee7a5f11282742e5ba831.jpg)
 
 
-### Music viz
+## Food
+
+http://www.themonkeys.com.au/#!/work/mixionary-posters/
+http://www.aif.ru/food/infographic
+
+
+![](http://www.themonkeys.com.au/wp-content/uploads/2012/08/IMG_9439-Edit.jpg)
+
+
+![](http://static4.aif.ru/pictures/201306/fruitsalat-infogr-upd.jpg)
+
+
+### Music visualization
 
 http://badassjs.com/post/41708259332/teoria-a-javascript-music-theory-library-for-working
 http://www.youtube.com/watch?v=IaEJgdtDVFY
@@ -99,20 +111,10 @@ http://www.youtube.com/watch?v=IaEJgdtDVFY
 ## Possible visits / partners
 
 * Veiko Visnapuu (Meie Maa)
-
-* Raul Vinni (Oma saar)
-  http://www.flickr.com/photos/kuukosmonaut/sets/72157628038307615/
-
-* Henri Laupmaa (Infograafika Instituut) 
-  Via Skype?
-  
-* Kuressaare LV
-  http://kuressaare.kristjanjansen.ee
-
-* ELF
-  http://keskkonnateated.ee
-  http://www.elfond.ee/meieplaneet
-  https://vimeo.com/34618681
+* Raul Vinni (Oma saar) http://www.flickr.com/photos/kuukosmonaut/sets/72157628038307615/
+* Henri Laupmaa (Infograafika Instituut)  Via Skype?
+* Kuressaare LV http://kuressaare.kristjanjansen.ee
+* ELF http://keskkonnateated.ee http://www.elfond.ee/meieplaneet https://vimeo.com/34618681
   
 
 
@@ -133,14 +135,6 @@ http://invite.simonandsarah.us/
 
 
 ![](http://invite.simonandsarah.us/img/invite_03.jpg)
-
-
-## Drinks
-
-http://www.themonkeys.com.au/#!/work/mixionary-posters/
-
-
-![](http://www.themonkeys.com.au/wp-content/uploads/2012/08/IMG_9439-Edit.jpg)
 
 
 ## Maps
