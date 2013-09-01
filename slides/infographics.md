@@ -14,14 +14,29 @@ Data: couple of mobile bills
 Data: course syllabus
 
 
-### My day on a map
-
-Data: personal mapping
+### Personal mapping
 
 http://www.behance.net/gallery/Wayfinding-Map/6692449
+http://www.behance.net/gallery/The-Pattern-of-my-Life/5741101
+http://www.behance.net/gallery/Youd-say-Im-a-geek/3142722
 
 
 ![](http://behance.vo.llnwd.net/profiles11/979716/projects/6692449/871a5c1f2a9da90fca3383738732a438.png)
+
+
+![](http://behance.vo.llnwd.net/profiles16/970203/projects/5741101/592706a3952eeb467db702430d0535f8.jpg)
+
+
+![](http://behance.vo.llnwd.net/profiles26/935718/projects/3142722/702e088c2720839a1b190c299666ef37.png)
+
+
+![](http://behance.vo.llnwd.net/profiles26/935718/projects/3142722/e067838691115149c45dec916edd9219.jpg)
+
+
+![](http://behance.vo.llnwd.net/profiles26/935718/projects/3142722/d3c443152f1d3b20541958cdf67d960d.jpg)
+
+
+![](http://behance.vo.llnwd.net/profiles26/935718/projects/3142722/d2e3fa1d4e7de9c07bb8d2666e72e23b.jpg)
 
 
 ### My Estonia
