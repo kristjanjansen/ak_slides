@@ -141,6 +141,8 @@ http://blog.alexlikesdesign.com/post/46850507084/today-marks-the-launch-of-googl
 
 http://www.mappingthenation.com/
 
+http://www.thisiscolossal.com/2013/08/an-artist-is-assembling-a-map-of-manhattan-using-only-directions-drawn-by-strangers/
+
 
 # Reference
 
