@@ -19,6 +19,8 @@ http://risd.gd/MFA/2013/
 
 ## Minimaalsed porfoliod
 
+http://pilth.com (Cargo Collective)
+
 http://thirdbestjenlee.com/
 
 http://www.timboelaars.nl/

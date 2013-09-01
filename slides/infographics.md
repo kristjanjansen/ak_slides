@@ -17,9 +17,14 @@ Data: course syllabus
 ### Personal mapping
 
 http://feltron.com
+
+http://pilth.com/Personal-Infographics
 http://www.behance.net/gallery/Wayfinding-Map/6692449
 http://www.behance.net/gallery/The-Pattern-of-my-Life/5741101
 http://www.behance.net/gallery/Youd-say-Im-a-geek/3142722
+
+
+![](http://payload42.cargocollective.com/1/7/225014/3146156/Week%20not%20for%20the%20Weakb.jpg)
 
 
 ![](http://behance.vo.llnwd.net/profiles11/979716/projects/6692449/871a5c1f2a9da90fca3383738732a438.png)
