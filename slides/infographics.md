@@ -16,6 +16,7 @@ Data: course syllabus
 
 ### Personal mapping
 
+http://feltron.com
 http://www.behance.net/gallery/Wayfinding-Map/6692449
 http://www.behance.net/gallery/The-Pattern-of-my-Life/5741101
 http://www.behance.net/gallery/Youd-say-Im-a-geek/3142722
