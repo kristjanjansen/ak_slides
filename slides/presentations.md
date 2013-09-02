@@ -1,9 +1,6 @@
 # Esitlustehnikad ja portfoolio
 
 
-## Pildistamine
-
-
 ### Postrid
 
 http://www.flickr.com/photos/frankrolf/4731691564/in/pool-443263@N22
@@ -49,9 +46,23 @@ http://www.behance.net/gallery/BFA-Degree-Show/7331331
 ![](http://behance.vo.llnwd.net/profiles23/2236177/projects/7331331/9538adc95ad3b582379963bf252e2312.jpg)
 
 
-## Asjad
+![](http://behance.vo.llnwd.net/profiles2/249099/projects/856215/df520b2e4b203512dde4b7e9a631b4b2.jpg)
+
+
+![](http://behance.vo.llnwd.net/profiles2/249099/projects/856215/f64047de84590ed859c2e5dea99eb487.jpg)
+
+
+![](http://behance.vo.llnwd.net/profiles3/132401/projects/3032615/9b833c0cb945b1ec30096d9e7e85168e.jpg)
+
+
+## Asjad ja ruum
 
 http://kyee.co.uk/
+http://www.handmadefont.com/tape-white.php
+http://www.handmadefont.com/tape-black.php
+http://designblog.rietveldacademie.nl/?p=10411
+http://178.nl/trouwamsterdam/
+http://www.behance.net/gallery/Katz-und-Mous/7875441
 
 
 ![](http://behance.vo.llnwd.net/profiles2/221515/projects/8787661/2ee42d1359661370b1106271e476e5b0.jpg)
@@ -63,132 +74,37 @@ http://kyee.co.uk/
 ![](http://behance.vo.llnwd.net/profiles2/221515/projects/8787661/1ebce7eaa461997a42d2ec4fb2f47423.jpg)
 
 
-### Animation
+![](http://www.handmadefont.com/images/4/tape-white-preview.jpg)
 
-http://www.theclocksmiths.it/project/nerbo/
-http://www.behance.net/gallery/Pictograms/856215
-http://www.behance.net/gallery/johannesburg-zoo-pictograms/3032615
 
-@fix
+![](http://www.handmadefont.com/images/4/tape-white-poster.jpg)
 
 
-![](http://www.theclocksmiths.it/wp-content/uploads/2013/01/13.gif)
+![](http://www.handmadefont.com/images/10/tape-black-preview.jpg)
 
 
-![](http://www.theclocksmiths.it/wp-content/uploads/2013/01/26.gif)
+![](http://www.handmadefont.com/images/10/tape-black-poster.jpg)
 
 
-![](http://behance.vo.llnwd.net/profiles2/249099/projects/856215/df520b2e4b203512dde4b7e9a631b4b2.jpg)
+![](http://178.nl/wp-content/uploads/2009/04/trouwlogo1.jpg)
 
 
-![](http://behance.vo.llnwd.net/profiles2/249099/projects/856215/f64047de84590ed859c2e5dea99eb487.jpg)
+![](http://178.nl/wp-content/uploads/2009/04/trouwdozen2.jpg)
 
 
-![](http://behance.vo.llnwd.net/profiles3/132401/projects/3032615/9b833c0cb945b1ec30096d9e7e85168e.jpg)
+![](http://178.nl/wp-content/uploads/2009/04/tr_ingang.jpg)
 
 
-## Behanche-põhised galeriid
+![](http://behance.vo.llnwd.net/profiles26/2445479/projects/7875441/7c46aca2fe4b41650c8863ff457a6689.JPG)
 
-http://studentshow.com/
-http://portfolios.sva.edu/
 
+![](http://behance.vo.llnwd.net/profiles26/2445479/projects/7875441/003eeead044db9be186c988aca839267.JPG)
 
-## Päris-galerii veebis
 
-http://risd.gd/MFA/2013/
+![](http://behance.vo.llnwd.net/profiles26/2445479/projects/7875441/e878486a1dc50d3ff9fa4da1e13b266d.JPG)
 
 
-## Minimaalsed porfoliod
-
-http://levberry.com/
-
-http://pilth.com (Cargo Collective)
-
-http://thirdbestjenlee.com/
-
-http://www.timboelaars.nl/
-
-http://www.grantagold.com/
-
-http://strangelove.me/
-
-http://smear-graph.com/
-
-
-## Suured portfoliod
-
-http://portfolio.gregtscott.com/
-
-
-## Tarkvaraportfoliod
-
-http://sergioruiz.me/work/youzee/
-
-http://www.matcheck.cz/index.html
-
-http://www.isaacpvl.com/
-
-http://www.robbiemanson.com/
-
-
-## Animatsioon
-
-http://neueyorke.com
-
-http://abbyputinski.com
-
-http://baumbastisch.com/
-
-http://www.julienrenvoye.com/#page2
-
-http://johnjacob.ca/
-@bad
-
-
-## Horisontaalne kerimine
-
-http://smallstudio.com.au/
-
-
-## Vertikaalne kerimine
-
-http://whiteboard.is/work/
-http://www.teehanlax.com/story/globe-and-mail/
-
-
-## Eksprerimentaalne navigatsioon
-
-http://smartgc.com.ar/
-http://www.bleed.com
-http://www.stevenbonner.com/
-www.m1-design.de
-
-
-## Personaalne
-
-http://www.kendraschaefer.com/
-http://djnr.net/
-
-
-## Illustraatorid
-
-http://laurabarnard.co.uk/
-http://www.jessewillmon.com/
-
-
-## Kreisi
-
-http://www.edwardcarvalhomonaghan.co.uk/
-
-
-## Portfolio eimillestki
-
-http://martijnotter.nl
-
-
-## Dribble integratsioon
-
-http://kyee.co.uk/
+![](http://behance.vo.llnwd.net/profiles26/2445479/projects/7875441/87e25963917c26039084c3c983822d27.JPG)
 
 
 ## Ajaleht kui portfolio
@@ -227,19 +143,190 @@ http://www.behance.net/gallery/Alex-Mertekis-Portfolio-Newspaper/8328911
 ![](http://behance.vo.llnwd.net/profiles12/340931/projects/8328911/a8f9d5535371f14850c777674f799c87.jpg)
 
 
-## Kuidas tegime?
+### GIFid
+
+http://www.theclocksmiths.it/project/nerbo/
+http://www.behance.net/gallery/Pictograms/856215
+http://www.behance.net/gallery/johannesburg-zoo-pictograms/3032615
+http://www.happycentro.it/coolness-for-hohe-luft-magazine/
+
+@fix
+
+
+![](http://www.theclocksmiths.it/wp-content/uploads/2013/01/13.gif)
+
+
+![](http://www.theclocksmiths.it/wp-content/uploads/2013/01/26.gif)
+
+
+![](http://24.media.tumblr.com/0e6ede430f34f5588d5ce208878e03f2/tumblr_mpwl23kSC11s8nxoao1_250.gif)
+
+
+![](http://25.media.tumblr.com/f8e53ac99fff8a18ea854ac4a150d661/tumblr_mpsouoZlSI1s8nxoao1_250.gif)
+
+
+![](http://25.media.tumblr.com/ff56f5da0cf5df5daed54539fc342918/tumblr_mpse69NPoS1s8nxoao1_400.gif)
+
+
+![](http://www.happycentro.it/wp-content/uploads/2012/07/Hohe_Luft_Framed-Layers_866_2.gif)
+
+
+## Minimaalsed porfoliod
+
+http://levberry.com/
+
+http://pilth.com (Cargo Collective)
+
+http://www.grantagold.com/
+
+http://www.timboelaars.nl/
+
+http://thirdbestjenlee.com/
+
+http://smear-graph.com/
+
+http://strangelove.me/
+
+
+## Illustraatorid
+
+http://laurabarnard.co.uk
+
+http://www.jessewillmon.com
+
+
+## Kreisi
+
+http://www.edwardcarvalhomonaghan.co.uk/
+
+
+## Personaalne
+
+http://www.kendraschaefer.com
+
+http://djnr.net/
+
+
+## Tarkvaraportfoliod
+
+http://sergioruiz.me/work/youzee/
+
+http://www.matcheck.cz/index.html
+
+http://www.robbiemanson.com/
+
+
+## Animatsioon
+
+http://www.isaacpvl.com/
+
+http://baumbastisch.com/
+
+http://www.julienrenvoye.com/#page2
+
+http://abbyputinski.com
+
+http://johnjacob.ca
+
+
+## Horisontaalne kerimine
+
+http://smallstudio.com.au
+
+
+## Vertikaalne kerimine
+
+http://whiteboard.is/work/
+http://www.teehanlax.com/story/globe-and-mail/
+
+
+## Eksperimentaalne navigatsioon
+
+http://smartgc.com.ar/
+http://www.bleed.com
+http://www.stevenbonner.com/
+www.m1-design.de
+
+
+## Portfolio eimillestki
+
+http://martijnotter.nl
+
+
+## Behanche-põhised galeriid
+
+http://studentshow.com/
+http://portfolios.sva.edu/
+
+
+## Päris-galerii veebis
+
+http://risd.gd/MFA/2013/
+
+
+## Dribble integratsioon
+
+http://kyee.co.uk/
+
+
+## Making of
+
+https://seanwes.com/category/lettering/
+
+
+![](https://seanwes.com/wp-content/uploads/2013/06/simple-sketch.jpg)
+
+
+![](http://seanwes.com/wp-content/uploads/2012/12/learn-hand-lettering-step2.jpg)
+
+
+![](http://seanwes.com/wp-content/uploads/2012/12/learn-hand-lettering-step3.jpg)
+
+
+![](http://seanwes.com/wp-content/uploads/2012/12/learn-hand-lettering-step4.jpg)
+
+
+![](http://seanwes.com/wp-content/uploads/2012/12/learn-hand-lettering-step5.jpg)
+
+
+![](http://seanwes.com/wp-content/uploads/2012/12/learn-hand-lettering-step6.jpg)
+
+
+![](http://seanwes.com/wp-content/uploads/2012/12/learn-hand-lettering-step7.jpg)
+
+
+![](http://seanwes.com/wp-content/uploads/2012/12/learn-hand-lettering-step8.jpg)
+
+
+![](http://seanwes.com/wp-content/uploads/2012/12/learn-hand-lettering-step9.jpg)
+
+
+![](http://seanwes.com/wp-content/uploads/2012/12/learn-hand-lettering-step10.jpg)
+
+
+![](https://seanwes.com/wp-content/uploads/2012/12/life-isnt-about-avoiding-risks-colored.jpg)
+
+
+http://www.design-engineering.ee/project-gallery.html
 
 http://www.softfacade.com/work/iconfinder/
+
 http://www.teehanlax.com/story/medium/
 
 
-## Muu
+## Eesti
+
+http://zilmer.com/
+http://mikkolli.com/blog/
+
+
+# Taustamaterjal
+
+
+## Artiklid
 
 http://www.smashingmagazine.com/portfolio-web-design-showcases/
 http://www.smashingmagazine.com/2013/06/25/workflow-design-develop-modern-portfolio-website/
-
-
-## Howto
 
 http://www.slideshare.net/carlyhagins/industrial-design-portfolio-tips
 http://psd.tutsplus.com/articles/techniques/preparing-and-talking-about-your-graphic-design-portfolio/
@@ -247,13 +334,10 @@ http://www.creativebloq.com/create-perfect-design-portfolio-111153
 http://www.ut.ee/lykka/orb.aw/class=file/action=preview/id=253462/Portfoolio+kui+hindamisvahend.pdf
 
 
-## Eesti
-
-http://mikkolli.com/blog/
-http://www.design-engineering.ee/project-gallery.html
-
-
 ## Töövahendid
+
+https://speakerdeck.com/
+http://noteandpoint.com/
 
 http://tumblr.com + http://hasaportfolio.com/
 http://dribble.com
