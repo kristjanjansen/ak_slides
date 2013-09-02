@@ -45,6 +45,14 @@ http://www.behance.net/gallery/Youd-say-Im-a-geek/3142722
 ![](http://behance.vo.llnwd.net/profiles26/935718/projects/3142722/d2e3fa1d4e7de9c07bb8d2666e72e23b.jpg)
 
 
+### My life on a timeline
+
+Data: personal mapping
+Tool: http://timeline.verite.co/
+
+Using a simple spreadsheet to generate a timeline of my life so far.
+
+
 ### My Estonia
 
 Data: personal mapping
