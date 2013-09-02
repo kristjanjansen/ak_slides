@@ -27,7 +27,7 @@ function renderSlides(ctx, next) {
     
     var content = marked(data, {breaks: true})
       .replace(/href/g, 'target="_blank" href')
-              
+// /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/              
     $('.wrapper').html(
       Mustache.render($('#slides').html(), {slide: ctx.params.slide, content: content})    
     )
