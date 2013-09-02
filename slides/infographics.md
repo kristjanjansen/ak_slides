@@ -107,10 +107,18 @@ http://www.aif.ru/food/infographic
 ![](http://static4.aif.ru/pictures/201306/fruitsalat-infogr-upd.jpg)
 
 
-### Music visualization
+## Visualization + textiles
+
+
+### Music
 
 http://badassjs.com/post/41708259332/teoria-a-javascript-music-theory-library-for-working
 http://www.youtube.com/watch?v=IaEJgdtDVFY
+
+
+### Patterns
+
+http://www.mortenclaussen.com/cases/tree/
 
 
 ## Possible visits / partners

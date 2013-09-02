@@ -14,3 +14,9 @@ http://walyou.com/optical-illusion-led-watch-hides-the-time-from-you/
 http://www.tokyoflash.com/en/watches/1/
 
 http://blog.tokyoflash.com/
+
+
+# Mäng
+
+http://androidarts.com/pixtut/pixelart.htm
+http://androidarts.com/metafight/metafight2.htm

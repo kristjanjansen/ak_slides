@@ -12,6 +12,12 @@ http://www.thinkingwithtype.com/
 
 http://design.codeschool.com/levels/1
 
+http://blog.typekit.com/2013/08/14/understanding-letters/
+
+### Linotype
+
+http://www.youtube.com/watch?v=6wHiddZOfa8
+
 
 ### Classification
 
