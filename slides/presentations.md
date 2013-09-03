@@ -194,6 +194,8 @@ http://laurabarnard.co.uk
 
 http://www.jessewillmon.com
 
+http://www.teoskaffa.com/
+
 
 ## Kreisi
 
@@ -202,9 +204,16 @@ http://www.edwardcarvalhomonaghan.co.uk/
 
 ## Personaalne
 
+http://alldaycreative.co.uk/
+
 http://www.kendraschaefer.com
 
 http://djnr.net/
+
+
+## Suur pilt
+
+http://www.valeriephillips.com/
 
 
 ## Tarkvaraportfoliod
@@ -246,6 +255,12 @@ http://smartgc.com.ar/
 http://www.bleed.com
 http://www.stevenbonner.com/
 www.m1-design.de
+http://www.hellomonday.com/
+http://mnatwork.com/#/?state=0
+
+## Oho, Flash
+
+http://thetoke.com/#/works/
 
 
 ## Portfolio eimillestki
