@@ -119,3 +119,6 @@ img {
   vertical-align: middle;
   display: table-cell;
 }
+#impress img {
+  min-width: 90%;
+}
