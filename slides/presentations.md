@@ -6,14 +6,14 @@
 
 ### Arial vs Helvetica
 
-http://www.fonts.com/content/learning/fyti/typefaces/arial-vs-helvetica
 http://www.typegoodness.com/2009/10/helvetica-vs-arial/
-
-
-![](http://cdncms.fonts.net/images/a9d1c92c88fb7122/ArialvsHelvetica.jpg)
+http://www.fonts.com/content/learning/fyti/typefaces/arial-vs-helvetica
 
 
 ![](http://www.typegoodness.com/wp-content/uploads/2009/10/helvetica_vs_arial_1-643x414.jpg)
+
+
+![](http://cdncms.fonts.net/images/a9d1c92c88fb7122/ArialvsHelvetica.jpg)
 
 
 ### Manhattan
