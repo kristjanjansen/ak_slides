@@ -1,8 +1,50 @@
 # Esitlustehnikad ja portfoolio
 
+## 6. päev
+12. sept
 
-## 2. tund: wayfinding jätkub
+### Pikselkellad
 
+http://www.alibaba.com/product-gs/620125303/dot_matrix_display_digital_alarm_led.html
+
+
+![](http://i01.i.aliimg.com/img/pb/115/828/348/348828115_708.jpg)
+
+
+![](http://i01.i.aliimg.com/img/pb/855/834/348/348834855_258.jpg)
+
+
+http://walyou.com/optical-illusion-led-watch-hides-the-time-from-you/
+
+http://www.tokyoflash.com/en/watches/1/
+
+http://blog.tokyoflash.com/
+
+
+## 5. päev
+11. sept (vahetatud Meritiga 9 pealt)
+karinat, kasparit polnud, sander poole pealt minema
+
+- matrix
+- anni jape kanalisatsioonikaevude pildistamine
+
+
+## 4. päev post-ekskursioon II
+
+6. sept
+karinat, sanderit, kasparit polnud
+
+õpetaja portfoolio analüüs
+siltide analüüs
+
+
+## 3. päev: post-ekskursioon I
+
+5. sept
+kasparit polnud. karina?
+
+persolnaalne kaart
+parimad fotod
 
 ### Arial vs Helvetica
 
@@ -14,6 +56,9 @@ http://www.fonts.com/content/learning/fyti/typefaces/arial-vs-helvetica
 
 
 ![](http://cdncms.fonts.net/images/a9d1c92c88fb7122/ArialvsHelvetica.jpg)
+
+
+http://arialvshelvetica.com/
 
 
 ### Manhattan
@@ -428,11 +473,11 @@ http://www.behance.net/gallery/Plitvice-Valleys/5357879
 ![](http://behance.vo.llnwd.net/profiles22/960171/projects/5357879/1efec7d48ddf3f1d3e0f78c740007f2c.jpg)
 
 
-## 2. tund: linnaekskursioon: typo ja wayfinding
+## 2. päev: linnaekskursioon: typo ja wayfinding
 4\. sept 2013, kõik kohal
 
 
-## 1. tund: sissejuhatus portfooliotesse
+## 1. päev: sissejuhatus portfooliotesse
 3\. sept 2013, kõik kohal
 
 
