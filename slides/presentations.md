@@ -1,27 +1,42 @@
 # Esitlustehnikad ja portfoolio
 
-## 6. päev
+## 7. päev
+16. sept
+https://vimeo.com/60169112
+
+
+## 6. päev Matrix II + mäng
 12. sept
+karinat, kasparit polnud
 
-### Pikselkellad
+- Fondianalüüs jätkub, kambas ka TG12
 
-http://www.alibaba.com/product-gs/620125303/dot_matrix_display_digital_alarm_led.html
+### Classic
+
+http://spelunkyworld.com/whatis.html
+http://www.frogatto.com/screenshots
+http://www.towerfall-game.com/
+http://www.konjak.org/index.php?folder=4&file=30
+http://supertimeforce.com/
+http://www.chasmgame.com/
+http://owlboygame.com/
+
+### Eerie
+
+http://closuregame.com/
+http://limbogame.org/media/
+
+### Modern
+
+http://www.alientrap.org/games/apotheon
+http://www.pidgame.com/index.php?page=images
+http://polytroncorporation.com/what-is-fez
+http://rain-games.com/
+http://guacamelee.com/
 
 
-![](http://i01.i.aliimg.com/img/pb/115/828/348/348828115_708.jpg)
 
-
-![](http://i01.i.aliimg.com/img/pb/855/834/348/348834855_258.jpg)
-
-
-http://walyou.com/optical-illusion-led-watch-hides-the-time-from-you/
-
-http://www.tokyoflash.com/en/watches/1/
-
-http://blog.tokyoflash.com/
-
-
-## 5. päev
+## 5. päev Matrix I
 11. sept (vahetatud Meritiga 9 pealt)
 karinat, kasparit polnud, sander poole pealt minema
 

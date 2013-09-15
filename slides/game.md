@@ -1,5 +1,8 @@
 # Game
 
+## Wreck-it Ralph
+
+http://www.youtube.com/watch?v=Oa29hXe8NnU
 
 ## Level design
 
@@ -46,30 +49,6 @@ http://www.renegadekid.com/mutantmudds_MEDIA.htm (incl music)
 
 http://thelettervsixtim.es/index.html
 
-### Classic
-
-http://spelunkyworld.com/whatis.html
-http://www.frogatto.com/screenshots
-http://www.towerfall-game.com/
-http://www.konjak.org/index.php?folder=4&file=30
-http://owlboygame.com/
-http://supertimeforce.com/
-http://www.chasmgame.com/
-
-
-### Eerie
-
-http://closuregame.com/
-Limbo
-
-
-### Modern
-
-http://www.alientrap.org/games/apotheon
-http://www.pidgame.com/index.php?page=images
-http://polytroncorporation.com/what-is-fez
-http://rain-games.com/
-http://guacamelee.com/
 
 ## Reference
 
