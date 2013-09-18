@@ -1,5 +1,35 @@
 # Esitlustehnikad ja portfoolio
 
+## 8. päev
+
+## Color design
+
+http://kiwinuptuo.deviantart.com/art/Pixel-Art-Tutorial-Colors-184802567
+
+
+## Character design
+
+http://www.pixeljoint.com/forum/forum_posts.asp?TID=11299
+http://androidarts.com/pixtut/pixelart.htm
+http://androidarts.com/metafight/metafight2.htm
+
+### Level design
+
+http://vgmaps.com/
+http://kayin.pyoko.org/?p=494
+http://phoffstein.wordpress.com/essays/platformer-level-design/
+http://devmag.org.za/2011/07/04/how-to-design-levels-for-a-platformer/
+http://www.significant-bits.com/super-mario-bros-3-level-design-lessons
+http://www.significant-bits.com/super-mario-bros-3-level-design-lessons-part-2
+http://petermcclory.com/ (concept)
+
+## Tile design
+
+http://www.terrariaonline.com/threads/pixel-lanterns-guides-to-spriting.62962/page-5#post-1340248
+http://www.terrariaonline.com/threads/pixel-lanterns-guides-to-spriting.62962/#post-1193213
+http://nanogames.net/portfolio/tilemaps.html
+
+
 ## 7. päev
 16. sept
 https://vimeo.com/60169112
