@@ -1,4 +1,4 @@
-presentations.md
+mk11.md
 infographics.md
 pictogram-history.md
 pictogram-creating.md
@@ -6,5 +6,4 @@ pictogram-stories.md
 pictogram-wayfinding.md
 typo-reference.md
 typo-creating.md
-game.md
 kasutajaliidesed_2012.md
