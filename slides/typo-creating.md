@@ -428,7 +428,11 @@ http://aku.co/kahvliahvid/
 
 ![](http://24.media.tumblr.com/bc5b984d47f8dd143664d1a157bf700c/tumblr_mmlhasTZfV1sqanmmo2_1280.png)
 
+
 ![](http://behance.vo.llnwd.net/profiles8/685058/projects/7858903/4f79a4e27d4830993314543589f5c120.jpg)
+
+
+![](http://aku.co/kahvliahvid/images/1.jpg)
 
 
 ### Tape
