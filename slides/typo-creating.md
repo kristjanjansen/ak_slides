@@ -482,11 +482,26 @@ http://www.typographyserved.com/gallery/dinner-dishes/7782035
 
 http://www.behance.net/gallery/Present-imperfect/7174035
 
+http://www.dezeen.com/2013/10/01/hair-typography-by-monique-goossens/
+
 
 ![](http://behance.vo.llnwd.net/profiles18/2217303/projects/7174035/6fa8fb79e8d91d1b17902b03f5527b2c.jpg)
 
 
 ![](http://behance.vo.llnwd.net/profiles18/2217303/projects/7174035/954bea4d27c41bf1e0729aabf6c62557.jpg)
+
+
+![](http://static.dezeen.com/uploads/2013/09/dezeen_Hair-Typography_sq.jpg)
+
+
+![](http://static.dezeen.com/uploads/2013/09/dezeen_Hair-Typography_2.jpg)
+
+
+![](http://static.dezeen.com/uploads/2013/09/dezeen_Hair-Typography_7.jpg)
+
+
+![](http://static.dezeen.com/uploads/2013/09/dezeen_Hair-Typography_6.jpg)
+
 
 
 ### Drill and stencil
