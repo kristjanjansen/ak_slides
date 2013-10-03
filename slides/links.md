@@ -1,5 +1,9 @@
 # Links
 
+## Tablets
+
+http://www.geniusnet.com/wSite/ct?xItem=16834&ctNode=174
+
 
 ### Previous course
 
@@ -649,3 +653,23 @@ http://www.tokyoflash.com/en/watches/1/
 
 http://blog.tokyoflash.com/
 
+## Typo
+
+### Posters
+
+http://www.etsy.com/uk/shop/dirtybandits?section_id=13578389
+
+
+![](http://25.media.tumblr.com/3eb7b0b635d24d2f8e1ff3362c36c601/tumblr_mpgqg7E83e1qzwuhxo1_1280.jpg)
+
+
+![](http://24.media.tumblr.com/27312aba2f21fffa73db8c0d79796467/tumblr_mpgqg7E83e1qzwuhxo8_1280.jpg)
+
+
+![](http://24.media.tumblr.com/1d9714261abda84703d852e7fee241cf/tumblr_mpgqg7E83e1qzwuhxo4_1280.jpg)
+
+
+http://www.behance.net/gallery/Signage-for-Idep-Barcelona/9491637
+
+@expand
+@wayfinding

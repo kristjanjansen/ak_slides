@@ -1,22 +1,22 @@
 # Typography reference
 
 
-## Type theory
+## Online courses
 
 
-### Type basics
+### Theory
 
 http://practicaltypography.com/
 
 http://www.thinkingwithtype.com/
 
+
+### Exercises
+
 http://design.codeschool.com/levels/1
 
-http://blog.typekit.com/2013/08/14/understanding-letters/
 
-### Linotype
-
-http://www.youtube.com/watch?v=6wHiddZOfa8
+## Key issues
 
 
 ### Classification
@@ -33,6 +33,15 @@ http://www.behance.net/gallery/So-You-Need-A-Typeface/486723
 http://blog.typekit.com/2011/03/17/type-study-typographic-hierarchy/
 
 
+### Readability and legibility
+
+http://blog.typekit.com/2013/08/14/understanding-letters/
+
+http://opentype.info/blog/2011/04/25/the-onion-layer-model-of-legibility/
+
+http://opentype.info/blog/2011/06/14/how-do-we-read-words-and-how-should-we-set-them/
+
+
 ### Pairing
 
 http://blog.typekit.com/2012/05/23/type-study-pairing-typefaces/
@@ -43,34 +52,14 @@ http://blog.typekit.com/2012/05/23/type-study-pairing-typefaces/
 http://opentype.info/blog/2012/11/20/whats-a-ligature/
 
 
-### Legibility
+## Type history
 
-http://opentype.info/blog/2011/04/25/the-onion-layer-model-of-legibility/
+### Linotype video
 
-http://opentype.info/blog/2011/06/14/how-do-we-read-words-and-how-should-we-set-them/
+http://www.youtube.com/watch?v=6wHiddZOfa8
 
 
 ## Typo usage
-
-
-### Posters
-
-http://www.etsy.com/uk/shop/dirtybandits?section_id=13578389
-
-
-![](http://25.media.tumblr.com/3eb7b0b635d24d2f8e1ff3362c36c601/tumblr_mpgqg7E83e1qzwuhxo1_1280.jpg)
-
-
-![](http://24.media.tumblr.com/27312aba2f21fffa73db8c0d79796467/tumblr_mpgqg7E83e1qzwuhxo8_1280.jpg)
-
-
-![](http://24.media.tumblr.com/1d9714261abda84703d852e7fee241cf/tumblr_mpgqg7E83e1qzwuhxo4_1280.jpg)
-
-
-http://www.behance.net/gallery/Signage-for-Idep-Barcelona/9491637
-
-@expand
-@wayfinding
 
 
 ### Menus
