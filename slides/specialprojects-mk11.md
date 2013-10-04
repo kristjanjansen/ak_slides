@@ -1,12 +1,12 @@
 # Special projects + Esitlustehnikad ja portfoolio
 
 
-# 14. päev - kursuse kokkuvõte
+## 14. päev - kursuse kokkuvõte
 
 http://www.flickr.com/groups/japanese_manhole_covers/
 
 
-# 13. päev - mängu kokkuvõte
+## 13. päev - mängu kokkuvõte
 N 3. okt
 kasparit, karinat, lizat polnud
 
