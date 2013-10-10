@@ -7,10 +7,10 @@ function renderIndex(ctx, next) {
   
   $('body').removeAttr('class').removeAttr('style')
   
-  $.get('/slides/_index.txt', function(data) {
+  $.get('/slides/index.md', function(data) {
 
     $('.wrapper').html(
-      Mustache.render($('#index').html(), {index: data.split('\n')})
+      Mustache.render($('#index').html(), {content: marked(data, {breaks: true})})
     )
 
   }, 'text')
