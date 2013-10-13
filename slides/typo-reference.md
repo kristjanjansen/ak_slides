@@ -180,7 +180,7 @@ http://www.baubauhaus.com/
 http://www.marksimonson.com/notebook/view/typecasting
 
 http://www.artofthetitle.com/
-
+ 
 
 ### Inspiration galleries
 
@@ -299,3 +299,7 @@ https://www.artspan.com/images/other_member_pics/dbeckermfa/_Tyography_Syllabus.
 http://www.nobledesktop.com/typography/
 
 http://ects.bilgi.edu.tr/en/AkademikProgramlar/Pages/Programlar/course.aspx?CourseId=VCD%20222&programID=35&fakulte=3&type=Lisans
+
+### Web type refactoring
+
+http://robots.thoughtbot.com/post/63080521162/a-typographic-refactoring

@@ -3,10 +3,10 @@
 [Tüpograafia: jooksev kursus](typo-current.md)
 [Tüpograafia: Viited](typo-reference.md)
 [Tüpograafia: Kirja loomine](typo-creating.md)
+[Infographics](infographics.md)
 
 ## Tulevased kursused
 
-[Infographics](infographics.md)
 [Pictograms: History](pictogram-history.md)
 [Pictograms: Creating](pictogram-creating.md)
 [Pictograms: Stories](pictogram-stories.md)
