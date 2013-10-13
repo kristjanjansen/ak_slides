@@ -6,6 +6,7 @@
 
 ### Vali kolm tööd
 
+
 1\. http://designspiration.net/tag/typography/
 
 2\. http://friendsoftype.com/
@@ -26,13 +27,16 @@
 
 10\. http://typography-daily.com
 
+
 ### Fondiotsing
+
 
 http://www.identifont.com/find-font.html
 
 http://www.myfonts.com/search/
 
 http://typedia.com/search
+
 
 ## 3.-4. tund: Kudjape
 9. okt (10. okt jätsime ära)
