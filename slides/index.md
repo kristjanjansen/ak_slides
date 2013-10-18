@@ -3,6 +3,7 @@
 [Tüpograafia: jooksev kursus](typo-current.md)
 [Tüpograafia: Viited](typo-reference.md)
 [Tüpograafia: Kirja loomine](typo-creating.md)
+[Tüpograafia: Inspiratsioon](typo-inspiration.md)
 [Infographics](infographics.md)
 
 ## Tulevased kursused

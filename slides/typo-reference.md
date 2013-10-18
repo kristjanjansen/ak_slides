@@ -65,7 +65,8 @@ http://www.youtube.com/watch?v=6wHiddZOfa8
 ### Menus
 
 http://www.underconsideration.com/artofthemenu/
-
+http://arrangealign.tumblr.com/post/64315150774
+@expand
 
 ![](http://www.underconsideration.com/artofthemenu/project_images/chez_lionel_PHOTO_01.jpg)
 
@@ -184,23 +185,37 @@ http://www.artofthetitle.com/
 
 ### Inspiration galleries
 
+#### New
+
+From https://news.layervault.com/stories/8846-ask-dn-favorite-typography-blogs
+
+http://typostrate.com/
+
+
+#### Behance
+
+http://www.typographyserved.com/
+
+http://www.behance.net/search?search=typography
+
+#### Other
+
 http://designspiration.net/tag/typography/
 
 http://friendsoftype.com/
 
-http://www.typographyserved.com/
-
-http://typeverything.com/
-
-http://www.typographicposters.com
-
-https://www.facebook.com/handmadefont
-
-http://www.tumblr.com/tagged/typography
-
-http://trendgraphy.tumblr.com/tagged/typography
-
 http://clasebcn.tumblr.com/
+
+http://dribbble.com/search?q=typography
+
+http://www.swiss-miss.com/fonts
+
+http://designspiration.net/tag/typography/
+{
+  title: 'Beautiful Type',
+  url: 'http://beautifultype.net',
+  rss: 'http://feeds.feedburner.com/BeautifulType'
+},
 
 
 ### Found type galleries
@@ -219,6 +234,7 @@ http://www.flickr.com/groups/foundtype/
 
 http://www.flickr.com/photos/id29/sets/72157634396874320/
 
+http://typehunting.com/
 
 ### Books
 
@@ -299,6 +315,7 @@ https://www.artspan.com/images/other_member_pics/dbeckermfa/_Tyography_Syllabus.
 http://www.nobledesktop.com/typography/
 
 http://ects.bilgi.edu.tr/en/AkademikProgramlar/Pages/Programlar/course.aspx?CourseId=VCD%20222&programID=35&fakulte=3&type=Lisans
+
 
 ### Web type refactoring
 

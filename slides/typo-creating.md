@@ -176,6 +176,11 @@ https://vimeo.com/63155303
 ## Unusual materials
 
 
+### Typewriter
+
+http://creativereview.co.uk/cr-blog/2013/october/travelogue
+
+
 ### Paper
 
 http://www.happycentro.it/coolness-for-hohe-luft-magazine/

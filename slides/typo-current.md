@@ -4,28 +4,6 @@
 14.okt
 
 
-### Vali kolm tööd
-
-
-1\. http://designspiration.net/tag/typography/
-
-2\. http://friendsoftype.com/
-
-3\. http://www.typographyserved.com/
-
-4\. http://typeverything.com/
-
-5\. http://www.typographicposters.com/
-
-6\. http://clasebcn.tumblr.com/
-
-7\. http://www.behance.net/search?search=typography
-
-8\. http://dribbble.com/search?q=typography
-
-9\. http://www.swiss-miss.com/fonts
-
-10\. http://typography-daily.com
 
 
 ### Fondiotsing
