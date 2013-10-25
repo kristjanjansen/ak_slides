@@ -1,6 +1,6 @@
 ## Kaido
 
-![](http://24.media.tumblr.com/a110e2110c8b497306a9c1120aaa9f1e/tumblr_mv06564peL1qkxrtro1_500.jpg\)
+![](http://24.media.tumblr.com/a110e2110c8b497306a9c1120aaa9f1e/tumblr_mv06564peL1qkxrtro1_500.jpg)
 
 
 ![](http://25.media.tumblr.com/b95992b4ae409d47adeb47160e69870e/tumblr_mv2vt7ORXL1qfoihvo5_500.jpg)
@@ -16,7 +16,6 @@
 
 
 ## Martin
-
 
 ![](http://typography-daily.com/wp-content/uploads/2013/10/fontwalk-4.jpg)
 
