@@ -26,11 +26,6 @@
 ![](http://24.media.tumblr.com/4bf4062592af322bbe5860db2e26a786/tumblr_mupvpwquDR1s2la0do1_500.jpg)
 
 
-![](http://24.media.tumblr.com/341af58818961882b95a777853c6dc29/tumblr_muuk34tLaW1qh0381o1_500.jpg)
-
-
-![](http://typography-daily.com/wp-content/uploads/2013/10/125547.png)
-
 ## Maris
 
 
