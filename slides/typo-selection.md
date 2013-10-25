@@ -91,15 +91,15 @@
 ## Karl
 
 
-![](http://25.media.tumblr.com/6179fc5cc3d603ec3f7cc1e67a5987d5/tumblr_mv065ggx0J1qkxrtro1_500.jpg\)
+![](http://25.media.tumblr.com/6179fc5cc3d603ec3f7cc1e67a5987d5/tumblr_mv065ggx0J1qkxrtro1_500.jpg)
 
 
-![](http://25.media.tumblr.com/998953f144fd7d95ebdd5771cfc5fd2c/tumblr_mv52huILKh1qfoihvo5_500.jpg\)
+![](http://25.media.tumblr.com/998953f144fd7d95ebdd5771cfc5fd2c/tumblr_mv52huILKh1qfoihvo5_500.jpg)
 
- 		![](http://25.media.tumblr.com/228d486cf21896a75ec0666903dc323e/tumblr_mv4y4cIkgC1qh0381o1_500.jpg\)
-
-
-![](http://25.media.tumblr.com/19f452b65bd1da0cdaa8ce15e925e101/tumblr_mv52huILKh1qfoihvo3_500.jpg\)
+ 		![](http://25.media.tumblr.com/228d486cf21896a75ec0666903dc323e/tumblr_mv4y4cIkgC1qh0381o1_500.jpg)
 
 
-![](http://25.media.tumblr.com/92fe2ec8982262e7df393628f86ef979/tumblr_mv1yl0z9UE1qkxrtro1_500.png\)
+![](http://25.media.tumblr.com/19f452b65bd1da0cdaa8ce15e925e101/tumblr_mv52huILKh1qfoihvo3_500.jpg)
+
+
+![](http://25.media.tumblr.com/92fe2ec8982262e7df393628f86ef979/tumblr_mv1yl0z9UE1qkxrtro1_500.png)
