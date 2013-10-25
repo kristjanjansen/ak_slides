@@ -4,7 +4,6 @@
 [Tüpograafia: Viited](typo-reference.md)
 [Tüpograafia: Kirja loomine](typo-creating.md)
 [Tüpograafia: Inspiratsioon](typo-inspiration.md)
-[Tüpograafia: MK13 valik](typo-selection.md)
 [Infographics](infographics.md)
 
 ## Tulevased kursused
