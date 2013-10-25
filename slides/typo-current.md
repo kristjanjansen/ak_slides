@@ -157,4 +157,4 @@ http://www.flickr.com/photos/anjens/sets/72157604302963951/
 
 
 ## 1. tund: ajalugu
-7. okt
+7. okt, Oliver
