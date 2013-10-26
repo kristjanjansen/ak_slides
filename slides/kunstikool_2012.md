@@ -21,9 +21,6 @@ https://www.dropbox.com/sh/io2hhvio0dobrhv/_kQw3xJQ-u
 ![](http://www.bpl.org/compass/files/2013/01/wayfinding-centralsignage2.jpg)
 
 
-![](http://librarylab.law.harvard.edu/librarytestkitchen/wp-content/uploads/2012/09/pablo_wayfinding.jpeg)
-
-
 ![](http://farm3.staticflickr.com/2513/3881542163_86b9784fbd.jpg)
 
 

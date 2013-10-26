@@ -17,6 +17,10 @@
 
 ## Tulevased kursused
 
+### Näitusedisain + Noor Meister
+
+[Viited](exibithion.md)
+
 ### Piktograafia
 
 [History](pictogram-history.md)
