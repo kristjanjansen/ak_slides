@@ -11,6 +11,9 @@ http://www.alexrobbins.co.uk/type/pacific-standard/
 http://foodtypography.com/
 http://aku.co/kahvliahvid/
 
+http://www.thisiscolossal.com/2012/01/edible-gelatin-typography/
+
+@expand
 
 ![](http://behance.vo.llnwd.net/profiles8/685058/projects/7858903/4f79a4e27d4830993314543589f5c120.jpg)
 

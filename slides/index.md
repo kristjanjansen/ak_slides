@@ -8,12 +8,12 @@
 [Kirja kasutamine](typo-usage.md)
 [Kirja loomine](typo-creating.md)
 [Toidukiri](typo-food.md)
-[Tahvlikirikiri](typo-blackboard.md)
-[Viited](typo-reference.md)
+[Tahvlikiri](typo-blackboard.md)
+[Muud lingid](typo-reference.md)
 
 ### Infograafika
 
-[Viited](infographics.md)
+[Lingid](infographics.md)
 
 ## Tulevased kursused
 

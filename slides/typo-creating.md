@@ -70,6 +70,10 @@ http://pinterest.com/pin/42925002671694758/
 http://www.behance.net/gallery/Kumon-Foundation-Sports-Day-Identities/8140227
 http://www.p-06-atelier.pt/2010/sacred-art-museum--environmental/
 
+http://www.thisiscolossal.com/2011/05/bitmap-television-alphabet/
+
+@expand
+
 
 ![](http://enviromeant.com/wp-content/uploads/2011/11/jwt_02.jpg)
 
@@ -162,6 +166,13 @@ https://vimeo.com/63155303
 ![](http://25.media.tumblr.com/ff56f5da0cf5df5daed54539fc342918/tumblr_mpse69NPoS1s8nxoao1_400.gif)
 
 
+## Anamorphic
+
+http://www.thisiscolossal.com/2011/06/anamorphic-typography/
+
+@expand
+
+
 ## Unusual materials
 
 
@@ -169,6 +180,11 @@ https://vimeo.com/63155303
 
 http://creativereview.co.uk/cr-blog/2013/october/travelogue
 
+### Books
+
+http://www.thisiscolossal.com/2011/05/visual-alphabet-with-books/
+
+@expand
 
 ### Paper
 
@@ -181,7 +197,9 @@ http://www.inspirefirst.com/2012/09/24/typography-lover-pablo-alfieri/
 http://www.alexrobbins.co.uk/type/wired/
 http://www.alexrobbins.co.uk/type/play/
 
+http://www.thisiscolossal.com/2011/06/new-paper-cut-typography-from-bianca-chang/
 
+@expand
 ![](http://www.happycentro.it/wp-content/uploads/2012/07/Making_Coolness_430-7542.jpg)
 
 
@@ -219,6 +237,7 @@ http://www.alexrobbins.co.uk/type/play/
 
 
 ![](http://www.alexrobbins.co.uk/files/gimgs/123_23fragile1.jpg)
+
 
 
 ### Toothpaste
@@ -260,10 +279,41 @@ http://www.behance.net/gallery/Ravensbourne-Wayfinding-Proposal/253021
 @expand
 
 
+### Rubber
+
+http://www.thisiscolossal.com/2011/06/elastic-font/
+
+@expand
+
+http://www.thisiscolossal.com/2011/04/rubber-band-typography/
+
+@expand
+
+
+### Cigarretes
+
+http://www.thisiscolossal.com/2011/03/cigarette-pack-alphabet/
+
+@expand
+
+### Tootpicks
+
+http://www.thisiscolossal.com/2011/04/toothpick-typography/
+
+@expand
+
 ### Wood & plywood
 
 http://www.behance.net/gallery/Wooden-letters/5107323
 http://www.dailybri.com/2013/05/22/wood-letters-by-we-archdesign/
+
+http://www.thisiscolossal.com/2011/06/block-type-experiment/
+
+@expand
+
+http://www.thisiscolossal.com/2011/06/a-modular-typographical-bookcase-by-saporiti/
+
+@expand
 
 
 ![](http://behance.vo.llnwd.net/profiles11/1576753/projects/5107323/14baf02c705ea5ad3ee3f2682a2f7abc.jpg)
@@ -333,6 +383,11 @@ http://www.typeculture.com/academic_resource/education_extras/letterform_project
 
 ![](http://behance.vo.llnwd.net/profiles15/1047237/projects/8036551/995e8f603aa27dd818ed85a077f49b92.jpg)
 
+### Magnets
+
+http://www.thisiscolossal.com/2011/10/magnetic-type/
+
+@expand
 
 ### Tools
 
@@ -342,6 +397,11 @@ http://mashable.com/2011/11/17/free-font-creation-tools/
 
 http://www.typographyserved.com/gallery/handcrafted-type/8036551
 http://www.typographyserved.com/gallery/MECHANICAL-TYPOGRAPHY-/7436587
+
+
+http://www.thisiscolossal.com/2012/04/knife-typography/
+
+@expand
 
 
 ![](http://behance.vo.llnwd.net/profiles15/1047237/projects/8036551/92196870f17b33c6eb806f6317ae2461.jpg)
@@ -379,6 +439,10 @@ http://designblog.rietveldacademie.nl/?p=10411
 
 http://typeverything.com/post/43659268247/typeverything-com-hi-by-tuesdaychild
 http://www.typographyserved.com/gallery/dinner-dishes/7782035
+
+http://www.thisiscolossal.com/2011/09/we-are-all-part-of-the-same-thing/
+
+@expand
 
 
 ![](http://25.media.tumblr.com/2201cf7db8274f17d4a3c3067be85406/tumblr_mil4g8hx711qh0381o1_500.jpg)
@@ -512,11 +576,20 @@ http://www.handmadefont.com/shop/
 ![](http://www.handmadefont.com/wp-content/uploads/2013/06/fashion-ribbon-font-letter_B.png)
 
 
+## Fence
+
+http://www.thisiscolossal.com/2011/04/wild-at-heart-masking-tape-typography/
+
+@expand
+
 ## Pencils
 
 http://pinterest.com/pin/18718154674215333/
 http://pinterest.com/pin/18718154673650400/
 
+http://www.thisiscolossal.com/2011/05/good-design-lasts/
+
+@expand   
 
 ![](http://media-cache-ec0.pinimg.com/736x/fb/01/90/fb01907147dfc3c65800704d57a77a4e.jpg)
 
@@ -588,6 +661,15 @@ http://gd.risd.edu/student-work?page=5
 http://typographictattoos.tumblr.com/post/5739012893/fuckyeahtattoos-this-was-done-24-hours-ago-on
 http://french-voguettes.tumblr.com/post/41737080784
 http://www.fancy.com/things/264532051/Laura-Temporary-Tattoo
+
+http://www.thisiscolossal.com/2012/03/a-hand-painted-typographic-experiment-by-tien-min-liao/
+
+@expand
+
+http://www.thisiscolossal.com/2011/05/photocopied-hand-typography/
+
+@expand
+
 
 ![](http://behance.vo.llnwd.net/profiles/91601/projects/361312/916011259972907.jpg)
 
