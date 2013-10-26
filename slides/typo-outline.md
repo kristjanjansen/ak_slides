@@ -1,32 +1,72 @@
 # Tüpograafia kursuse plaan
 
-minevik -> tulevik
-
-## Põhistruktuur
-
 ## Letter
 
-* ~~kirjatüübid / klassifikatsioon~~
-* mõisted
-* variatsioonid
+* ~~Teema: kirjatüübid / klassifikatsioon~~
+    * mõisted
+    * variatsioonid
 * Ülesanded:
     * ~~Geomeetriline kiri kaartega~~ + digitaliseerimine
     * ~~Surnuaed~~ + analüüs **Mida teeme materjaliga?**
-    * Lehekiri **?**
+    * ~~Lehekiri~~ **Mida teha? Blogipost?**
 * Ekskursioon:
     * ~~Linnakirjad~~ + analüüs
-    * Found type?
+    * Found type
+* Mis kiri sobib kuhu?
+    * Ülesanne: "Pulmad" / "Matused"
     
 ## Word / Paragraph
 
 * Teema: Legibility / Readability
-    * Ülesanne: loetavustestid
-* Ülesanded: 
-    * Testküljendus
-    * Plakat 
-        * Taustata
-        * Taustapildiga (Maila raamatukogust)
+    * Ülesanded: loetavustestid
+* Teema: Plakat 
+    * Taustata
+    * Taustapildiga (Maila raamatukogust)
+* Film
+    * Helvetica + Objectified + Urbanized TKN
+* **Mida õpetas Taavi?**
 
 ## Single page
 
-* Ekskursioon__
+* Teemad:
+    * Kirjade kombineerimine
+        * Ülesanded:
+    * Page grid + baseline grid
+    * Konkreetne luule 
+        * Ülesanded: Bat Macumba
+* Ekskursioonid:
+    * Antikvariaat (väga vana)
+    * Raamatukogu (vana)
+    * Raamatupood (uus)
+* Workshop: Toidutypo
+
+## Complex page
+
+* Teemad:
+    * Ajaleheküljendus
+        * Ülesanded:
+            * Infograafiline analüüs (+ / 0 / - sisu) -- **koos TG12ga?**
+            * Disainianalüüs: vana vs uus Sirp
+    * Ajakirjade küljendus
+    * Raamatukaas
+* Film: Linotype **Oliver, anna mulle ka**
+* Ekskursioonid:
+    * Trükikoda (Meie Maa + Risto Mandre)
+* Workshop: ? (nov keskel, Risto Mandre)
+* Workshop: Heebrea kiri (25+ november, Nadja)
+
+## Muu
+
+* Typo avalikus ruumis
+
+## MK spetsiifiline
+
+* Animeeritud typo (tiitrid?)
+* Veebitypo
+* E-lugeja typo
+* Tableti/mobiili typo
+
+## DS spetsiifiline
+
+* Menüüde typo
+* Tahvlitypo (koostöö kokandusega ning linna söögikohtadega)
