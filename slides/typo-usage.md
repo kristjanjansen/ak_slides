@@ -86,3 +86,21 @@ http://www.lisaolausson.com/pages/play.html
 
 ![](http://www.lisaolausson.com/images/play_1b.jpg)
 
+### Magazines
+
+https://klim.co.nz/blog/il-magazine-covers/
+
+
+### Type in movies
+
+http://www.marksimonson.com/notebook/view/typecasting
+
+http://www.artofthetitle.com/
+ 
+http://flavorwire.com/326643/10-auteurs-and-the-typefaces-they-love
+
+http://annyas.com/screenshots/
+
+### Posters
+
+http://www.thefoxisblack.com/2013/07/30/type-with-a-sense-of-place-by-tyler-thorney/

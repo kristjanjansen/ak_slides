@@ -1,7 +1,19 @@
 # Typography reference
 
 
+## Type history
+
+http://www.heracliteanriver.com/?p=324
+
+http://www.youtube.com/watch?v=6wHiddZOfa8
+
+
 ## Online courses
+
+
+### Identify
+
+http://www.youtube.com/watch?v=766fE70_Ecc
 
 
 ### Theory
@@ -52,13 +64,6 @@ http://blog.typekit.com/2012/05/23/type-study-pairing-typefaces/
 http://opentype.info/blog/2012/11/20/whats-a-ligature/
 
 
-## Type history
-
-### Linotype video
-
-http://www.youtube.com/watch?v=6wHiddZOfa8
-
-
 ## Workshops and courses
 
 http://coopertype.org/public-workshops/
@@ -85,19 +90,7 @@ http://andren.tumblr.com/
 http://www.baubauhaus.com/
 
 
-### Type in movies
-
-http://www.marksimonson.com/notebook/view/typecasting
-
-http://www.artofthetitle.com/
- 
-
 ### Inspiration galleries
-
-
-#### Links
-
-https://news.layervault.com/stories/8846-ask-dn-favorite-typography-blogs
 
 
 #### Behance
@@ -158,9 +151,12 @@ http://www.typewolf.com/
 
 http://fontsinuse.com/
 
+http://thetypefight.com/
+
 
 ### Tools
 
+http://prototypo.io/
 
 http://fontstruct.com/
 
@@ -194,6 +190,14 @@ http://opentype.info/blog/2013/07/03/color-emoji-in-windows-8-1-the-future-of-co
 http://www.behance.net/gallery/CalArts-MFA-Thesis-Simultaneity-Through-Typography/7039473
 
 @expand
+
+#### Hebrew
+
+http://www.hebrewtypography.com/hebrew-fonts-typography/
+
+http://hagilda.com/
+
+http://www.fontef.com/old/
 
 
 ### Making of
@@ -248,3 +252,8 @@ https://vimeo.com/11491627
 
 
 https://vimeo.com/10521941
+
+
+## Type presentation
+
+http://www.fontwalk.de/

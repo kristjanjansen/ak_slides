@@ -175,6 +175,9 @@ http://www.thisiscolossal.com/2011/06/anamorphic-typography/
 
 ## Unusual materials
 
+http://typestruct.tumblr.com/
+
+@expand
 
 ### Typewriter
 
