@@ -6,7 +6,7 @@
 [Kursuse plaan](typo-outline.md)
 [Inspiratsioon](typo-inspiration.md)
 [Kirja loomine](typo-creating.md)
-[Kirja kasutamine](typo-creating.md)
+[Kirja kasutamine](typo-usage.md)
 [Viited](typo-reference.md)
 
 ### Infograafika
