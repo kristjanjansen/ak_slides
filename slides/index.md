@@ -5,8 +5,10 @@
 [Kursuse hetkeseis](typo-current.md)
 [Kursuse plaan](typo-outline.md)
 [Inspiratsioon](typo-inspiration.md)
-[Kirja loomine](typo-creating.md)
 [Kirja kasutamine](typo-usage.md)
+[Kirja loomine](typo-creating.md)
+[Toidukiri](typo-food.md)
+[Tahvlikirikiri](typo-blackboard.md)
 [Viited](typo-reference.md)
 
 ### Infograafika
