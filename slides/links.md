@@ -620,12 +620,6 @@ http://www.behance.net/gallery/Interior-Design-Study-Campus-Wayfinding-Project/6
 ![](http://behance.vo.llnwd.net/profiles25/1291109/projects/4542755/hd_e78085cc7a64ec8be7cb9bd0845b9f8a.jpg)
 
 
-### Exibithions
-
-http://www.behance.net/gallery/Lille-Metropole_A-Flexible-Visual-Identity/8789669
-@expand
-
-
 #### Animals
 
 http://www.behance.net/gallery/Zoo-Icons/6738408
