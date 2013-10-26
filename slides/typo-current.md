@@ -1,9 +1,8 @@
 # Tüpograafia jooksev kursus
 
-olevik -> minevik
 
 ## 9. tund: Geomeetrilise kirja konstrueerimine II + inspiratsioon
-25.okt
+25.okt. Puudu Anette ja see vanem tüüp
 
 
 ### Kaido
@@ -118,7 +117,7 @@ https://vimeo.com/63155303
 
 
 ## 8. tund: Geomeetrilise kirja konstrueerimine
-24.okt
+24.okt. Puudu Anette ja see vanem tüüp
 
 ## 7. tund: Ekskursioon ja pargikiri
 17.okt
