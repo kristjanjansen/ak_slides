@@ -17,13 +17,16 @@
 
 ## Tulevased kursused
 
-[Pictograms: History](pictogram-history.md)
-[Pictograms: Creating](pictogram-creating.md)
-[Pictograms: Stories](pictogram-stories.md)
-[Pictograms: Wayfinding](pictogram-wayfinding.md)
+### Piktograafia
+
+[History](pictogram-history.md)
+[Creating](pictogram-creating.md)
+[Stories](pictogram-stories.md)
+[Wayfinding](pictogram-wayfinding.md)
 
 ## Olnud kursused
 
-[specialprojects-mk11.md](specialprojects-mk11.md)
-[kasutajaliidesed_2012.md](kasutajaliidesed_2012.md)
+[MK eriprojektid 2013](specialprojects-mk11.md)
+[Kasutajaliidesed 2012](kasutajaliidesed_2012.md)
+[Tartu kunstikooli piktograafia 2012](kunstikool_2012.md)
 
