@@ -1,5 +1,6 @@
 # Tüpograafia jooksev kursus
 
+olevik -> minevik
 
 ## 9. tund: Geomeetrilise kirja konstrueerimine II + inspiratsioon
 25.okt

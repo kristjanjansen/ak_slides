@@ -1,10 +1,17 @@
 ## Jooksvad kursused
 
-[Tüpograafia: jooksev kursus](typo-current.md)
-[Tüpograafia: Viited](typo-reference.md)
-[Tüpograafia: Kirja loomine](typo-creating.md)
-[Tüpograafia: Inspiratsioon](typo-inspiration.md)
-[Infographics](infographics.md)
+### Tüpograafia
+
+[Kursuse hetkeseis](typo-current.md)
+[Kursuse plaan](typo-outline.md)
+[Inspiratsioon](typo-inspiration.md)
+[Kirja loomine](typo-creating.md)
+[Kirja kasutamine](typo-creating.md)
+[Viited](typo-reference.md)
+
+### Infograafika
+
+[Viited](infographics.md)
 
 ## Tulevased kursused
 

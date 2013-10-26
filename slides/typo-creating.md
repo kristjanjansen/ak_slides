@@ -1,17 +1,6 @@
 # Creating type
 
 
-## Type sketching
-
-http://typographica.org/reports/sketching-out-of-my-comfort-zone-a-type-design-experiment/
-
-
-https://vimeo.com/11491627
-
-
-https://vimeo.com/10521941
-
-
 ### Geometric modular type
 
 http://opentype.info/blog/2012/12/03/sketches-by-jan-tschichold/
