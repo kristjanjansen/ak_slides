@@ -50,4 +50,4 @@ http://jezebel.com/5884315/how-come-womens-urinals-havent-caught-on
 
 ## Files
 
-/files/teller_toilet.jpeg
+/images/teller_toilet.jpeg

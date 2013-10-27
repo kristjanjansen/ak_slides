@@ -109,4 +109,4 @@ http://www.fastcodesign.com/1664430/a-minimal-futuristic-library-and-gasp-it-s-g
 
 ### Heatmap
 
-files/heatmap.png
+images/heatmap.png

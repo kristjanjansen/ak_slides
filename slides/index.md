@@ -19,7 +19,7 @@
 
 ### Näitusedisain + Noor Meister
 
-[Viited](exibithion.md)
+[Viited](exhibition.md)
 
 ### Piktograafia
 
