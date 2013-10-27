@@ -29,8 +29,7 @@ http://www.youtube.com/watch?feature=player_embedded&v=rA96RzV63Aw
 
 ### Security
 
-[FIN_ATM-Design-Against-Crime.pdf](./files/FIN_ATM-Design-Against-Crime.pdf)
-
+http://www.ncr.com/sites/design-against-atm-crime/docs/FIN_ATM-Design-Against-Crime.pdf
 
 ### History
 
@@ -390,14 +389,14 @@ https://itunes.apple.com/us/app/weather-hd-2/id364193735?mt=8&ign-mpt=uo%3D4
 14\. oktoober 2012
 
 
-[toil.pdf](/files/toil.pdf)
-
-
 ### Probleem
 
 http://www.youtube.com/watch?v=fdwvuTrycYU
 http://www.gatesfoundation.org/infographics/Pages/reinvent-the-toilet-info.aspx
-Lisainfo http://www.gatesfoundation.org/speeches-commentary/Pages/sylvia-mathews-burwell-2011-reinventing-the-toilet.aspx
+
+Lisainfo 
+
+http://www.gatesfoundation.org/speeches-commentary/Pages/sylvia-mathews-burwell-2011-reinventing-the-toilet.aspx
 
 
 ### Taustauuring
