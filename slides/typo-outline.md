@@ -52,6 +52,7 @@
 * Film: Linotype **Oliver, anna mulle ka**
 * Ekskursioonid:
     * Trükikoda (Meie Maa + Risto Mandre)
+    * Raamatukogu <-> Computer Arts
 * Workshop: ? (nov keskel, Risto Mandre)
 * Workshop: Heebrea kiri (25+ november, Nadja)
 
