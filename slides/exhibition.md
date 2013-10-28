@@ -281,9 +281,22 @@ http://www.behance.net/gallery/erik-spiekermann-the-face-of-type/7439371
 ![](http://behance.vo.llnwd.net/profiles5/161807/projects/7439371/ffa1a2dcb302f6c8847df55841acd96a.png)
 
 
-### Galleries
+### Pinterest
 
 
 http://www.pinterest.com/chelestra/exibithion-art/
 
 http://www.pinterest.com/joti/exhibition-design-naitused/
+
+
+## Tüpograafia
+
+http://fatype.com/specimens/Fatype_Adam.pdf
+
+
+## Näited
+
+http://paolafaoro.com/wayfind_roundhouse.html
+
+
+![](http://paolafaoro.com/images/wayfind_roundhouse.jpg)

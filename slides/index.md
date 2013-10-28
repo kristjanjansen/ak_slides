@@ -23,10 +23,19 @@
 
 ### Piktograafia
 
-[History](pictogram-history.md)
-[Creating](pictogram-creating.md)
-[Stories](pictogram-stories.md)
-[Wayfinding](pictogram-wayfinding.md)
+[Kursuse kava](pictogram-outline.md)
+
+[Ajalugu](pictogram-history.md)
+[Loojutustus](pictogram-stories.md)
+[Piktogrammide loomine](pictogram-creating.md)
+
+### Wayfinding
+
+[Schools](pictogram-schools.md)
+[Hospitals](pictogram-hospitals.md)
+[Transport](pictogram-transport.md)
+[Cities](pictogram-cities.md)
+[Misc institutions](pictogram-wayfinding.md)
 
 ## Olnud kursused
 

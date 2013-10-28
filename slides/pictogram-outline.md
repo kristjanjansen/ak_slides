@@ -1,0 +1,2 @@
+# Piktograafia kursuse kava
+

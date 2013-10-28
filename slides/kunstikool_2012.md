@@ -4,11 +4,6 @@
 ## Raamatukogu
 
 
-### Fotod
-
-https://www.dropbox.com/sh/io2hhvio0dobrhv/_kQw3xJQ-u
-
-
 ### Riiulid
 
 
