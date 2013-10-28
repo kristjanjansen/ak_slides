@@ -229,15 +229,6 @@ http://www.designboom.com/design/matali-crasset-signage-for-abbaye-royale-fontev
 http://thetechblock.com/an-ios-icon-design-exploration/
 
 
-
-### Exhibits / Conferences
-
-http://www.behance.net/gallery/Masticar-2012/8469667
-http://pinterest.com/pin/78039006016244907/
-http://www.behance.net/gallery/5-Sem-Int-de-Comportamento-e-Consumo-SENAI-CETIQT/7051803
-http://pinterest.com/pin/42925002671348667/
-
-
 ### Associations
 
 http://www.behance.net/gallery/STEREOTYPOLOGY/536050

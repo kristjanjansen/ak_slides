@@ -281,6 +281,30 @@ http://www.behance.net/gallery/erik-spiekermann-the-face-of-type/7439371
 ![](http://behance.vo.llnwd.net/profiles5/161807/projects/7439371/ffa1a2dcb302f6c8847df55841acd96a.png)
 
 
+### Kakao
+
+http://www.behance.net/gallery/KAKAO-Game-Partners-Forum-Brand-eXperience-Design/9486915
+
+
+![](http://behance.vo.llnwd.net/profiles17/2314555/projects/9486915/1cee9dbaaf66c56d2823c0d391182139.jpg)
+
+
+### Samsung Developer Day
+
+http://www.pinterest.com/pin/42925002671348667/
+
+
+![](http://media-cache-ak0.pinimg.com/736x/fb/75/32/fb75328a5b15d3c8d333e2451e577c89.jpg)
+
+
+### Feira de Consumo
+
+http://www.behance.net/gallery/5-Sem-Int-de-Comportamento-e-Consumo-SENAI-CETIQT/7051803
+
+@expand
+
+
+
 ### Pinterest
 
 

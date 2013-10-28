@@ -31,10 +31,10 @@
 
 ### Wayfinding
 
-[Schools](pictogram-schools.md)
-[Hospitals](pictogram-hospitals.md)
-[Transport](pictogram-transport.md)
-[Cities](pictogram-cities.md)
+[Schools](pictogram-wayfinding-schools.md)
+[Hospitals](pictogram-wayfinding-hospitals.md)
+[Transport](pictogram-wayfinding-transport.md)
+[Cities](pictogram-wayfinding-cities.md)
 [Misc institutions](pictogram-wayfinding.md)
 
 ## Olnud kursused
