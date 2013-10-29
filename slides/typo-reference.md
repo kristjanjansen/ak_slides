@@ -116,26 +116,6 @@ http://www.swiss-miss.com/fonts
 http://designspiration.net/tag/typography/
 
 
-### Found type galleries
-
-
-http://instagram.com/andyclymer
-
-http://endbahnhof.tumblr.com/
-
-http://chromeography.com/
-
-http://fleurscoiffeur.com/
-
-http://www.flickr.com/photos/98310387@N02/
-
-http://www.flickr.com/groups/foundtype/
-
-http://www.flickr.com/photos/id29/sets/72157634396874320/
-
-http://typehunting.com/
-
-
 ### Books
 
 
@@ -257,3 +237,32 @@ https://vimeo.com/10521941
 ## Type presentation
 
 http://www.fontwalk.de/
+
+
+### Found type galleries
+
+
+http://instagram.com/andyclymer
+
+http://endbahnhof.tumblr.com/
+
+http://chromeography.com/
+
+http://fleurscoiffeur.com/
+
+http://www.flickr.com/photos/98310387@N02/
+
+http://www.flickr.com/groups/foundtype/
+
+http://www.flickr.com/photos/id29/sets/72157634396874320/
+
+http://typehunting.com/
+
+
+### Estonian found type
+
+http://www.sewercide.org/old/artiklid-kopli.html
+
+http://jalutuskaikajas.blogspot.com/2013/10/leidsin-kodust-uhe-filmirulli-tartu.html
+
+http://suurjalutuskaik.blogspot.com/2013/10/sookla-tempo-ja-kauplus-taliko-viktor.html
