@@ -1,6 +1,44 @@
 # Tüpograafia jooksev kursus
 
 
+## 11. tund: Geomeetrilise kirja digitaliseerimine I
+
+
+### Specimens
+
+http://dailytypespecimen.com/post/65376727528/linotype-bodoni-type-specimen
+http://dailytypespecimen.com/post/60086611308/futura-bold-type-specimen
+http://typemedia2010.com/index.php?/group-specimen-/
+http://www.ecuad.ca/people/work/121821
+http://www.spd.org/2010/11/an-evening-with-veer-type.php
+https://www.fontfont.com/fonts/mark/in-use
+
+
+![](http://25.media.tumblr.com/4dfe27a6e7a007b131da9a04967a7ce7/tumblr_mvefgtu6jg1qcaxv1o1_1280.jpg)
+
+
+![](http://25.media.tumblr.com/3db1558442e8efac92102df4939f5363/tumblr_ms2929nXV11qcaxv1o1_1280.jpg)
+
+
+![](http://typemedia.org/wp-content/uploads/2013/06/BOVdnGpCYAAGN4Q.jpg-large.jpeg)
+
+
+![](http://www.ecuad.ca/sites/www.ecuad.ca/files/users/2871/work/121821/Type%20Specimen%20Book_03.jpg)
+
+
+![](http://www.spd.org/images/blog/Veer_EloquentPro_thumb_w_580.png)
+
+
+![](https://www.fontfont.com/staticcontent/inuseimages/wall/Mark_Text_3.jpg?1379491594)
+
+
+![](https://www.fontfont.com/staticcontent/inuseimages/wall/Mark_Text_4.jpg?1379491598)
+
+
+ 
+## 10. tund: Geomeetrilise kirja digitaliseerimine I
+
+
 ## 9. tund: Geomeetrilise kirja konstrueerimine II + inspiratsioon
 25.okt. Puudu Anette ja see vanem tüüp
 
