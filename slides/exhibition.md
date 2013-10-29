@@ -303,6 +303,51 @@ http://www.behance.net/gallery/5-Sem-Int-de-Comportamento-e-Consumo-SENAI-CETIQT
 
 @expand
 
+### The Guardian Office
+
+http://graphicambient.com/2012/01/24/the-guardian-offices-uk/
+
+
+![](http://graphicambient.com/wp-content/uploads/2012/01/guard01.jpg)
+
+
+![](http://graphicambient.com/wp-content/uploads/2012/01/guard03.jpg)
+
+
+![](http://graphicambient.com/wp-content/uploads/2012/01/guard04.jpg)
+
+
+### Marks & Spencer
+
+http://graphicambient.com/2012/05/28/marks-spencer-uk/
+
+
+![](http://graphicambient.com/wp-content/uploads/2012/05/ms1.jpg)
+
+
+![](http://graphicambient.com/wp-content/uploads/2012/05/ms2.jpg)
+
+
+![](http://graphicambient.com/wp-content/uploads/2012/05/ms4.jpg)
+
+
+![](http://graphicambient.com/wp-content/uploads/2012/05/ms7.jpg)
+
+
+![](http://graphicambient.com/wp-content/uploads/2012/05/ms9.jpg)
+
+
+### Roundhouse
+
+http://paolafaoro.com/wayfind_roundhouse.html
+
+![](http://paolafaoro.com/images/wayfind_roundhouse.jpg)
+
+@expand
+
+
+
+## Links
 
 
 ### Pinterest
@@ -316,11 +361,3 @@ http://www.pinterest.com/joti/exhibition-design-naitused/
 ## Tüpograafia
 
 http://fatype.com/specimens/Fatype_Adam.pdf
-
-
-## Näited
-
-http://paolafaoro.com/wayfind_roundhouse.html
-
-
-![](http://paolafaoro.com/images/wayfind_roundhouse.jpg)

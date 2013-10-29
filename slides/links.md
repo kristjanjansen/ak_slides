@@ -96,13 +96,6 @@ http://vector.tutsplus.com/?s=icon
 http://scriptographer.org/scripts/general-scripts/grid-generator
 
 
-### Materials
-
-http://graphicambient.com/2012/05/28/marks-spencer-uk/
-
-http://graphicambient.com/2012/01/24/the-guardian-offices-uk/
-
-
 ### Courses
 
 http://opentype.info/blog/2011/08/24/new-master-course-traffic-transport-information-design/
@@ -137,7 +130,8 @@ https://vimeo.com/45747333 (phonics)
 
 #### Information architecture 
 
-http://pinterest.com/pin/406098091369777857/ (movie genres)
+http://pinterest.com/pin/406098091369777857/
+(movie genres)
 
 
 ### Packaging
@@ -278,73 +272,10 @@ http://www.segd.org/design-awards/index.html
 
 
 
-
-### WC
-
-http://www.designofsignage.com/application/symbol/hospital/index.html
-
-@expand
-
-
-http://www.njucomunicazione.com/il-nostro-bar/
-
-http://www.behance.net/gallery/Toilet-Signage/9996817
-
-http://idnworld.com/creators/?id=Marque
-
-http://www.underconsideration.com/artofthemenu/archives/trafiq.php
-
-http://duffy.co.nz/duffyloves/2012/09/wayfinding-signage-design-bayfair-shopping-mall-tauranga/
-
-
-![](http://www.njucomunicazione.com/wp-content/uploads/2011/03/09_fortuna.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles19/3154183/projects/9996817/ab68dc4b6ddd46de2dc658efd7a5fdb8.png)
-
-
-![](http://files.idnworld.com/creators/files/v17n5/Marque/Marque_NGC_brickwork.jpg)
-
-
-![](http://www.underconsideration.com/artofthemenu/project_images/trafiq_PHOTO_11.jpg)
-
-
-![](http://duffy.co.nz/duffyloves/wp-content/uploads/2012/09/wayfinding-signage-design-bayfair-shopping-centre-duffy-design.jpg)
-
-
-http://thesocietypages.org/socimages/2010/09/02/guest-post-go-where-sex-gender-and-toilets/
-
-@expand
-
-
-http://grecodesign.com.br/en/sinalizacao-pentamino/
-
-
-![](http://grecodesign.com.br/wp-content/uploads/2013/05/sebrae2.jpg)
-
-
-![](http://grecodesign.com.br/wp-content/uploads/2013/05/sebrae6-489x700.jpg)
-
-
-http://pinterest.com/pin/78039006016245095/
-![](http://media-cache-ec0.pinimg.com/736x/3b/cf/d6/3bcfd633a174aa47a5e5857991da1505.jpg)
-
-
-http://pinterest.com/pin/42925002671829372/
-![](http://media-cache-ak0.pinimg.com/736x/ce/6c/06/ce6c06f8ce84a0159c41a844f8fc03f7.jpg)
-
-
-http://pinterest.com/pin/271764158737022461/
-![](http://media-cache-ak0.pinimg.com/736x/39/23/be/3923be29332e307737a93e675129534f.jpg)
-
-
-http://identitydesigned.com/copernicus-science-centre/
-![](http://identitydesigned.com/images/mamastudio/kopernik-wayfinding-06.jpg)
-
-
 ### Floor
 
 http://www.flickr.com/photos/heidigoseek/3144057697/
+
 
 ### Pres
 
@@ -353,6 +284,7 @@ http://www.slideshare.net/pasteinplace/knowledge-gathering-graphic-design-wayfin
 http://www.slideshare.net/33ff00/sign09-vienna-wayfinding?from_search=8
 
 http://www.slideshare.net/pasteinplace/final-wayfinding-book
+
 
 ### Partizans
 
@@ -365,7 +297,6 @@ http://www.behance.net/gallery/Interior-Design-Study-Campus-Wayfinding-Project/6
 
 
 #### Wayfinding the Well
-
 
 
 ![](http://behance.vo.llnwd.net/profiles25/1291109/projects/4542755/hd_ef814509e2353521deee78c035de166c.jpg)
@@ -621,6 +552,7 @@ http://www.behance.net/gallery/Zoo-Icons/6738408
 http://www.typemedia2013.com/typeface/brisbane/
 @expand
 
+
 ### Pikselkellad
 
 http://www.alibaba.com/product-gs/620125303/dot_matrix_display_digital_alarm_led.html
@@ -638,23 +570,3 @@ http://www.tokyoflash.com/en/watches/1/
 
 http://blog.tokyoflash.com/
 
-## Typo
-
-### Posters
-
-http://www.etsy.com/uk/shop/dirtybandits?section_id=13578389
-
-
-![](http://25.media.tumblr.com/3eb7b0b635d24d2f8e1ff3362c36c601/tumblr_mpgqg7E83e1qzwuhxo1_1280.jpg)
-
-
-![](http://24.media.tumblr.com/27312aba2f21fffa73db8c0d79796467/tumblr_mpgqg7E83e1qzwuhxo8_1280.jpg)
-
-
-![](http://24.media.tumblr.com/1d9714261abda84703d852e7fee241cf/tumblr_mpgqg7E83e1qzwuhxo4_1280.jpg)
-
-
-http://www.behance.net/gallery/Signage-for-Idep-Barcelona/9491637
-
-@expand
-@wayfinding
