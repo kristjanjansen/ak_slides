@@ -71,6 +71,8 @@ http://www.rogerallen.net/blog/archives/category/environmental-graphic-design/
 
 ### Photos
 
+http://www.flickr.com/groups/1288431@N24/
+
 http://www.flickr.com/groups/environmentalgd/pool/?view=md
 
 http://www.flickr.com/groups/wayfinding/pool/?view=md
