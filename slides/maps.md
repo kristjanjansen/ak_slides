@@ -9,12 +9,12 @@ http://www.youtube.com/watch?v=eS4hQQyk_fo
 http://www.youtube.com/watch?v=ZXjwnk0UKRc
 http://www.youtube.com/watch?v=uZMF_G0RmuY
 
-# History
+## History
 
 http://www.dailymail.co.uk/home/moslive/article-1272921/Ten-greatest-maps-changed-world.html
 http://www.brainpickings.org/index.php/2013/01/04/how-we-use-maps-and-globes-1968/
 
-# Blogs
+## Blogs
 
 http://makingmaps.net/
 http://somethingaboutmaps.wordpress.com/
