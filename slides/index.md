@@ -17,6 +17,10 @@
 
 ## Tulevased kursused
 
+### Kaardid
+
+[Viited](maps.md)
+
 ### Näitusedisain + Noor Meister
 
 [Viited](exhibition.md)
