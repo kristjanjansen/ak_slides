@@ -16,27 +16,11 @@ Generated from:
 [Typographic Daily](http://typography-daily.com/)
 
 
+![](http://24.media.tumblr.com/f73fc1e4e92bd843591bd069dd558bc8/tumblr_mu5mqfkFkC1qkxrtro4_500.png)
+
+
+
 ![](http://25.media.tumblr.com/6ca75e394c9aa4defc1cb16b5a81fe0b/tumblr_mu5mqfkFkC1qkxrtro10_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/805b7802fdba112d0a16092377898996/tumblr_mu5mqfkFkC1qkxrtro2_500.png)
-
-
-
-![](http://25.media.tumblr.com/af12946989219d2e21394648d25500c2/tumblr_mu5mqfkFkC1qkxrtro5_500.png)
-
-
-
-![](http://25.media.tumblr.com/78c8db67c25bdb859a9c773cc88421dd/tumblr_mu5mqfkFkC1qkxrtro7_500.png)
-
-
-
-![](http://24.media.tumblr.com/61cc3e17c145b75f142b1ba2a65ba2b9/tumblr_mu5mqfkFkC1qkxrtro6_500.png)
-
-
-
-![](http://25.media.tumblr.com/b41cf4f06edea72c737ab2b0a1128447/tumblr_mu5mqfkFkC1qkxrtro1_500.png)
 
 
 
@@ -44,11 +28,27 @@ Generated from:
 
 
 
+![](http://25.media.tumblr.com/b41cf4f06edea72c737ab2b0a1128447/tumblr_mu5mqfkFkC1qkxrtro1_500.png)
+
+
+
+![](http://24.media.tumblr.com/61cc3e17c145b75f142b1ba2a65ba2b9/tumblr_mu5mqfkFkC1qkxrtro6_500.png)
+
+
+
+![](http://25.media.tumblr.com/78c8db67c25bdb859a9c773cc88421dd/tumblr_mu5mqfkFkC1qkxrtro7_500.png)
+
+
+
+![](http://25.media.tumblr.com/af12946989219d2e21394648d25500c2/tumblr_mu5mqfkFkC1qkxrtro5_500.png)
+
+
+
 ![](http://31.media.tumblr.com/8a9fd72e24bb7f84cfe3ce5516e13a1e/tumblr_mu5mqfkFkC1qkxrtro3_500.png)
 
 
 
-![](http://24.media.tumblr.com/f73fc1e4e92bd843591bd069dd558bc8/tumblr_mu5mqfkFkC1qkxrtro4_500.png)
+![](http://24.media.tumblr.com/805b7802fdba112d0a16092377898996/tumblr_mu5mqfkFkC1qkxrtro2_500.png)
 
 
 
@@ -57,6 +57,10 @@ Generated from:
 
 
 ![](http://25.media.tumblr.com/f929146b4a29ba3c4f7fdd1f9b05cffb/tumblr_mvlbktga5h1qkxrtro1_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/eb39b5a16911f8d2c8c342e3b49a576d/tumblr_mv3y16IU0L1qkxrtro1_500.jpg)
 
 
 
@@ -76,35 +80,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/eb39b5a16911f8d2c8c342e3b49a576d/tumblr_mv3y16IU0L1qkxrtro1_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/273b9bc0a560c52064f6fb740470075d/tumblr_mvikl58JrG1qkxrtro4_500.png)
-
-
-
-![](http://25.media.tumblr.com/27ff262982a9e73830fb9692eb0c8e5a/tumblr_mvikl58JrG1qkxrtro3_500.png)
-
-
-
-![](http://24.media.tumblr.com/7903162f3a8d9642e1e6fe284c6f98df/tumblr_mvikl58JrG1qkxrtro6_500.png)
-
-
-
-![](http://24.media.tumblr.com/fff5893c872eda6a7509416a339311c8/tumblr_mvikl58JrG1qkxrtro7_500.png)
-
-
-
-![](http://25.media.tumblr.com/2490a62b624946fea44d9b1df7a7e24c/tumblr_mvikl58JrG1qkxrtro1_500.png)
-
-
-
-![](http://24.media.tumblr.com/5c3631e44b52b9ff3f73be6dce8d6086/tumblr_mvikl58JrG1qkxrtro5_500.png)
-
-
-
-![](http://24.media.tumblr.com/0a2405f9da789c7929d3cbb7ed867a71/tumblr_mvikl58JrG1qkxrtro2_500.png)
+![](http://31.media.tumblr.com/3732b86f82e308ffd61f9a3bccd7b107/tumblr_mvikl58JrG1qkxrtro9_500.png)
 
 
 
@@ -112,7 +88,31 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/3732b86f82e308ffd61f9a3bccd7b107/tumblr_mvikl58JrG1qkxrtro9_500.png)
+![](http://24.media.tumblr.com/0a2405f9da789c7929d3cbb7ed867a71/tumblr_mvikl58JrG1qkxrtro2_500.png)
+
+
+
+![](http://24.media.tumblr.com/5c3631e44b52b9ff3f73be6dce8d6086/tumblr_mvikl58JrG1qkxrtro5_500.png)
+
+
+
+![](http://25.media.tumblr.com/2490a62b624946fea44d9b1df7a7e24c/tumblr_mvikl58JrG1qkxrtro1_500.png)
+
+
+
+![](http://24.media.tumblr.com/fff5893c872eda6a7509416a339311c8/tumblr_mvikl58JrG1qkxrtro7_500.png)
+
+
+
+![](http://24.media.tumblr.com/7903162f3a8d9642e1e6fe284c6f98df/tumblr_mvikl58JrG1qkxrtro6_500.png)
+
+
+
+![](http://25.media.tumblr.com/27ff262982a9e73830fb9692eb0c8e5a/tumblr_mvikl58JrG1qkxrtro3_500.png)
+
+
+
+![](http://24.media.tumblr.com/273b9bc0a560c52064f6fb740470075d/tumblr_mvikl58JrG1qkxrtro4_500.png)
 
 
 
@@ -124,11 +124,11 @@ Generated from:
 
 
 
+![](http://25.media.tumblr.com/7e2db4ded661a9c4531b072bf1a2fd0b/tumblr_mvlbghNIzd1qkxrtro3_500.png)
+
+
+
 ![](http://31.media.tumblr.com/8fa4fe81ea3dfd06fab4e1df714ab8a1/tumblr_mvlbghNIzd1qkxrtro1_500.png)
-
-
-
-![](http://24.media.tumblr.com/58620f54370a710520fd257324b6a56f/tumblr_mvlbghNIzd1qkxrtro5_500.png)
 
 
 
@@ -136,7 +136,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/7e2db4ded661a9c4531b072bf1a2fd0b/tumblr_mvlbghNIzd1qkxrtro3_500.png)
+![](http://24.media.tumblr.com/58620f54370a710520fd257324b6a56f/tumblr_mvlbghNIzd1qkxrtro5_500.png)
 
 
 
@@ -156,19 +156,7 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/467c9c0bc77bd6c29337f301e6cc38ad/tumblr_mvlb59mwWm1qkxrtro2_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/4bb19b796ea7bc61d564f231b6b4b370/tumblr_mvlb59mwWm1qkxrtro10_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/3e13a2514b07069f3f590af9fefaf7e6/tumblr_mvlb59mwWm1qkxrtro9_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/138e92b2c860c5c90480217824f6c419/tumblr_mvlb59mwWm1qkxrtro8_500.jpg)
+![](http://25.media.tumblr.com/853f71580e6e929568ecc975f52c7cbd/tumblr_mvlb59mwWm1qkxrtro1_500.jpg)
 
 
 
@@ -176,15 +164,11 @@ Generated from:
 
 
 
+![](http://24.media.tumblr.com/3e13a2514b07069f3f590af9fefaf7e6/tumblr_mvlb59mwWm1qkxrtro9_500.jpg)
+
+
+
 ![](http://24.media.tumblr.com/31df630797a8f6330b21f81316f694d5/tumblr_mvlb59mwWm1qkxrtro7_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/853f71580e6e929568ecc975f52c7cbd/tumblr_mvlb59mwWm1qkxrtro1_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/168e708297c0248ae222127de1813122/tumblr_mvlb59mwWm1qkxrtro4_500.jpg)
 
 
 
@@ -192,7 +176,23 @@ Generated from:
 
 
 
+![](http://24.media.tumblr.com/467c9c0bc77bd6c29337f301e6cc38ad/tumblr_mvlb59mwWm1qkxrtro2_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/168e708297c0248ae222127de1813122/tumblr_mvlb59mwWm1qkxrtro4_500.jpg)
+
+
+
 ![](http://25.media.tumblr.com/6c25cd083cf27e3c43a425132312be04/tumblr_mvlb59mwWm1qkxrtro5_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/4bb19b796ea7bc61d564f231b6b4b370/tumblr_mvlb59mwWm1qkxrtro10_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/138e92b2c860c5c90480217824f6c419/tumblr_mvlb59mwWm1qkxrtro8_500.jpg)
 
 
 
@@ -200,11 +200,11 @@ Generated from:
 
 
 
+![](http://24.media.tumblr.com/e19b2534773df845bd85c5482b2a3b4c/tumblr_mj4c1fNHRC1qkxrtro3_500.jpg)
+
+
+
 ![](http://25.media.tumblr.com/72ef41bfb6b9ba7cccc859c60a276b0b/tumblr_mj4c1fNHRC1qkxrtro2_500.jpg)
-
-
-
-![](http://31.media.tumblr.com/13add3a44c159c7ef3991aa94841ed5f/tumblr_mj4c1fNHRC1qkxrtro4_500.jpg)
 
 
 
@@ -212,7 +212,27 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/e19b2534773df845bd85c5482b2a3b4c/tumblr_mj4c1fNHRC1qkxrtro3_500.jpg)
+![](http://31.media.tumblr.com/13add3a44c159c7ef3991aa94841ed5f/tumblr_mj4c1fNHRC1qkxrtro4_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/a5c37cb5a541abd5d6460913e28642d4/tumblr_mvej4cjSeL1qkxrtro6_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/b39acc7210cd47a3a6283eda15531b02/tumblr_mvej4cjSeL1qkxrtro7_500.jpg)
+
+
+
+![](http://31.media.tumblr.com/0d4525a890014881e32134813cae2d51/tumblr_mvej4cjSeL1qkxrtro8_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/7d9bc2f78c44ae02b5b52ec6a84b771b/tumblr_mvej4cjSeL1qkxrtro9_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/9cb375e659610fc3df47fb4dbc54e991/tumblr_mvej4cjSeL1qkxrtro1_500.png)
 
 
 
@@ -232,27 +252,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/a5c37cb5a541abd5d6460913e28642d4/tumblr_mvej4cjSeL1qkxrtro6_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/9cb375e659610fc3df47fb4dbc54e991/tumblr_mvej4cjSeL1qkxrtro1_500.png)
-
-
-
-![](http://31.media.tumblr.com/0d4525a890014881e32134813cae2d51/tumblr_mvej4cjSeL1qkxrtro8_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/7d9bc2f78c44ae02b5b52ec6a84b771b/tumblr_mvej4cjSeL1qkxrtro9_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/b39acc7210cd47a3a6283eda15531b02/tumblr_mvej4cjSeL1qkxrtro7_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/09e2f8dc85e70a39e2ae7e138e548966/tumblr_mvjfteCBet1qz9v0to2_r1_500.jpg)
+![](http://24.media.tumblr.com/2f9407ff829a0f0d0df2f1197c2a0ab3/tumblr_mvjfteCBet1qz9v0to1_500.jpg)
 
 
 
@@ -260,7 +260,7 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/2f9407ff829a0f0d0df2f1197c2a0ab3/tumblr_mvjfteCBet1qz9v0to1_500.jpg)
+![](http://24.media.tumblr.com/09e2f8dc85e70a39e2ae7e138e548966/tumblr_mvjfteCBet1qz9v0to2_r1_500.jpg)
 
 
 
@@ -272,7 +272,7 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/11/126425.jpg)
+![](http://typography-daily.com/wp-content/uploads/2013/11/126600.jpg)
 
 
 
@@ -280,11 +280,19 @@ Generated from:
 
 
 
+![](http://typography-daily.com/wp-content/uploads/2013/11/126425.jpg)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/11/126576.png)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/11/126584.png)
+
+
+
 ![](http://typography-daily.com/wp-content/uploads/2013/11/126599.jpg)
-
-
-
-![](http://typography-daily.com/wp-content/uploads/2013/11/126600.jpg)
 
 
 
@@ -296,19 +304,15 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/11/126584.png)
+![](http://25.media.tumblr.com/c2fa776f8aed00d200c2468afdd5c673/tumblr_mvj752HEGw1qkxrtro2_r1_500.jpg)
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/11/126576.png)
+![](http://24.media.tumblr.com/3b9a01240d19dc548d0b60862bc79d87/tumblr_mvj752HEGw1qkxrtro5_r1_500.jpg)
 
 
 
 ![](http://25.media.tumblr.com/d8b2b69806f1c5b668d394631edf7653/tumblr_mvj752HEGw1qkxrtro8_r1_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/c2fa776f8aed00d200c2468afdd5c673/tumblr_mvj752HEGw1qkxrtro2_r1_500.jpg)
 
 
 
@@ -328,7 +332,7 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/3b9a01240d19dc548d0b60862bc79d87/tumblr_mvj752HEGw1qkxrtro5_r1_500.jpg)
+![](http://25.media.tumblr.com/473077589de002731d9f672ec5ee6551/tumblr_mviksycCPw1qkxrtro5_500.png)
 
 
 
@@ -341,10 +345,6 @@ Generated from:
 
 
 ![](http://24.media.tumblr.com/5471c1b0c01761d5415553ff2ee3775f/tumblr_mviksycCPw1qkxrtro4_500.png)
-
-
-
-![](http://25.media.tumblr.com/473077589de002731d9f672ec5ee6551/tumblr_mviksycCPw1qkxrtro5_500.png)
 
 
 
@@ -372,11 +372,19 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/045c0b2f9e23a7db3f754fa7a30834bc/tumblr_mvej4cjSeL1qkxrtro2_500.png)
+![](http://25.media.tumblr.com/a3552baf08fc617e863a00b01ae097a0/tumblr_mvej4cjSeL1qkxrtro4_500.jpg)
 
 
 
-![](http://24.media.tumblr.com/9cb375e659610fc3df47fb4dbc54e991/tumblr_mvej4cjSeL1qkxrtro1_500.png)
+![](http://31.media.tumblr.com/65069beee9b7a3a809601f2061a8ff86/tumblr_mvej4cjSeL1qkxrtro5_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/a5c37cb5a541abd5d6460913e28642d4/tumblr_mvej4cjSeL1qkxrtro6_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/b39acc7210cd47a3a6283eda15531b02/tumblr_mvej4cjSeL1qkxrtro7_500.jpg)
 
 
 
@@ -388,27 +396,23 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/b39acc7210cd47a3a6283eda15531b02/tumblr_mvej4cjSeL1qkxrtro7_500.jpg)
+![](http://24.media.tumblr.com/9cb375e659610fc3df47fb4dbc54e991/tumblr_mvej4cjSeL1qkxrtro1_500.png)
 
 
 
-![](http://25.media.tumblr.com/a5c37cb5a541abd5d6460913e28642d4/tumblr_mvej4cjSeL1qkxrtro6_500.jpg)
+![](http://25.media.tumblr.com/045c0b2f9e23a7db3f754fa7a30834bc/tumblr_mvej4cjSeL1qkxrtro2_500.png)
 
 
 
-![](http://31.media.tumblr.com/65069beee9b7a3a809601f2061a8ff86/tumblr_mvej4cjSeL1qkxrtro5_500.jpg)
+![](http://24.media.tumblr.com/db6ef396ba0b0f0ad0c725c6b6ac8cc3/tumblr_mvil7wtp0a1qkxrtro3_500.jpg)
 
 
 
-![](http://25.media.tumblr.com/a3552baf08fc617e863a00b01ae097a0/tumblr_mvej4cjSeL1qkxrtro4_500.jpg)
+![](http://24.media.tumblr.com/f2aa782a6a585b3a0eb0b34c6d67b850/tumblr_mvil7wtp0a1qkxrtro5_500.jpg)
 
 
 
 ![](http://31.media.tumblr.com/ae5d2b55796a8e7f1d6e6687df35ae1c/tumblr_mvil7wtp0a1qkxrtro6_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/ae000614da93adfda54d27144d82f37c/tumblr_mvil7wtp0a1qkxrtro4_500.jpg)
 
 
 
@@ -420,11 +424,19 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/f2aa782a6a585b3a0eb0b34c6d67b850/tumblr_mvil7wtp0a1qkxrtro5_500.jpg)
+![](http://24.media.tumblr.com/ae000614da93adfda54d27144d82f37c/tumblr_mvil7wtp0a1qkxrtro4_500.jpg)
 
 
 
-![](http://24.media.tumblr.com/db6ef396ba0b0f0ad0c725c6b6ac8cc3/tumblr_mvil7wtp0a1qkxrtro3_500.jpg)
+![](http://25.media.tumblr.com/faafb6e18d3722afcc0241b1b056f63c/tumblr_mvikpowkAk1qkxrtro2_500.png)
+
+
+
+![](http://25.media.tumblr.com/7e77cc0d063815d6a67f13eea3b56f61/tumblr_mvikpowkAk1qkxrtro5_500.png)
+
+
+
+![](http://31.media.tumblr.com/c74f52c36fc6610d8fd9774a03c8dd24/tumblr_mvikpowkAk1qkxrtro4_500.png)
 
 
 
@@ -436,19 +448,7 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/c74f52c36fc6610d8fd9774a03c8dd24/tumblr_mvikpowkAk1qkxrtro4_500.png)
-
-
-
-![](http://25.media.tumblr.com/7e77cc0d063815d6a67f13eea3b56f61/tumblr_mvikpowkAk1qkxrtro5_500.png)
-
-
-
-![](http://25.media.tumblr.com/faafb6e18d3722afcc0241b1b056f63c/tumblr_mvikpowkAk1qkxrtro2_500.png)
-
-
-
-![](http://25.media.tumblr.com/b83767d89b4177709aad232d8811052c/tumblr_mvil1wfA801qkxrtro2_500.jpg)
+![](http://25.media.tumblr.com/2105d90126cb1680e84926f60f41f591/tumblr_mvil1wfA801qkxrtro3_500.jpg)
 
 
 
@@ -456,15 +456,15 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/4bd93030feb238e22a62a8303227f3e5/tumblr_mvil1wfA801qkxrtro5_500.gif)
-
-
-
 ![](http://25.media.tumblr.com/19d77a4c20df2b79a1724db161fda700/tumblr_mvil1wfA801qkxrtro4_500.gif)
 
 
 
-![](http://25.media.tumblr.com/2105d90126cb1680e84926f60f41f591/tumblr_mvil1wfA801qkxrtro3_500.jpg)
+![](http://24.media.tumblr.com/4bd93030feb238e22a62a8303227f3e5/tumblr_mvil1wfA801qkxrtro5_500.gif)
+
+
+
+![](http://25.media.tumblr.com/b83767d89b4177709aad232d8811052c/tumblr_mvil1wfA801qkxrtro2_500.jpg)
 
 
 
@@ -500,27 +500,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/f208f6e07106cb7784f5a5b50b61a8e1/tumblr_mvjjpd9e9s1qfoihvo5_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/7025ec55f047d6fbfee663c4eccf7e35/tumblr_mvjjpd9e9s1qfoihvo7_500.jpg)
-
-
-
-![](http://31.media.tumblr.com/83e018744f284fa02abc3d046e36cbca/tumblr_mvjjpd9e9s1qfoihvo4_500.jpg)
-
-
-
-![](http://31.media.tumblr.com/82abd60ff6b737f4016a1b6c35c8c817/tumblr_mvjjpd9e9s1qfoihvo2_500.jpg)
-
-
-
 ![](http://24.media.tumblr.com/c683b2071adb0fe61a4f6bc335082806/tumblr_mvjjpd9e9s1qfoihvo1_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/589614ab77810cba0f16a6aba818fee0/tumblr_mvjjpd9e9s1qfoihvo3_500.jpg)
 
 
 
@@ -528,19 +508,23 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/web04.jpg)
+![](http://31.media.tumblr.com/82abd60ff6b737f4016a1b6c35c8c817/tumblr_mvjjpd9e9s1qfoihvo2_500.jpg)
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/web01.jpg)
+![](http://24.media.tumblr.com/589614ab77810cba0f16a6aba818fee0/tumblr_mvjjpd9e9s1qfoihvo3_500.jpg)
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/web03.jpg)
+![](http://31.media.tumblr.com/83e018744f284fa02abc3d046e36cbca/tumblr_mvjjpd9e9s1qfoihvo4_500.jpg)
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/web02.jpg)
+![](http://25.media.tumblr.com/7025ec55f047d6fbfee663c4eccf7e35/tumblr_mvjjpd9e9s1qfoihvo7_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/f208f6e07106cb7784f5a5b50b61a8e1/tumblr_mvjjpd9e9s1qfoihvo5_500.jpg)
 
 
 
@@ -548,19 +532,23 @@ Generated from:
 
 
 
+![](http://typography-daily.com/wp-content/uploads/2013/10/web02.jpg)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/web03.jpg)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/web01.jpg)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/web04.jpg)
+
+
+
 ![](http://incredibletypes.com/it-cms/wp-content/uploads/2013/11/uni-arts-helsinki-01-450x337.jpg)
-
-
-
-![](http://typography-daily.com/wp-content/uploads/2013/10/f_2690877.jpg)
-
-
-
-![](http://typography-daily.com/wp-content/uploads/2013/10/6784131.jpg)
-
-
-
-![](http://typography-daily.com/wp-content/uploads/2013/10/f_2686876.jpg)
 
 
 
@@ -568,7 +556,15 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/779c395e339e09406ba0db70b8302069/tumblr_mvj25eqN9o1qi4z1yo1_500.jpg)
+![](http://typography-daily.com/wp-content/uploads/2013/10/f_2686876.jpg)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/6784131.jpg)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/f_2690877.jpg)
 
 
 
@@ -580,7 +576,15 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/f3963d677769e27c1c34b6290fc418a1/tumblr_mvj25eqN9o1qi4z1yo6_r1_400.jpg)
+![](http://24.media.tumblr.com/728be597905798301c50d5751c82400c/tumblr_mvj25eqN9o1qi4z1yo4_r1_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/779c395e339e09406ba0db70b8302069/tumblr_mvj25eqN9o1qi4z1yo1_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/f51d259551b0d29b70067b03e9b39768/tumblr_mvj25eqN9o1qi4z1yo3_r1_500.jpg)
 
 
 
@@ -588,11 +592,15 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/728be597905798301c50d5751c82400c/tumblr_mvj25eqN9o1qi4z1yo4_r1_500.jpg)
+![](http://25.media.tumblr.com/f3963d677769e27c1c34b6290fc418a1/tumblr_mvj25eqN9o1qi4z1yo6_r1_400.jpg)
 
 
 
-![](http://24.media.tumblr.com/f51d259551b0d29b70067b03e9b39768/tumblr_mvj25eqN9o1qi4z1yo3_r1_500.jpg)
+![](http://24.media.tumblr.com/825b9bf45bccbc678e7f244eca0297c3/tumblr_mvhrexBXtj1qfoihvo5_500.jpg)
+
+
+
+![](http://31.media.tumblr.com/640237ee4156cdaa1be27a75ab488208/tumblr_mvhrexBXtj1qfoihvo3_500.jpg)
 
 
 
@@ -604,23 +612,11 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/19eb771cec81ef2e31eacd6c070ccef8/tumblr_mvhrexBXtj1qfoihvo4_500.jpg)
-
-
-
-![](http://31.media.tumblr.com/640237ee4156cdaa1be27a75ab488208/tumblr_mvhrexBXtj1qfoihvo3_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/825b9bf45bccbc678e7f244eca0297c3/tumblr_mvhrexBXtj1qfoihvo5_500.jpg)
-
-
-
 ![](http://24.media.tumblr.com/92d5aac703aa936c8c913bb8b27c4a3b/tumblr_mvhrexBXtj1qfoihvo6_500.jpg)
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/foto_28.jpg)
+![](http://24.media.tumblr.com/19eb771cec81ef2e31eacd6c070ccef8/tumblr_mvhrexBXtj1qfoihvo4_500.jpg)
 
 
 
@@ -628,11 +624,15 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/Alla_lettera_composizione.jpg)
-
-
-
 ![](http://typography-daily.com/wp-content/uploads/2013/10/foto_12.jpg)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/foto_20_19.jpg)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/foto_28.jpg)
 
 
 
@@ -640,7 +640,7 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/foto_20_19.jpg)
+![](http://typography-daily.com/wp-content/uploads/2013/10/Alla_lettera_composizione.jpg)
 
 
 
@@ -652,11 +652,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/T0000_011-756x505.jpg)
-
-
-
 ![](http://www.typetoken.net/wp-content/uploads/2013/10/T0000_061-756x505.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/T0000_011-756x505.jpg)
 
 
 
@@ -665,6 +665,10 @@ Generated from:
 
 
 ![](http://24.media.tumblr.com/07bf0de0118f5066c1b3ba87e491d5c0/tumblr_mvg1waOquj1qh0381o1_500.jpg)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/color-woodblocks-5.jpg)
 
 
 
@@ -692,10 +696,6 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/color-woodblocks-5.jpg)
-
-
-
 ![](http://25.media.tumblr.com/58cb684a0a3fc1b28592e197fd766f67/tumblr_mvfbi2yGzu1qh0381o1_500.jpg)
 
 
@@ -704,7 +704,7 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/058acf54ccf5bcca9f2546077c4b203e/tumblr_mvfbe63Zul1qfoihvo5_500.png)
+![](http://25.media.tumblr.com/203712e6a417e79f06d30de395dc9323/tumblr_mvfbe63Zul1qfoihvo2_500.jpg)
 
 
 
@@ -712,7 +712,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/203712e6a417e79f06d30de395dc9323/tumblr_mvfbe63Zul1qfoihvo2_500.jpg)
+![](http://24.media.tumblr.com/058acf54ccf5bcca9f2546077c4b203e/tumblr_mvfbe63Zul1qfoihvo5_500.png)
 
 
 
@@ -720,11 +720,7 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/124362.png)
-
-
-
-![](http://typography-daily.com/wp-content/uploads/2013/10/124354.png)
+![](http://typography-daily.com/wp-content/uploads/2013/10/124359.png)
 
 
 
@@ -732,7 +728,11 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/124359.png)
+![](http://typography-daily.com/wp-content/uploads/2013/10/124354.png)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/124362.png)
 
 
 
@@ -756,7 +756,19 @@ Generated from:
 
 
 
+![](http://www.typetoken.net/wp-content/uploads/2013/10/DMSQD_KyleWilkinson_ADC3-756x503.jpg)
+
+
+
 ![](http://www.typetoken.net/wp-content/uploads/2013/10/DMSQD_KyleWilkinson_ADC2-756x469.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/DMSQD_KyleWilkinson_ADC1-756x503.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/DMSQD_KyleWilkinson_ADC7-756x606.jpg)
 
 
 
@@ -765,18 +777,6 @@ Generated from:
 
 
 ![](http://www.typetoken.net/wp-content/uploads/2013/10/DMSQD_KyleWilkinson_ADC5-756x503.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/DMSQD_KyleWilkinson_ADC3-756x503.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/DMSQD_KyleWilkinson_ADC7-756x606.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/DMSQD_KyleWilkinson_ADC1-756x503.jpg)
 
 
 
@@ -796,15 +796,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/3faf856ef42fa49225970f2e05d4eb2c/tumblr_mv8dd62FMH1qi4z1yo1_500.png)
-
-
-
 ![](http://31.media.tumblr.com/45806d8b1abd2cddbc1e1a82b588b985/tumblr_mv8dd62FMH1qi4z1yo3_500.png)
-
-
-
-![](http://25.media.tumblr.com/58b3faa079721bfd7f10f84da6950f3b/tumblr_mv8dd62FMH1qi4z1yo2_500.png)
 
 
 
@@ -812,7 +804,11 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/motor-oil.jpg)
+![](http://25.media.tumblr.com/58b3faa079721bfd7f10f84da6950f3b/tumblr_mv8dd62FMH1qi4z1yo2_500.png)
+
+
+
+![](http://25.media.tumblr.com/3faf856ef42fa49225970f2e05d4eb2c/tumblr_mv8dd62FMH1qi4z1yo1_500.png)
 
 
 
@@ -820,15 +816,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/dinamo_grow_09.jpg)
+![](http://typography-daily.com/wp-content/uploads/2013/10/motor-oil.jpg)
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/dinamo_grow_03.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/dinamo_grow_07.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/10/dinamo_grow_06.jpg)
 
 
 
@@ -837,10 +829,6 @@ Generated from:
 
 
 ![](http://www.typetoken.net/wp-content/uploads/2013/10/dinamo_grow_02.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/dinamo_grow_06.jpg)
 
 
 
@@ -856,11 +844,23 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/b174cd208c0a21ed154c85d3ac570a31/tumblr_mv71wfnDPz1qi4z1yo1_500.gif)
+![](http://www.typetoken.net/wp-content/uploads/2013/10/dinamo_grow_09.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/dinamo_grow_03.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/dinamo_grow_07.jpg)
 
 
 
 ![](http://24.media.tumblr.com/e4c59f3fa9db155af16ef6ce8ca33b10/tumblr_mv71wfnDPz1qi4z1yo2_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/b174cd208c0a21ed154c85d3ac570a31/tumblr_mv71wfnDPz1qi4z1yo1_500.gif)
 
 
 
@@ -884,11 +884,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/AL-Cover-1.jpg)
-
-
-
 ![](http://www.typetoken.net/wp-content/uploads/2013/10/AL-Spread-2.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/AL-Cover-1.jpg)
 
 
 
@@ -904,18 +904,6 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/122610.png)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/122660.png)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/D.png)
-
-
-
 ![](http://www.typetoken.net/wp-content/uploads/2013/10/122655.png)
 
 
@@ -928,11 +916,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/122656.png)
+![](http://www.typetoken.net/wp-content/uploads/2013/10/D.png)
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/B.png)
+![](http://www.typetoken.net/wp-content/uploads/2013/10/C.png)
 
 
 
@@ -940,7 +928,23 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/C.png)
+![](http://www.typetoken.net/wp-content/uploads/2013/10/B.png)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/122656.png)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/122660.png)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/122610.png)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/126076.jpg)
 
 
 
@@ -952,23 +956,19 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/125909.jpg)
-
-
-
 ![](http://typography-daily.com/wp-content/uploads/2013/10/126025.jpg)
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/126076.jpg)
+![](http://typography-daily.com/wp-content/uploads/2013/10/125909.jpg)
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/a5.jpg)
+![](http://typography-daily.com/wp-content/uploads/2013/10/a3.jpg)
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/a2.jpg)
+![](http://typography-daily.com/wp-content/uploads/2013/10/a8a.jpg)
 
 
 
@@ -976,7 +976,7 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/a8a.jpg)
+![](http://typography-daily.com/wp-content/uploads/2013/10/a2.jpg)
 
 
 
@@ -988,7 +988,7 @@ Generated from:
 
 
 
-![](http://typography-daily.com/wp-content/uploads/2013/10/a3.jpg)
+![](http://typography-daily.com/wp-content/uploads/2013/10/a5.jpg)
 
 
 
@@ -1004,10 +1004,6 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/313e927fb196b091e1429c0041c8e842/tumblr_mv52huILKh1qfoihvo4_500.jpg)
-
-
-
 ![](http://25.media.tumblr.com/00945fd0fe5cd6dc6af8b362e9e99a3d/tumblr_mv52huILKh1qfoihvo6_500.jpg)
 
 
@@ -1016,7 +1012,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/19f452b65bd1da0cdaa8ce15e925e101/tumblr_mv52huILKh1qfoihvo3_500.jpg)
+![](http://31.media.tumblr.com/313e927fb196b091e1429c0041c8e842/tumblr_mv52huILKh1qfoihvo4_500.jpg)
 
 
 
@@ -1024,11 +1020,11 @@ Generated from:
 
 
 
+![](http://25.media.tumblr.com/19f452b65bd1da0cdaa8ce15e925e101/tumblr_mv52huILKh1qfoihvo3_500.jpg)
+
+
+
 ![](http://25.media.tumblr.com/228d486cf21896a75ec0666903dc323e/tumblr_mv4y4cIkgC1qh0381o1_500.jpg)
-
-
-
-![](http://typography-daily.com/wp-content/uploads/2013/10/RZDA_AfficheWeb_HorsCadres.jpg)
 
 
 
@@ -1036,11 +1032,11 @@ Generated from:
 
 
 
+![](http://typography-daily.com/wp-content/uploads/2013/10/RZDA_AfficheWeb_HorsCadres.jpg)
+
+
+
 ![](http://typography-daily.com/wp-content/uploads/2013/10/CI5.jpg)
-
-
-
-![](http://typography-daily.com/wp-content/uploads/2013/10/pistesnoires.jpg)
 
 
 
@@ -1048,7 +1044,11 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/e9c288b04e2cfb338495bc1d36cee827/tumblr_mv46z2sGdE1qi4z1yo2_r1_500.jpg)
+![](http://typography-daily.com/wp-content/uploads/2013/10/pistesnoires.jpg)
+
+
+
+![](http://24.media.tumblr.com/5006497b6a243a8d2cce3c6a9243a52f/tumblr_mv46z2sGdE1qi4z1yo3_r1_500.jpg)
 
 
 
@@ -1068,11 +1068,19 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/5006497b6a243a8d2cce3c6a9243a52f/tumblr_mv46z2sGdE1qi4z1yo3_r1_500.jpg)
+![](http://31.media.tumblr.com/e9c288b04e2cfb338495bc1d36cee827/tumblr_mv46z2sGdE1qi4z1yo2_r1_500.jpg)
 
 
 
 ![](http://incredibletypes.com/it-cms/wp-content/uploads/2013/10/university-of-the-arts-viewbook-01-450x301.jpg)
+
+
+
+![](http://24.media.tumblr.com/bf291bf34f7cc6c98bebe29bf773697c/tumblr_mv2w65JvS71qfoihvo6_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/79ea3a005f50e087074577c7f2c3c9bd/tumblr_mv2w65JvS71qfoihvo7_500.jpg)
 
 
 
@@ -1084,15 +1092,19 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/79ea3a005f50e087074577c7f2c3c9bd/tumblr_mv2w65JvS71qfoihvo7_500.jpg)
-
-
-
 ![](http://31.media.tumblr.com/905207011228c3907e762fd9290822a7/tumblr_mv2w65JvS71qfoihvo9_500.jpg)
 
 
 
-![](http://24.media.tumblr.com/bf291bf34f7cc6c98bebe29bf773697c/tumblr_mv2w65JvS71qfoihvo6_500.jpg)
+![](http://25.media.tumblr.com/b95992b4ae409d47adeb47160e69870e/tumblr_mv2vt7ORXL1qfoihvo5_500.jpg)
+
+
+
+![](http://31.media.tumblr.com/781c3fa79bd1dac70aac0f322ba33475/tumblr_mv2vt7ORXL1qfoihvo4_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/fefbe8fab41a01745baa325b616519e6/tumblr_mv2vt7ORXL1qfoihvo3_500.jpg)
 
 
 
@@ -1108,15 +1120,7 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/781c3fa79bd1dac70aac0f322ba33475/tumblr_mv2vt7ORXL1qfoihvo4_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/b95992b4ae409d47adeb47160e69870e/tumblr_mv2vt7ORXL1qfoihvo5_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/fefbe8fab41a01745baa325b616519e6/tumblr_mv2vt7ORXL1qfoihvo3_500.jpg)
+![](http://24.media.tumblr.com/bb7443e095270e5bb1cddfdb6894c6c0/tumblr_mv2mx1BKQ71qi4z1yo1_500.jpg)
 
 
 
@@ -1124,19 +1128,15 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/bb7443e095270e5bb1cddfdb6894c6c0/tumblr_mv2mx1BKQ71qi4z1yo1_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/11b949cf22cbca407f7946219fb49ee9/tumblr_mv24rj4nbA1qfoihvo6_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/6bfe7272c9026821df429ee7ae2535ce/tumblr_mv24rj4nbA1qfoihvo3_500.jpg)
+![](http://24.media.tumblr.com/9ad87a70ac1f635560fe1443bde88e9b/tumblr_mv24rj4nbA1qfoihvo2_500.jpg)
 
 
 
 ![](http://24.media.tumblr.com/42a5d9196e777e5a14b5febf71f0dd22/tumblr_mv24rj4nbA1qfoihvo7_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/98c5d582cd8d66b89e5302f042834277/tumblr_mv24rj4nbA1qfoihvo5_500.jpg)
 
 
 
@@ -1148,11 +1148,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/98c5d582cd8d66b89e5302f042834277/tumblr_mv24rj4nbA1qfoihvo5_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/9ad87a70ac1f635560fe1443bde88e9b/tumblr_mv24rj4nbA1qfoihvo2_500.jpg)
+![](http://25.media.tumblr.com/11b949cf22cbca407f7946219fb49ee9/tumblr_mv24rj4nbA1qfoihvo6_500.jpg)
 
 
 
@@ -1164,11 +1160,11 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/4c29449670a1a3250818f1df690ee5e4/tumblr_mv1mullTCJ1qi4z1yo5_500.jpg)
+![](http://25.media.tumblr.com/6bfe7272c9026821df429ee7ae2535ce/tumblr_mv24rj4nbA1qfoihvo3_500.jpg)
 
 
 
-![](http://31.media.tumblr.com/3d6b3c6acb7282c95433e26a6f8c2359/tumblr_mv1mullTCJ1qi4z1yo1_500.jpg)
+![](http://25.media.tumblr.com/4f5203b6786ef34dcda07e848175adc8/tumblr_mv1mullTCJ1qi4z1yo2_500.jpg)
 
 
 
@@ -1188,7 +1184,11 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/4f5203b6786ef34dcda07e848175adc8/tumblr_mv1mullTCJ1qi4z1yo2_500.jpg)
+![](http://31.media.tumblr.com/3d6b3c6acb7282c95433e26a6f8c2359/tumblr_mv1mullTCJ1qi4z1yo1_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/4c29449670a1a3250818f1df690ee5e4/tumblr_mv1mullTCJ1qi4z1yo5_500.jpg)
 
 
 
@@ -1200,15 +1200,11 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/31f9f31d2f668495399991f8ca37c8b1/tumblr_mv16mzx4Zq1qfoihvo2_500.jpg)
-
-
-
 ![](http://24.media.tumblr.com/72cd76b372e50260309fde8a35b10b2b/tumblr_mv16mzx4Zq1qfoihvo1_500.jpg)
 
 
 
-![](http://25.media.tumblr.com/60dbfa4724f2b54b3d5c2e68b34e39e3/tumblr_mv16mzx4Zq1qfoihvo3_500.jpg)
+![](http://25.media.tumblr.com/31f9f31d2f668495399991f8ca37c8b1/tumblr_mv16mzx4Zq1qfoihvo2_500.jpg)
 
 
 
@@ -1216,19 +1212,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/dc7ae205ae20dbb5184c3f46852593b3/tumblr_mv0zny6xJH1qfoihvo6_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/dace4c048c6936fca622fd6e348380b8/tumblr_mv0zny6xJH1qfoihvo7_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/d36bc295d5cd61b1b0174dcaadf93a93/tumblr_mv0zny6xJH1qfoihvo4_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/003efef909b528c0929e536c39819a50/tumblr_mv0zny6xJH1qfoihvo5_500.jpg)
+![](http://25.media.tumblr.com/60dbfa4724f2b54b3d5c2e68b34e39e3/tumblr_mv16mzx4Zq1qfoihvo3_500.jpg)
 
 
 
@@ -1236,7 +1220,15 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/86a09a1c1f9038465e30fa16ba0400d5/tumblr_mv0zny6xJH1qfoihvo3_500.jpg)
+![](http://24.media.tumblr.com/dace4c048c6936fca622fd6e348380b8/tumblr_mv0zny6xJH1qfoihvo7_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/003efef909b528c0929e536c39819a50/tumblr_mv0zny6xJH1qfoihvo5_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/d36bc295d5cd61b1b0174dcaadf93a93/tumblr_mv0zny6xJH1qfoihvo4_500.jpg)
 
 
 
@@ -1244,7 +1236,11 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/069f7de494b0d9662781b3b202d78afe/tumblr_mv0zjn5q4t1s2la0do1_500.jpg)
+![](http://25.media.tumblr.com/dc7ae205ae20dbb5184c3f46852593b3/tumblr_mv0zny6xJH1qfoihvo6_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/86a09a1c1f9038465e30fa16ba0400d5/tumblr_mv0zny6xJH1qfoihvo3_500.jpg)
 
 
 
@@ -1252,15 +1248,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Overview_pages_2-8.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Overview_pages_2-2.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Final_AW-6.jpg)
+![](http://24.media.tumblr.com/069f7de494b0d9662781b3b202d78afe/tumblr_mv0zjn5q4t1s2la0do1_500.jpg)
 
 
 
@@ -1268,11 +1256,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Overview_pages_2-5.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/Wire_Animation_V2.gif)
+![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Overview_pages_2-6.jpg)
 
 
 
@@ -1280,11 +1264,27 @@ Generated from:
 
 
 
+![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Overview_pages_2-8.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Final_AW-6.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/Wire_Animation_V2.gif)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Overview_pages_2-2.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Overview_pages_2-5.jpg)
+
+
+
 ![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Final_AW-5.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/Purpose_Darts_Overview_pages_2-6.jpg)
 
 
 
@@ -1300,35 +1300,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/3e7d481d3f8842de9af4bdd99213bbfa/tumblr_mutr5juWjl1qi4z1yo5_500.png)
-
-
-
-![](http://31.media.tumblr.com/3bece4dd23c7e758e9328992de0c1a7d/tumblr_mutr5juWjl1qi4z1yo10_500.png)
-
-
-
-![](http://24.media.tumblr.com/1fd6de34895543860c7a93083c6d68ad/tumblr_mutr5juWjl1qi4z1yo4_500.png)
-
-
-
-![](http://25.media.tumblr.com/6c6f673cfdce3b13879c1fbff9a00e0c/tumblr_mutr5juWjl1qi4z1yo1_500.png)
-
-
-
-![](http://25.media.tumblr.com/bf165df32e37bab7ed766e323082105b/tumblr_mutr5juWjl1qi4z1yo8_r1_500.jpg)
-
-
-
-![](http://31.media.tumblr.com/d10a549dad7f5a8acbb735a23a628a7b/tumblr_mutr5juWjl1qi4z1yo3_500.png)
-
-
-
-![](http://25.media.tumblr.com/39153f1c4f04b68445c61648f1817e50/tumblr_mutr5juWjl1qi4z1yo6_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/2397680cc86466910e1dcc3c4813a721/tumblr_mutr5juWjl1qi4z1yo7_500.png)
+![](http://25.media.tumblr.com/752ac33f3dabad16089423148e1f3c2f/tumblr_mutr5juWjl1qi4z1yo2_r1_500.png)
 
 
 
@@ -1336,7 +1308,35 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/752ac33f3dabad16089423148e1f3c2f/tumblr_mutr5juWjl1qi4z1yo2_r1_500.png)
+![](http://25.media.tumblr.com/2397680cc86466910e1dcc3c4813a721/tumblr_mutr5juWjl1qi4z1yo7_500.png)
+
+
+
+![](http://25.media.tumblr.com/39153f1c4f04b68445c61648f1817e50/tumblr_mutr5juWjl1qi4z1yo6_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/3e7d481d3f8842de9af4bdd99213bbfa/tumblr_mutr5juWjl1qi4z1yo5_500.png)
+
+
+
+![](http://25.media.tumblr.com/bf165df32e37bab7ed766e323082105b/tumblr_mutr5juWjl1qi4z1yo8_r1_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/1fd6de34895543860c7a93083c6d68ad/tumblr_mutr5juWjl1qi4z1yo4_500.png)
+
+
+
+![](http://31.media.tumblr.com/d10a549dad7f5a8acbb735a23a628a7b/tumblr_mutr5juWjl1qi4z1yo3_500.png)
+
+
+
+![](http://25.media.tumblr.com/6c6f673cfdce3b13879c1fbff9a00e0c/tumblr_mutr5juWjl1qi4z1yo1_500.png)
+
+
+
+![](http://31.media.tumblr.com/3bece4dd23c7e758e9328992de0c1a7d/tumblr_mutr5juWjl1qi4z1yo10_500.png)
 
 
 
@@ -1356,23 +1356,15 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/a6507fa5b10bfe4ef3f763a7565021d4/tumblr_mutbvyFFVg1qfoihvo1_500.jpg)
-
-
-
 ![](http://24.media.tumblr.com/36b5c426d001a516e340606303ebe4b7/tumblr_mutbvyFFVg1qfoihvo2_500.jpg)
 
 
 
+![](http://24.media.tumblr.com/a6507fa5b10bfe4ef3f763a7565021d4/tumblr_mutbvyFFVg1qfoihvo1_500.jpg)
+
+
+
 ![](http://24.media.tumblr.com/fbb880f22940cd3f1ab9ce8bcaf96fc6/tumblr_mutas0nCXg1qfoihvo1_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/58400cc93d8a2a4d786fb379b408a079/tumblr_murs0c4Qc21qfoihvo2_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/f77d0eda6dab6ff9729c2b5b7ad5c15f/tumblr_murs0c4Qc21qfoihvo5_500.jpg)
 
 
 
@@ -1388,11 +1380,19 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/843b4acd14f8cf9ba2e526951a74074b/tumblr_murs0c4Qc21qfoihvo6_500.jpg)
+![](http://25.media.tumblr.com/58400cc93d8a2a4d786fb379b408a079/tumblr_murs0c4Qc21qfoihvo2_500.jpg)
 
 
 
 ![](http://25.media.tumblr.com/cb4cc033942e0ba8fb52c3fdf8b3321e/tumblr_murs0c4Qc21qfoihvo1_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/843b4acd14f8cf9ba2e526951a74074b/tumblr_murs0c4Qc21qfoihvo6_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/f77d0eda6dab6ff9729c2b5b7ad5c15f/tumblr_murs0c4Qc21qfoihvo5_500.jpg)
 
 
 
@@ -1412,7 +1412,7 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/0a7293187f926a4dfcfa5abd10f361a0/tumblr_mupdnwYiLg1qfoihvo7_500.jpg)
+![](http://31.media.tumblr.com/2dc7a0d1957f91386a83f8c948daa2af/tumblr_mupdnwYiLg1qfoihvo5_500.jpg)
 
 
 
@@ -1420,7 +1420,15 @@ Generated from:
 
 
 
+![](http://31.media.tumblr.com/0a7293187f926a4dfcfa5abd10f361a0/tumblr_mupdnwYiLg1qfoihvo7_500.jpg)
+
+
+
 ![](http://25.media.tumblr.com/330c7f5fbfbad4c93fca3776368fc563/tumblr_mupdnwYiLg1qfoihvo4_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/c5aed6ce08e5d8e7f962740ccca66f8d/tumblr_mupdnwYiLg1qfoihvo1_500.jpg)
 
 
 
@@ -1432,19 +1440,7 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/2dc7a0d1957f91386a83f8c948daa2af/tumblr_mupdnwYiLg1qfoihvo5_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/c5aed6ce08e5d8e7f962740ccca66f8d/tumblr_mupdnwYiLg1qfoihvo1_500.jpg)
-
-
-
 ![](http://media.typographicposters.com/rejane-dal-bello/m/rejanedalbello-alzheimer-01.jpg)
-
-
-
-![](http://media.typographicposters.com/rejane-dal-bello/m/rejanedalbello-alzheimer-02.jpg)
 
 
 
@@ -1452,23 +1448,11 @@ Generated from:
 
 
 
+![](http://media.typographicposters.com/rejane-dal-bello/m/rejanedalbello-alzheimer-02.jpg)
+
+
+
 ![](http://25.media.tumblr.com/a8a448dc2a87e16ea3c81000753c4138/tumblr_muihaxVqBn1qi4z1yo2_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/592c7839673ee065460df9ffdb640dbe/tumblr_muihaxVqBn1qi4z1yo5_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/93bffc8cab9125c910eeb26f79a5d105/tumblr_muihaxVqBn1qi4z1yo1_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/3bc8c3d3be9563439a497fb6cb304170/tumblr_muihaxVqBn1qi4z1yo3_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/5f618304d1ac3483362027ca84d3cd34/tumblr_muihaxVqBn1qi4z1yo4_500.jpg)
 
 
 
@@ -1480,35 +1464,19 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/63620188b8eaf1feb39cd4afb5273d62/tumblr_mugkuhNVIg1qfoihvo5_500.jpg)
+![](http://24.media.tumblr.com/3bc8c3d3be9563439a497fb6cb304170/tumblr_muihaxVqBn1qi4z1yo3_500.jpg)
 
 
 
-![](http://24.media.tumblr.com/f83b9d42db59630f701d29977a8df2f3/tumblr_mugkuhNVIg1qfoihvo9_500.jpg)
+![](http://24.media.tumblr.com/93bffc8cab9125c910eeb26f79a5d105/tumblr_muihaxVqBn1qi4z1yo1_500.jpg)
 
 
 
-![](http://25.media.tumblr.com/40ba6b636fbb71f1193f925d15c4a17d/tumblr_mugkuhNVIg1qfoihvo8_500.jpg)
+![](http://24.media.tumblr.com/592c7839673ee065460df9ffdb640dbe/tumblr_muihaxVqBn1qi4z1yo5_500.jpg)
 
 
 
-![](http://24.media.tumblr.com/c436e258ae56723bab9940c113f0d204/tumblr_mugkuhNVIg1qfoihvo6_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/6e2164055e21da735b4aa69f60592fd4/tumblr_mugkuhNVIg1qfoihvo4_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/fa0c8e88f0ab3465197f67b9936b56ee/tumblr_mugkuhNVIg1qfoihvo7_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/9093f9c785451539f45c56140ab575fc/tumblr_mugkuhNVIg1qfoihvo3_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/5e73a660d82e94ca611d8b4be7a282bc/tumblr_mugkuhNVIg1qfoihvo2_500.jpg)
+![](http://24.media.tumblr.com/5f618304d1ac3483362027ca84d3cd34/tumblr_muihaxVqBn1qi4z1yo4_500.jpg)
 
 
 
@@ -1516,15 +1484,39 @@ Generated from:
 
 
 
+![](http://25.media.tumblr.com/5e73a660d82e94ca611d8b4be7a282bc/tumblr_mugkuhNVIg1qfoihvo2_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/9093f9c785451539f45c56140ab575fc/tumblr_mugkuhNVIg1qfoihvo3_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/fa0c8e88f0ab3465197f67b9936b56ee/tumblr_mugkuhNVIg1qfoihvo7_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/6e2164055e21da735b4aa69f60592fd4/tumblr_mugkuhNVIg1qfoihvo4_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/40ba6b636fbb71f1193f925d15c4a17d/tumblr_mugkuhNVIg1qfoihvo8_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/f83b9d42db59630f701d29977a8df2f3/tumblr_mugkuhNVIg1qfoihvo9_500.jpg)
+
+
+
+![](http://31.media.tumblr.com/63620188b8eaf1feb39cd4afb5273d62/tumblr_mugkuhNVIg1qfoihvo5_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/c436e258ae56723bab9940c113f0d204/tumblr_mugkuhNVIg1qfoihvo6_500.jpg)
+
+
+
 ![](http://incredibletypes.com/it-cms/wp-content/uploads/2013/10/foodand-01-450x583.jpg)
-
-
-
-![](http://24.media.tumblr.com/c63605d2323fe327a623546d8a9335e1/tumblr_mug6df592C1qi4z1yo2_r1_500.jpg)
-
-
-
-![](http://31.media.tumblr.com/21f67541a05d2981dccb6ae9818d10cc/tumblr_mug6df592C1qi4z1yo3_r1_500.jpg)
 
 
 
@@ -1532,19 +1524,11 @@ Generated from:
 
 
 
-![](http://media.typographicposters.com/matthias-tratz/m/flyer-bos-fasching-final-2011-02-04-web.jpg)
+![](http://31.media.tumblr.com/21f67541a05d2981dccb6ae9818d10cc/tumblr_mug6df592C1qi4z1yo3_r1_500.jpg)
 
 
 
-![](http://media.typographicposters.com/lamm-kirch/m/lamm-kirch-hgb-meisterschueler-1.jpg)
-
-
-
-![](http://media.typographicposters.com/quim-marin/m/jazz.jpg)
-
-
-
-![](http://media.typographicposters.com/lamm-kirch/m/lamm-kirch-junge-philharmonie-plakat-01-1.png)
+![](http://24.media.tumblr.com/c63605d2323fe327a623546d8a9335e1/tumblr_mug6df592C1qi4z1yo2_r1_500.jpg)
 
 
 
@@ -1552,11 +1536,15 @@ Generated from:
 
 
 
-![](http://media.typographicposters.com/matthias-tratz/m/plakat-2010-10-brezen.jpg)
-
-
-
 ![](http://media.typographicposters.com/quim-marin/m/marc.jpg)
+
+
+
+![](http://media.typographicposters.com/lamm-kirch/m/lamm-kirch-junge-philharmonie-plakat-01-1.png)
+
+
+
+![](http://media.typographicposters.com/quim-marin/m/jazz.jpg)
 
 
 
@@ -1564,15 +1552,23 @@ Generated from:
 
 
 
+![](http://media.typographicposters.com/matthias-tratz/m/plakat-2010-10-brezen.jpg)
+
+
+
+![](http://media.typographicposters.com/matthias-tratz/m/flyer-bos-fasching-final-2011-02-04-web.jpg)
+
+
+
 ![](http://media.typographicposters.com/quim-marin/m/maika.jpg)
 
 
 
+![](http://media.typographicposters.com/lamm-kirch/m/lamm-kirch-hgb-meisterschueler-1.jpg)
+
+
+
 ![](http://incredibletypes.com/it-cms/wp-content/uploads/2013/10/sheen_01-450x317.jpg)
-
-
-
-![](http://media.typographicposters.com/pierre-rousteau/m/septembre-pierre-rousteau.jpg)
 
 
 
@@ -1584,11 +1580,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/6851225c622d64a93a5da14ce90b4228/tumblr_mud0qnKH8N1qi4z1yo3_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/a5bfee6103ecddad1786497bb1e5807b/tumblr_mud0qnKH8N1qi4z1yo4_500.jpg)
+![](http://media.typographicposters.com/pierre-rousteau/m/septembre-pierre-rousteau.jpg)
 
 
 
@@ -1596,10 +1588,18 @@ Generated from:
 
 
 
+![](http://25.media.tumblr.com/6851225c622d64a93a5da14ce90b4228/tumblr_mud0qnKH8N1qi4z1yo3_500.jpg)
+
+
+
 ![](http://25.media.tumblr.com/92458e971bba6673a115a309e33f34da/tumblr_mud0qnKH8N1qi4z1yo2_500.jpg)
 
 
 
+![](http://24.media.tumblr.com/a5bfee6103ecddad1786497bb1e5807b/tumblr_mud0qnKH8N1qi4z1yo4_500.jpg)
+
+
+
 ![](http://31.media.tumblr.com/6c559d83834c56cd1c0c915cf4e828df/tumblr_muctr9KC1G1s2la0do1_500.jpg)
 
 
@@ -1621,18 +1621,18 @@ Generated from:
 
 
 ![](http://25.media.tumblr.com/2d47ecb254d3008c508d01039c823bc6/tumblr_mubglxIbKm1s2la0do1_500.jpg)
-
-
-
-![](http://31.media.tumblr.com/fdbacefb24f5fb1cae20afd531ec52d7/tumblr_mubc16l3zg1qfoihvo5_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/c0cfa064eeb3e58a5f1083ab50e847f1/tumblr_mubc16l3zg1qfoihvo3_500.jpg)
 
 
 
 ![](http://25.media.tumblr.com/06b70941550d9553098d79b0d5517811/tumblr_mubc16l3zg1qfoihvo2_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/58030f52b62d842065ff0d629a12ec8c/tumblr_mubc16l3zg1qfoihvo1_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/33f9a16436ae25712d0540fa14f90b58/tumblr_mubc16l3zg1qfoihvo6_500.jpg)
 
 
 
@@ -1644,11 +1644,31 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/33f9a16436ae25712d0540fa14f90b58/tumblr_mubc16l3zg1qfoihvo6_500.jpg)
+![](http://31.media.tumblr.com/fdbacefb24f5fb1cae20afd531ec52d7/tumblr_mubc16l3zg1qfoihvo5_500.jpg)
 
 
 
-![](http://25.media.tumblr.com/58030f52b62d842065ff0d629a12ec8c/tumblr_mubc16l3zg1qfoihvo1_500.jpg)
+![](http://25.media.tumblr.com/c0cfa064eeb3e58a5f1083ab50e847f1/tumblr_mubc16l3zg1qfoihvo3_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/e984b4b99266fb8df98641e2e7d30f23/tumblr_mubbqeNOZn1qfoihvo8_500.jpg)
+
+
+
+![](http://31.media.tumblr.com/8346e090bdeca25a91f33f9496358091/tumblr_mubbqeNOZn1qfoihvo5_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/9735bbc69c6f454f0dc86af9a642969b/tumblr_mubbqeNOZn1qfoihvo6_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/eb99418c00b72f24ea97d5b1ffaed23b/tumblr_mubbqeNOZn1qfoihvo2_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/a3af5bebb08c5c541dce05336f74209b/tumblr_mubbqeNOZn1qfoihvo7_500.jpg)
 
 
 
@@ -1660,27 +1680,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/e984b4b99266fb8df98641e2e7d30f23/tumblr_mubbqeNOZn1qfoihvo8_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/a3af5bebb08c5c541dce05336f74209b/tumblr_mubbqeNOZn1qfoihvo7_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/eb99418c00b72f24ea97d5b1ffaed23b/tumblr_mubbqeNOZn1qfoihvo2_500.jpg)
-
-
-
 ![](http://24.media.tumblr.com/ef41d19c77589980ed6c613b72dc69a3/tumblr_mubbqeNOZn1qfoihvo3_500.jpg)
-
-
-
-![](http://31.media.tumblr.com/8346e090bdeca25a91f33f9496358091/tumblr_mubbqeNOZn1qfoihvo5_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/9735bbc69c6f454f0dc86af9a642969b/tumblr_mubbqeNOZn1qfoihvo6_500.jpg)
 
 
 
@@ -1696,7 +1696,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/a440d62e62441756541de297d67e28fb/tumblr_mu5qbkyETS1qfoihvo4_500.jpg)
+![](http://24.media.tumblr.com/ab0b8b7724689e132ce401d109dbd135/tumblr_mu5qbkyETS1qfoihvo8_500.jpg)
 
 
 
@@ -1704,15 +1704,11 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/5bcbc21a24445b06f2aefff090afc7bb/tumblr_mu5qbkyETS1qfoihvo3_500.jpg)
+![](http://24.media.tumblr.com/9c995f3a45b35c7cafc04455b34fb450/tumblr_mu5qbkyETS1qfoihvo6_500.jpg)
 
 
 
-![](http://31.media.tumblr.com/90f790e9448ad756aaaa8a7f43567aeb/tumblr_mu5qbkyETS1qfoihvo5_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/ab0b8b7724689e132ce401d109dbd135/tumblr_mu5qbkyETS1qfoihvo8_500.jpg)
+![](http://25.media.tumblr.com/a440d62e62441756541de297d67e28fb/tumblr_mu5qbkyETS1qfoihvo4_500.jpg)
 
 
 
@@ -1724,7 +1720,11 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/9c995f3a45b35c7cafc04455b34fb450/tumblr_mu5qbkyETS1qfoihvo6_500.jpg)
+![](http://31.media.tumblr.com/90f790e9448ad756aaaa8a7f43567aeb/tumblr_mu5qbkyETS1qfoihvo5_500.jpg)
+
+
+
+![](http://31.media.tumblr.com/5bcbc21a24445b06f2aefff090afc7bb/tumblr_mu5qbkyETS1qfoihvo3_500.jpg)
 
 
 
@@ -1748,7 +1748,19 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/5dbccea9c9259f75b8e28b0b937bd358/tumblr_mu1zfsyz7D1qfoihvo6_500.jpg)
+![](http://31.media.tumblr.com/f9656f02cd82c303c3ba0f57741e6356/tumblr_mu1zfsyz7D1qfoihvo2_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/9da86094640c347f4a89f43611bbb9c5/tumblr_mu1zfsyz7D1qfoihvo1_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/8ac6106e4d2f18aeb436cea46ffa333a/tumblr_mu1zfsyz7D1qfoihvo3_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/eeb6012a1a777a3776326ba6119a83d0/tumblr_mu1zfsyz7D1qfoihvo4_500.jpg)
 
 
 
@@ -1760,31 +1772,7 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/eeb6012a1a777a3776326ba6119a83d0/tumblr_mu1zfsyz7D1qfoihvo4_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/8ac6106e4d2f18aeb436cea46ffa333a/tumblr_mu1zfsyz7D1qfoihvo3_500.jpg)
-
-
-
-![](http://31.media.tumblr.com/f9656f02cd82c303c3ba0f57741e6356/tumblr_mu1zfsyz7D1qfoihvo2_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/9da86094640c347f4a89f43611bbb9c5/tumblr_mu1zfsyz7D1qfoihvo1_500.jpg)
-
-
-
-![](http://31.media.tumblr.com/67108657e415c03cc067dcefd50427c1/tumblr_mu1x3lrrEn1qi4z1yo8_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/7933a5b41593a4834804766fd9594d77/tumblr_mu1x3lrrEn1qi4z1yo2_500.jpg)
-
-
-
-![](http://24.media.tumblr.com/1bf1e8b00b7762046fbdc32be9ad5e9b/tumblr_mu1x3lrrEn1qi4z1yo1_500.jpg)
+![](http://31.media.tumblr.com/5dbccea9c9259f75b8e28b0b937bd358/tumblr_mu1zfsyz7D1qfoihvo6_500.jpg)
 
 
 
@@ -1792,7 +1780,7 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/c7cf5981d2117b94efc6830c0805c0cb/tumblr_mu1x3lrrEn1qi4z1yo5_500.jpg)
+![](http://24.media.tumblr.com/1bf1e8b00b7762046fbdc32be9ad5e9b/tumblr_mu1x3lrrEn1qi4z1yo1_500.jpg)
 
 
 
@@ -1800,39 +1788,19 @@ Generated from:
 
 
 
+![](http://24.media.tumblr.com/c7cf5981d2117b94efc6830c0805c0cb/tumblr_mu1x3lrrEn1qi4z1yo5_500.jpg)
+
+
+
+![](http://31.media.tumblr.com/67108657e415c03cc067dcefd50427c1/tumblr_mu1x3lrrEn1qi4z1yo8_500.jpg)
+
+
+
 ![](http://31.media.tumblr.com/3dee483b7ff53470f0acb8bd944b7a0c/tumblr_mu1x3lrrEn1qi4z1yo3_500.jpg)
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp112-113.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp530-531.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_Editorial_5.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_Editorial_1.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/1986_ICOGRADA_Student_Seminar-Poster.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp490-491.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/1942_Aid_to_Russia_Fund-Poster.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp230-231.jpg)
+![](http://24.media.tumblr.com/7933a5b41593a4834804766fd9594d77/tumblr_mu1x3lrrEn1qi4z1yo2_500.jpg)
 
 
 
@@ -1840,43 +1808,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp246-247.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp530-531.jpg)
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp114-115.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp12-13.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp258-259.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp288-289.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp180-181.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp326-327.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp176-177.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp332-333.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp494-495.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp490-491.jpg)
 
 
 
@@ -1884,11 +1820,83 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/c8545a879396ee2f8272e7d124c57fa9/tumblr_mtzuk70Mmf1s2la0do1_500.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp494-495.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_Editorial_1.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp180-181.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp246-247.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp230-231.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp12-13.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp112-113.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp332-333.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp176-177.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp326-327.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp288-289.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp258-259.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_pp114-115.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/FHK_Henrion_Editorial_5.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/1942_Aid_to_Russia_Fund-Poster.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/1986_ICOGRADA_Student_Seminar-Poster.jpg)
 
 
 
 ![](http://25.media.tumblr.com/c8545a879396ee2f8272e7d124c57fa9/tumblr_mtzuk70Mmf1s2la0do1_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/c8545a879396ee2f8272e7d124c57fa9/tumblr_mtzuk70Mmf1s2la0do1_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/a73e36bf81e482fc4feccf4534e833ff/tumblr_mtzmq6LTjg1qfoihvo2_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/e2ecdec1166436c3272c3b32f0f9ea76/tumblr_mtzmq6LTjg1qfoihvo3_500.jpg)
 
 
 
@@ -1900,19 +1908,19 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/a58f93b8797dea4f26c835d850708ace/tumblr_mtzmq6LTjg1qfoihvo5_500.jpg)
-
-
-
 ![](http://24.media.tumblr.com/fdd842f93219a82ab1ce61178a96afdb/tumblr_mtzmq6LTjg1qfoihvo7_500.jpg)
 
 
 
+![](http://25.media.tumblr.com/a58f93b8797dea4f26c835d850708ace/tumblr_mtzmq6LTjg1qfoihvo5_500.jpg)
+
+
+
+![](http://25.media.tumblr.com/3d24cd256357dfe038b4146b8a02c503/tumblr_mtzmq6LTjg1qfoihvo1_500.jpg)
+
+
+
 ![](http://31.media.tumblr.com/e9d0d02c5bc8002c4b07de4bb3b93cdb/tumblr_mtzmq6LTjg1qfoihvo8_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/a73e36bf81e482fc4feccf4534e833ff/tumblr_mtzmq6LTjg1qfoihvo2_500.jpg)
 
 
 
@@ -1924,19 +1932,15 @@ Generated from:
 
 
 
-![](http://25.media.tumblr.com/3d24cd256357dfe038b4146b8a02c503/tumblr_mtzmq6LTjg1qfoihvo1_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/e2ecdec1166436c3272c3b32f0f9ea76/tumblr_mtzmq6LTjg1qfoihvo3_500.jpg)
-
-
-
 ![](http://25.media.tumblr.com/0b4857165cdb55de7c84d81b4cd65241/tumblr_mtyfa0dyMM1s2la0do1_500.jpg)
 
 
 
 ![](http://25.media.tumblr.com/0b4857165cdb55de7c84d81b4cd65241/tumblr_mtyfa0dyMM1s2la0do1_500.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/09/FS_Matthew1.gif)
 
 
 
@@ -1948,19 +1952,15 @@ Generated from:
 
 
 
+![](http://www.typetoken.net/wp-content/uploads/2013/09/FS_Maja1.gif)
+
+
+
 ![](http://www.typetoken.net/wp-content/uploads/2013/09/FS_Hackney1.gif)
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/09/FS_Matthew1.gif)
-
-
-
 ![](http://www.typetoken.net/wp-content/uploads/2013/09/FS_Matthew2.gif)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/09/FS_Maja1.gif)
 
 
 
@@ -1980,11 +1980,7 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/f6f0bc9ad0b19819b16ef81d4dadc2bf/tumblr_mtq6knlyRy1qfoihvo3_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/e03a9d0d2e91fd805aa2d00dc290e4b3/tumblr_mtq6knlyRy1qfoihvo2_500.jpg)
+![](http://24.media.tumblr.com/3f42119a50b7e8db9d6d7f32c82ed615/tumblr_mtq6knlyRy1qfoihvo8_500.jpg)
 
 
 
@@ -1992,11 +1988,7 @@ Generated from:
 
 
 
-![](http://31.media.tumblr.com/81c6921eda000867ec1e35890d0a6816/tumblr_mtq6knlyRy1qfoihvo6_500.jpg)
-
-
-
-![](http://25.media.tumblr.com/4b9e0965dfc9ceb658119bd1ed470f33/tumblr_mtq6knlyRy1qfoihvo1_500.jpg)
+![](http://25.media.tumblr.com/e03a9d0d2e91fd805aa2d00dc290e4b3/tumblr_mtq6knlyRy1qfoihvo2_500.jpg)
 
 
 
@@ -2004,7 +1996,15 @@ Generated from:
 
 
 
-![](http://24.media.tumblr.com/3f42119a50b7e8db9d6d7f32c82ed615/tumblr_mtq6knlyRy1qfoihvo8_500.jpg)
+![](http://25.media.tumblr.com/4b9e0965dfc9ceb658119bd1ed470f33/tumblr_mtq6knlyRy1qfoihvo1_500.jpg)
+
+
+
+![](http://24.media.tumblr.com/f6f0bc9ad0b19819b16ef81d4dadc2bf/tumblr_mtq6knlyRy1qfoihvo3_500.jpg)
+
+
+
+![](http://31.media.tumblr.com/81c6921eda000867ec1e35890d0a6816/tumblr_mtq6knlyRy1qfoihvo6_500.jpg)
 
 
 
@@ -2080,19 +2080,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer12-756px.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer10-756px.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer4-756px.jpg)
 
 
 
 ![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer14-756px.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer11-756px.jpg)
 
 
 
@@ -2116,7 +2108,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer4-756px.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer13-756px.jpg)
 
 
 
@@ -2140,7 +2132,15 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer13-756px.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer10-756px.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer11-756px.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer12-756px.jpg)
 
 
 
@@ -2152,7 +2152,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/Archive-1000-05.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Archive-1000-13.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Archive-1000-14.jpg)
 
 
 
@@ -2184,7 +2188,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/Archive-1000-15.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Archive-1000-05.jpg)
 
 
 
@@ -2212,11 +2216,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/Archive-1000-13.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/Archive-1000-14.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Archive-1000-15.jpg)
 
 
 
@@ -2228,15 +2228,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/FGTT-BOOK-Lores-97.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/FGTT-BOOK-Lores-2.jpg)
 
 
 
 ![](http://www.typetoken.net/wp-content/uploads/2013/08/FGTT-BOOK-Lores-98.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/FGTT-BOOK-Lores-78.jpg)
 
 
 
@@ -2248,11 +2244,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/FGTT-BOOK-Lores-134-756x567.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/FGTT-BOOK-Lores-97.jpg)
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/FGTT-BOOK-Lores-2.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/FGTT-BOOK-Lores-78.jpg)
 
 
 
@@ -2272,11 +2268,15 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/Sweet_Dust_type3.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/FGTT-BOOK-Lores-134-756x567.jpg)
 
 
 
 ![](http://www.typetoken.net/wp-content/uploads/2013/08/Lumen_type2.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Lumen_type1.jpg)
 
 
 
@@ -2292,7 +2292,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/Lumen_type1.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Sweet_Dust_type3.jpg)
 
 
 
@@ -2316,15 +2316,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/va_type_specimen_vol2_03.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/va_type_specimen_vol2_12.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/Q6Q9278.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Q6Q4979.jpg)
 
 
 
@@ -2332,15 +2324,15 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/va_type_vol1_041.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/va_type_specimen_vol2_12.jpg)
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/Q6Q4979.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/va_type_specimen_vol2_03.jpg)
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/Q6Q6131.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Q6Q5761.jpg)
 
 
 
@@ -2348,7 +2340,15 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/Q6Q5761.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Q6Q6131.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Q6Q9278.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/va_type_vol1_041.jpg)
 
 
 
@@ -2360,6 +2360,14 @@ Generated from:
 
 
 
+![](http://www.typetoken.net/wp-content/uploads/2013/08/onions4-756x522.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/raspbus22-756x638.jpg)
+
+
+
 ![](http://www.typetoken.net/wp-content/uploads/2013/08/tof31-756x933.jpg)
 
 
@@ -2368,19 +2376,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/raspbus22-756x638.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/onions4-756x522.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/PERIMETER-9414.jpg)
 
 
 
 ![](http://www.typetoken.net/wp-content/uploads/2013/08/PERIMETER-9474.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/PERIMETER-9414.jpg)
 
 
 
@@ -2392,11 +2392,31 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/TM2.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/03/TM1.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/TM9.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/TM5.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/TM8.jpg)
 
 
 
 ![](http://www.typetoken.net/wp-content/uploads/2013/08/TM14.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/TM12.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/TM7.jpg)
 
 
 
@@ -2408,11 +2428,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/TM7.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/TM12.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/TM2.jpg)
 
 
 
@@ -2420,35 +2436,15 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/TM8.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/TM5.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/TM9.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/03/TM1.jpg)
-
-
-
 ![](http://www.typetoken.net/wp-content/uploads/2013/08/TM4.jpg)
 
 
 
+![](http://www.typetoken.net/wp-content/uploads/2013/08/BDPankowType_r1r1_081113.jpg)
+
+
+
 ![](http://www.typetoken.net/wp-content/uploads/2013/08/bd_pankow_1.png)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/bd_pankow_makingof_1.png)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/bd_pankow_makingof_2.png)
 
 
 
@@ -2468,7 +2464,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/BDPankowType_r1r1_081113.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/bd_pankow_makingof_2.png)
 
 
 
@@ -2484,7 +2480,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/08/anthon-beeke-spread-11.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/08/bd_pankow_makingof_1.png)
 
 
 
@@ -2532,15 +2528,15 @@ Generated from:
 
 
 
+![](http://www.typetoken.net/wp-content/uploads/2013/08/anthon-beeke-spread-11.jpg)
+
+
+
 ![](http://www.typetoken.net/wp-content/uploads/2013/08/10.jpg)
 
 
 
 ![](http://www.typetoken.net/wp-content/uploads/2013/08/03.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/08/01.jpg)
 
 
 
@@ -2568,7 +2564,23 @@ Generated from:
 
 
 
+![](http://www.typetoken.net/wp-content/uploads/2013/08/01.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/07/Franchise-cover-756px.jpg)
+
+
+
 ![](http://www.typetoken.net/wp-content/uploads/2013/07/Franchise-anim1-756px.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/07/Franchise-details-756px.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/07/Franchise-anim7-756px.jpg)
 
 
 
@@ -2592,23 +2604,11 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/07/Franchise-anim7-756px.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Spread_p234.jpg)
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/07/Franchise-details-756px.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/07/Franchise-cover-756px.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Spread_p252.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Cover_1.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Spread_p108.jpg)
 
 
 
@@ -2632,15 +2632,15 @@ Generated from:
 
 
 
+![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Spread_p252.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Cover_1.jpg)
+
+
+
 ![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Spread_p230.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Spread_p234.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Spread_p24.jpg)
 
 
 
@@ -2660,7 +2660,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Spread_p108.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/07/Type_Only_Spread_p24.jpg)
 
 
 
@@ -2676,7 +2676,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/07/Constellation-20121023-1.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/07/Baptiste2.jpg)
 
 
 
@@ -2696,7 +2696,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/07/Baptiste2.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/07/Constellation-20121023-1.jpg)
 
 
 
@@ -2724,19 +2724,7 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Brasilia_01.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Bookelet_01.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Faster_08.jpg)
-
-
-
-![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Foco15.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Transat_poster_08.jpg)
 
 
 
@@ -2744,15 +2732,27 @@ Generated from:
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Transat_poster_08.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Foco15.jpg)
 
 
 
-![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Transat_poster_02.jpg)
+![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Faster_08.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Bookelet_01.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Brasilia_01.jpg)
 
 
 
 ![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Upii_07.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/07/RejaneDalBello_Transat_poster_02.jpg)
 
 
 
