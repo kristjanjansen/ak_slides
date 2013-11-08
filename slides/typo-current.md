@@ -2,6 +2,26 @@
 
 ## Uus tund: inspiratsioon
 
+
+### Andris
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/11/126600.jpg)
+
+   ![](http://31.media.tumblr.com/153f8e70e50a8b4e224ab57ec75bc330/tumblr_mvjpnhCnsB1qh0381o1_500.jpg)
+
+
+![](http://incredibletypes.com/it-cms/wp-content/uploads/2013/11/uni-arts-helsinki-01-450x337.jpg)
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/f_2520712.jpg)
+
+
+![](http://24.media.tumblr.com/01190d1bc3493e57309b7e3c1ebe2d6e/tumblr_mvj25eqN9o1qi4z1yo5_r2_500.jpg)
+
+   ![](http://25.media.tumblr.com/d9740b568105e4c9425db9a542ac34a3/tumblr_mvj25eqN9o1qi4z1yo7_r1_500.jpg)
+
+
 ### Maris
 
 
