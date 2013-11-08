@@ -2,6 +2,26 @@
 
 ## Uus tund: inspiratsioon
 
+### Anette
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/foto_12.jpg)
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/10/color-woodblocks.jpg)
+
+
+![](http://25.media.tumblr.com/58cb684a0a3fc1b28592e197fd766f67/tumblr_mvfbi2yGzu1qh0381o1_500.jpg)
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/DMSQD_KyleWilkinson_ADC3-756x503.jpg)
+
+
+![](http://incredibletypes.com/it-cms/wp-content/uploads/2013/10/jess-and-russ-01-450x300.jpg)
+
+
+![](http://24.media.tumblr.com/1510614b06899cd74634ab45415a25ed/tumblr_mvdfeuEYci1qh0381o1_500.jpg)
+
 
 ### Andris
 
