@@ -1,5 +1,24 @@
 # Tüpograafia jooksev kursus
 
+## Uus tund: inspiratsioon
+
+### Maris
+
+
+![](http://incredibletypes.com/it-cms/wp-content/uploads/2013/11/halb-weg–ganz-da-01-450x300.jpg)
+
+
+![](http://24.media.tumblr.com/070cc602aba86cdee8e1d784764032a9/tumblr_mvpj6zI7GO1qkxrtro1_500.jpg)
+
+
+![](http://25.media.tumblr.com/74a8ab97af3e6648dd365ad80a34df29/tumblr_mvng04at1d1qkxrtro5_500.jpg)
+
+
+![](http://31.media.tumblr.com/d10db35a81db6e7d2d8aa1ed1518dc66/tumblr_mvv1mzrlP81qh0381o1_500.jpg)
+
+
+![](http://25.media.tumblr.com/8d3e6d44117afe54790a7aa016a88160/tumblr_mvv1hjB8DR1qh0381o1_500.jpg)
+
 
 ## 11. tund: Geomeetrilise kirja digitaliseerimine I
 
