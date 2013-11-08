@@ -2,23 +2,6 @@
 
 ## Uus tund: inspiratsioon
 
-### Kaido
-
-
-![](http://24.media.tumblr.com/1e2b6443cbc34d1086d0de5f64953eb3/tumblr_mvtzx4uXw31qfoihvo4_500.jpg)
-
-
-![](http://24.media.tumblr.com/3d6ef95bf8680442bfaeb6c61515a523/tumblr_mvue8p75LR1qh0381o1_500.gif)
-
-
-![](http://24.media.tumblr.com/e663648bac094548b66e76214ca67969/tumblr_mvpeablohu1qkxrtro2_500.jpg)
-
-
-![](http://24.media.tumblr.com/8ba44b3c8fbee814e906d6e465e4f109/tumblr_mvq649Emni1skakgjo5_500.png)
-
-
-![](http://31.media.tumblr.com/673e9368a1e956d30b2bc7b33aeb4ade/tumblr_mvpofcG5Hq1qkxrtro3_500.png)
-
 
 ### Anette
 
@@ -97,6 +80,24 @@
 
 
 ![](http://www.typetoken.net/wp-content/uploads/2013/10/122995.png)
+
+
+### Kaido
+
+
+![](http://24.media.tumblr.com/1e2b6443cbc34d1086d0de5f64953eb3/tumblr_mvtzx4uXw31qfoihvo4_500.jpg)
+
+
+![](http://24.media.tumblr.com/3d6ef95bf8680442bfaeb6c61515a523/tumblr_mvue8p75LR1qh0381o1_500.gif)
+
+
+![](http://24.media.tumblr.com/e663648bac094548b66e76214ca67969/tumblr_mvpeablohu1qkxrtro2_500.jpg)
+
+
+![](http://24.media.tumblr.com/8ba44b3c8fbee814e906d6e465e4f109/tumblr_mvq649Emni1skakgjo5_500.png)
+
+
+![](http://31.media.tumblr.com/673e9368a1e956d30b2bc7b33aeb4ade/tumblr_mvpofcG5Hq1qkxrtro3_500.png)
 
 
 ## 11. tund: Geomeetrilise kirja digitaliseerimine I
