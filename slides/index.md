@@ -11,6 +11,14 @@
 [Tahvlikiri](typo-blackboard.md)
 [Muud lingid](typo-reference.md)
 
+### Piktograafia
+
+[Kursuse kava](pictogram-outline.md)
+[Olümpia](pictogram-olympics.md)
+[Ajalugu](pictogram-history.md)
+[Loojutustus](pictogram-stories.md)
+[Piktogrammide loomine](pictogram-creating.md)
+
 ### Infograafika
 
 [Lingid](infographics.md)
@@ -25,13 +33,6 @@
 
 [Viited](exhibition.md)
 
-### Piktograafia
-
-[Kursuse kava](pictogram-outline.md)
-
-[Ajalugu](pictogram-history.md)
-[Loojutustus](pictogram-stories.md)
-[Piktogrammide loomine](pictogram-creating.md)
 
 ### Wayfinding
 
