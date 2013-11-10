@@ -1,6 +1,8 @@
 ## Galleries
 
 http://www.behance.net/search?search=weather
+http://dribbble.com/search?q=weather
+https://creativemarket.com/search?q=weather
 
 ## Icon fonts
 
@@ -25,6 +27,24 @@ http://weather.yahoo.com/
 ## Other icons
 
 http://www.carrois.com/icons.html#c287
+
+http://forrst.com/posts/Weather_Icons-GuC
+
+https://creativemarket.com/Picons/640-Picons-Weather-icons/screenshots/#screenshot1
+
+https://creativemarket.com/PinkPueblo/8440-Weather-Clipart-and-Vectors/screenshots/#screenshot2
+
+https://creativemarket.com/Runceanu/5924-Get-Weather-Icons/screenshots/#screenshot3
+
+https://creativemarket.com/vitek38/5395-Weather-forecast-clean-icons./screenshots/#screenshot2
+
+http://forrst.com/posts/FZN/original/0oI
+
+http://forrst.com/posts/16_vector_weather_icon-FIO
+
+## Realistic
+
+https://creativemarket.com/webiconset/10526-Weather-Icon-Set/screenshots/#screenshot3
 
 ## Web?
 
