@@ -205,6 +205,11 @@ http://www.flickr.com/photos/43767123@N02/sets/72157631621557468
 ![](http://farm9.staticflickr.com/8451/8023801691_59d4d02942_o.jpg)
 
 
+### 2016 Rio
+
+http://rio2016.com/en/news/news/rio-2016-launches-olympic-and-paralympic-pictograms
+http://rio2016.com/en/news/videos/check-out-the-rio-2016-font
+
 ### Olympukes
 
 http://www.virusfonts.com/fonts/olympukes

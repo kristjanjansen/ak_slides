@@ -71,5 +71,15 @@
 
 ## DS spetsiifiline
 
+* Raamatutest typo
+* Paberist typo: voltimine?
+* Grid:
+  * Isomeetriagrid?
+  * Kaared/full?
+  * Dots: nihkes?
+  * Kärg?
+* Mida tegid kalligraafias?
+* Teip?
+
 * Menüüde typo
 * Tahvlitypo (koostöö kokandusega ning linna söögikohtadega)
