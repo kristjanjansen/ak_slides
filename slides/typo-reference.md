@@ -1,5 +1,16 @@
 # Typography reference
 
+## Fails
+
+http://i.imgur.com/nTBpJnS.jpg
+
+## History
+
+http://www.brainpickings.org/index.php/2013/09/20/a-logo-for-london-david-lawrence/
+
+## Wood
+
+http://www.flickr.com/photos/taffeta/sets/72157636179625063/
 
 ## Type history
 
@@ -22,6 +33,8 @@ http://practicaltypography.com/
 
 http://www.thinkingwithtype.com/
 
+http://www.fonts.com/content/learning/fontology
+
 
 ### Exercises
 
@@ -30,6 +43,9 @@ http://design.codeschool.com/levels/1
 
 ## Key issues
 
+### Choosing
+
+http://www.cucumbertown.com/craft/choosing-the-perfect-typeface/
 
 ### Classification
 
@@ -53,6 +69,7 @@ http://opentype.info/blog/2011/04/25/the-onion-layer-model-of-legibility/
 
 http://opentype.info/blog/2011/06/14/how-do-we-read-words-and-how-should-we-set-them/
 
+http://baymard.com/blog/line-length-readability
 
 ### Pairing
 
@@ -146,14 +163,13 @@ http://typetrumps.com/
 ### Movies and Videos
 
 
-Helvetica http://pegleg.it/films/13348-helvetica
-
 Spiekerman https://vimeo.com/49744848 
 
 Print to screen https://vimeo.com/69375692
 
 http://www.sofiebeier.dk/filmstosee.html
 
+http://flavorwire.com/326643/10-auteurs-and-the-typefaces-they-love
 
 ### Animated type
 
@@ -179,6 +195,7 @@ http://hagilda.com/
 
 http://www.fontef.com/old/
 
+http://www.smashingmagazine.com/2010/02/23/shalom-showcase-of-web-design-in-israel/
 
 ### Making of
 
@@ -239,6 +256,11 @@ https://vimeo.com/10521941
 http://www.fontwalk.de/
 
 
+### Lettering galleries
+
+http://marykatemcdevitt.com/
+
+
 ### Found type galleries
 
 
@@ -258,6 +280,9 @@ http://www.flickr.com/photos/id29/sets/72157634396874320/
 
 http://typehunting.com/
 
+### Russian found type
+
+http://www.go2life.net/history/389-moscow-80-colour-photos.html
 
 ### Estonian found type
 

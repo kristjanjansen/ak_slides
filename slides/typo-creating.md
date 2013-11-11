@@ -379,6 +379,10 @@ http://www.typeculture.com/academic_resource/education_extras/letterform_project
 
 ![](http://www.typeculture.com/academic_resource/education_extras/letterform_project_2007/images/x4.jpg.pagespeed.ic._QikLO06ky.jpg)
 
+### Carpet
+
+https://www.typotheque.com/blog/type_and_carpets
+@expand
 
 ### Water
 

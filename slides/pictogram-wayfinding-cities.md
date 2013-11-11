@@ -9,6 +9,13 @@ http://www.city-id.com/publications/
 @study
 
 
+### Toronto
+
+http://www.behance.net/gallery/Trinity-Bellwoods-Wayfinding/6444833
+
+@expand
+
+
 ### Buenos Aires
 
 http://www.behance.net/gallery/Buenos-Aires-Wayfinding-Sistem/3706058

@@ -1,5 +1,9 @@
 # Tüpograafia jooksev kursus
 
+## Viimane tund
+
+http://www.webdesignerdepot.com/2013/05/kandinsky-style-type/
+
 ## Uus tund: inspiratsioon
 
 

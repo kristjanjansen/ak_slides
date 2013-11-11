@@ -3,6 +3,9 @@
 
 ### Menus
 
+http://www.theguardian.com/lifeandstyle/2010/jan/21/menus-cunning-marketing-ploys
+@study
+
 http://www.underconsideration.com/artofthemenu/
 http://arrangealign.tumblr.com/post/64315150774
 @expand

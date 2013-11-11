@@ -21,7 +21,9 @@
     * Ülesanded: loetavustestid
 * Teema: Plakat 
     * Taustata
-    * Taustapildiga (Maila raamatukogust)
+    * Taustapildiga
+      * Maila raamatukogust
+      * http://wefunction.com/8-unique-places-to-find-quality-free-photos/
 * Film
     * Helvetica + Objectified + Urbanized TKN
 * **Mida õpetas Taavi?**

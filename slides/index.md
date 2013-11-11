@@ -14,11 +14,11 @@
 ### Piktograafia
 
 [Kursuse kava](pictogram-outline.md)
+[Üldised lingid](pictogram-reference.md)
+[Piktogrammide loomine](pictogram-creating.md)
 [Olümpia](pictogram-olympics.md)
 [Ilm](pictogram-weather.md)
-[Ajalugu](pictogram-history.md)
 [Loojutustus](pictogram-stories.md)
-[Piktogrammide loomine](pictogram-creating.md)
 
 ### Infograafika
 

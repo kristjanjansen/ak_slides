@@ -1,5 +1,8 @@
 # Wayfinding in misc institutions
 
+## Books
+
+http://www.dexigner.com/news/27009
 
 ## Libraries
 
@@ -156,6 +159,12 @@ http://www.behance.net/gallery/RIT-Wayfinding-System/7442091
 
 
 ## Museums
+
+### Doha, AUE
+
+http://www.behance.net/gallery/Museum-Wayfinding-and-Signage/11457117
+
+@expand
 
 
 ### Riverside, UK

@@ -1,5 +1,53 @@
 # Links
 
+## Sketching
+
+http://www.smashingmagazine.com/2013/10/10/things-you-can-accomplish-with-hand-sketching-doodling/
+
+http://www.amazon.com/gp/product/1616891262/?tag=dexigner-20 (typo)
+## Future
+
+http://www.kickstarter.com/projects/occipital/structure-sensor-capture-the-world-in-3d
+http://designmodo.com/ux-google-glass-app/
+
+## Wearable
+
+http://www.slideshare.net/OnDevice/wearable-technology-ready-for-prime
+https://getpebble.com/
+
+## International UX
+
+http://randomwire.com/everyday-usability-in-japan
+
+## Portfoios
+
+http://hellojustine.com/
+
+## Motion in UX
+
+https://medium.com/design-ux/8068a5e4cb82
+http://www.ui-transitions.com/#home
+http://uxdesign.smashingmagazine.com/2013/10/23/smart-transitions-in-user-experience-design/
+http://jesseddy.com/blog/2013/10/communicating-animation-ideas/
+
+## Manholes
+
+http://www.drainspotting.com/
+
+
+## Analog-digital
+
+http://www.kickstarter.com/projects/marshallhaas/draft-a-physical-notebook-that-syncs-to-the-cloud
+
+## Sprites
+
+http://www.spritelamp.com/
+
+## Cars
+
+http://uxmag.com/articles/tesla%E2%80%99s-groundbreaking-ux-an-interview-with-user-interface-manager-brennan-boblett
+
+
 ## Tablets
 
 http://www.geniusnet.com/wSite/ct?xItem=16834&ctNode=174

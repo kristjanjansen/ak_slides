@@ -1,5 +1,10 @@
 # Maps
 
+## Examples
+
+http://www.behance.net/gallery/Survival-Guide-for-Homeless/1279293
+
+
 ## Video
 
 http://www.bbc.co.uk/programmes/b00s2w83/clips
@@ -99,3 +104,23 @@ http://bost.ocks.org/mike/map/
 
 http://kartograph.org/
 http://snapsvg.io/
+
+## Cloropleth
+
+http://vis4.net/blog/posts/choropleth-maps/
+
+## Old
+
+http://transitmaps.tumblr.com/
+
+http://work.repponen.com/New-York-City-Guide
+
+http://work.repponen.com/1-Per-Day
+
+http://www.newsdesigns.com/newspaper-design/infographics/working-with-maps-in-newspaper-design/
+
+http://blog.alexlikesdesign.com/post/46850507084/today-marks-the-launch-of-google-treasure-maps
+
+http://www.mappingthenation.com/
+
+http://www.thisiscolossal.com/2013/08/an-artist-is-assembling-a-map-of-manhattan-using-only-directions-drawn-by-strangers/

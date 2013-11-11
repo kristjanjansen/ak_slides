@@ -1,3 +1,7 @@
+## History
+
+http://www.uigarden.net/english/infographics-being-and-doing-part-i
+
 ## Galleries
 
 http://www.behance.net/search?search=weather
@@ -9,6 +13,8 @@ https://creativemarket.com/search?q=weather
 http://www.alessioatzeni.com/meteocons/
 
 http://www.artill.de/weather-icon-font/ and http://erikflowers.github.io/weather-icons/
+
+http://adamwhitcroft.com/climacons/
 
 ## TV
 
