@@ -1,5 +1,7 @@
 ## Jooksvad kursused
 
+[ds13](ds-13.md)
+
 ### Tüpograafia
 
 [Kursuse hetkeseis](typo-current.md)
