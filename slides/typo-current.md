@@ -1,12 +1,12 @@
 # Tüpograafia jooksev kursus
 
-## 17.tund
+## 17.tund: Eri stiilis lausete ülevaatamine, raamatukogu loetavustest
 12\. november
 
 http://www.webdesignerdepot.com/2013/05/kandinsky-style-type/
 http://www.adme.ru/istoricheskaya-fotografiya/pervye-fotografii-566755/566755-1622605/
 
-## 16. tund: kirjade lõpetamine, kirjutusülesanne
+## 16. tund: kirjade lõpetamine, eri stiilis lausete ülesanne
 11\. november. Oliver andis
 
 ## 15. tund: staatus ja inspiratsioon
