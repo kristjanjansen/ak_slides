@@ -1,8 +1,8 @@
-# Jooksvad kursused
+## Jooksvad kursused
 
-## Tüpograafia
+### Tüpograafia
 
-### MK13
+#### MK13
 
 [Kursuse plaan](typo-outline.md)
 [Inspiratsioon](typo-inspiration.md)
@@ -12,13 +12,13 @@
 [Tahvlikiri](typo-blackboard.md)
 [Muud lingid](typo-reference.md)
 
-### DS13
+#### DS13
 
 [Kursuse hetkeseis](typo-current-ds13.md)
 
-## Piktograafia
+### Piktograafia
 
-### TG12
+#### TG12
 
 [Kursuse hetkeseis](pictogram-current.md)
 [Kursuse plaan](pictogram-outline.md)
@@ -28,21 +28,22 @@
 [Loojutustus](pictogram-stories.md)
 [Ilm](pictogram-weather.md)
 
-## Infograafika
+### Infograafika
 
 [Lingid](infographics.md)
 
-# Tulevased kursused
+## Tulevased kursused
 
-## Kaardid
+### Kaardid
 
 [Viited](maps.md)
 
-## Näitusedisain + Noor Meister
+### Näitusedisain + Noor Meister
 
 [Viited](exhibition.md)
 
-## Wayfinding
+
+### Wayfinding
 
 [Schools](pictogram-wayfinding-schools.md)
 [Hospitals](pictogram-wayfinding-hospitals.md)
@@ -50,7 +51,7 @@
 [Cities](pictogram-wayfinding-cities.md)
 [Misc institutions](pictogram-wayfinding.md)
 
-# Olnud kursused
+## Olnud kursused
 
 [MK eriprojektid 2013](specialprojects-mk11.md)
 [Kasutajaliidesed 2012](kasutajaliidesed_2012.md)
