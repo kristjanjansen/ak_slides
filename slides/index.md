@@ -4,6 +4,7 @@
 
 #### MK13
 
+[Kursuse hetkeseis](typo-current.md)
 [Kursuse plaan](typo-outline.md)
 [Inspiratsioon](typo-inspiration.md)
 [Kirja kasutamine](typo-usage.md)
