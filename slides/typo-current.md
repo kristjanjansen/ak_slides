@@ -1,16 +1,16 @@
 # Tüpograafia jooksev kursus
 
 ## 17.tund
-  12. november
+12\. november
 
 http://www.webdesignerdepot.com/2013/05/kandinsky-style-type/
 http://www.adme.ru/istoricheskaya-fotografiya/pervye-fotografii-566755/566755-1622605/
 
 ## 16. tund: kirjade lõpetamine, kirjutusülesanne
-  11. november. Oliver andis
+11\. november. Oliver andis
 
 ## 15. tund: staatus ja inspiratsioon
-  8. november
+8\. november
 
 ### Anette
 
@@ -110,7 +110,7 @@ http://www.adme.ru/istoricheskaya-fotografiya/pervye-fotografii-566755/566755-16
 
 
 ## 14. tund: Geomeetrilise kirja digitaliseerimine
-4. november
+4\. november
 Oliver andis.  
 
 ### Specimens
@@ -145,19 +145,19 @@ https://www.fontfont.com/fonts/mark/in-use
 
 
 ## 13. tund: Geomeetrilise kirja digitaliseerimine I
-1. nov
+1\. nov
 
 ## 12. tund: Geomeetrilise kirja digitaliseerimine I
-31. okt
+31\. okt
 
 ## 11. tund: Geomeetrilise kirja digitaliseerimine I
-30. okt
+30\. okt
  
 ## 10. tund: Geomeetrilise kirja digitaliseerimine I
-29. okt
+29\. okt
 
 ## 9. tund: Geomeetrilise kirja konstrueerimine II + inspiratsioon
-25.okt. Puudu Anette ja see vanem tüüp
+25\.okt. Puudu Anette ja see vanem tüüp
 
 
 ### Kaido
@@ -294,10 +294,10 @@ http://typedia.com/search
 
 
 ## 3.-4. tund: Kudjape
-9. okt (10. okt jätsime ära)
+9\. okt (10. okt jätsime ära)
 
 ## 2. tund: Intro ja mündid
-8. okt
+8\. okt
  
 ### Lingid
 
@@ -312,4 +312,4 @@ http://www.flickr.com/photos/anjens/sets/72157604302963951/
 
 
 ## 1. tund: ajalugu
-7. okt, Oliver
+7\. okt, Oliver
