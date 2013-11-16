@@ -1,10 +1,9 @@
 ## Jooksvad kursused
 
-[ds13](ds-13.md)
-
 ### Tüpograafia
 
-[Kursuse hetkeseis](typo-current.md)
+#### MK13
+
 [Kursuse plaan](typo-outline.md)
 [Inspiratsioon](typo-inspiration.md)
 [Kirja kasutamine](typo-usage.md)
@@ -13,14 +12,21 @@
 [Tahvlikiri](typo-blackboard.md)
 [Muud lingid](typo-reference.md)
 
+#### DS13
+
+[Kursuse hetkeseis](typo-current-ds13.md)
+
 ### Piktograafia
 
-[Kursuse kava](pictogram-outline.md)
+#### TG12
+
+[Kursuse hetkeseis](pictogram-current.md)
+[Kursuse plaan](pictogram-outline.md)
 [Üldised lingid](pictogram-reference.md)
 [Piktogrammide loomine](pictogram-creating.md)
 [Olümpia](pictogram-olympics.md)
-[Ilm](pictogram-weather.md)
 [Loojutustus](pictogram-stories.md)
+[Ilm](pictogram-weather.md)
 
 ### Infograafika
 

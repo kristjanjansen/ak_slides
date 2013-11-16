@@ -1,6 +1,14 @@
 # Exibithion Design 
 
 
+## WorldSkills
+
+http://www.worldskills.org/index.php?option=com_content&task=view&id=32&Itemid=416
+
+http://archive.worldskills.org/2011london/exhibition-map.html by http://markboultondesign.com/projects/worldskills/
+
+http://www.worldskillsleipzig2013.com/en/the_event/program/area_and_hall_plan/
+
 ## Eesti Näitused
 
 

@@ -61,13 +61,6 @@ http://pattern.dk/sun/
 http://dribbble.com/shots/1081917-WhereTO-App/attachments/134531
 http://dribbble.com/shots/487717-iPhone-Weather-App?list=searches&tag=weather
 
-## Weather app
-
-http://www.behance.net/gallery/iOS7-Weather-App/9650557 (usage)
-http://www.behance.net/gallery/Authentic-Weather/7196565
-http://www.behance.net/gallery/Weather-App/7438779
-http://www.behance.net/gallery/Weather-app-psd/8741405
-
 ### Old 
 
 https://itunes.apple.com/us/app/yahoo-weather/id628677149?mt=8
