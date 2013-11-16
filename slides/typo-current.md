@@ -1,16 +1,16 @@
 # Tüpograafia jooksev kursus
 
 ## 17.tund
-12. november
+  12. november
 
 http://www.webdesignerdepot.com/2013/05/kandinsky-style-type/
 http://www.adme.ru/istoricheskaya-fotografiya/pervye-fotografii-566755/566755-1622605/
 
 ## 16. tund: kirjade lõpetamine, kirjutusülesanne
-11. november. Oliver andis
+  11. november. Oliver andis
 
 ## 15. tund: staatus ja inspiratsioon
-8. november
+  8. november
 
 ### Anette
 
