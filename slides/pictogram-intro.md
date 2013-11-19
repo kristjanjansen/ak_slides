@@ -1,74 +1,61 @@
-### 20. november: Kasutusalad
+# Piktogrammid: sissejuhatus
 
 
-## Äriprotsessid
+![](/images/camera1.png)
 
 
-![](./images/iso1.png)
+![](/images/camera2.png)
 
 
-![](./images/iso3.png)
+![](/images/camera3.png)
 
 
-## Turism
+![](/images/camera5.png)
 
 
-![](./images/iello1.png)
+![](/images/camera6.png)
 
 
-![](./images/iello2.png)
+![](/images/camera7.png)
 
 
-![](./images/iello3.png)
+![](/images/camera8.png)
 
 
-![](./images/iello4.png)
+![](/images/camera_app.png)
 
 
-![](./images/iello5.png)
+![](/images/camera_traffic.png)
 
 
-## Piktogramm või illustratsioon?
+## Branding / pakend
 
 
-![](./images/city1.png)
+![](http://behance.vo.llnwd.net/profiles4/175230/projects/8072137/8d3d26da21fd328b57e78eae8ce853ba.jpg)
 
 
-![](./images/city2.png)
+![](http://behance.vo.llnwd.net/profiles4/175230/projects/8072137/5b8489eac884fbe79ef60bef47c4c4ec.jpg)
 
 
-http://visitbruges.be/
+![](http://behance.vo.llnwd.net/profiles/73462/projects/6820533/ad3c19e434c3f008a3ebdf26e61f3dc8.jpg)
 
 
-### Kasutajaliidesed
+![](http://behance.vo.llnwd.net/profiles/73462/projects/6820533/eadc3345f4a90888f65f3d130f21b9af.jpg)
 
 
-
-#### Fotorealism
-
-
-![](http://dribbble.s3.amazonaws.com/users/14612/screenshots/678266/attachments/60621/broadcast_ios_icon_hres.jpg)
+![](http://behance.vo.llnwd.net/profiles/73462/projects/6820533/29da811040642c19455f49c20f1e47f1.jpg)
 
 
-![](http://behance.vo.llnwd.net/profiles4/140163/projects/8153117/fc10dea6d7169a8d49df33eb60d11614.jpg)
+![](http://behance.vo.llnwd.net/profiles/73462/projects/6820533/2bedf7523ce26c9170b925d086c281d2.jpg)
 
 
-![](http://behance.vo.llnwd.net/profiles2/172489/projects/5890873/fcff7c0bf2383c7c3aeff6806a958901.png)
+![](http://behance.vo.llnwd.net/profiles/73462/projects/6820533/efb8b018e648579da3768651dc062b8c.jpg)
 
 
-### Flat
-
-![](http://behance.vo.llnwd.net/profiles18/1419931/projects/8904227/4e8f1d10b319f57baf70405430b395e0.png)
+# Piktogramm ruumis
 
 
-## Piktogramm ruumis
-
-
-### Avalik ruum
-
-#### Koolid
-
-#### Raamatukogud
+### Raamatukogud
 
 
 ![](http://behance.vo.llnwd.net/profiles20/134850/projects/5038627/96b890629863663eef78df39a3fc18f0.jpg)
@@ -77,37 +64,22 @@ http://visitbruges.be/
 ![](http://behance.vo.llnwd.net/profiles20/134850/projects/5038627/1a936e4cc121491a374639b49d9185f2.jpg)
 
 
-1\. Computer science, information and general works. 2. Science and mathematics. 3. Seperate journals collection. 4. Language. 5. Law. 6. Technology & applied science. 7. Religion. 8. Arts & Recreation. 9. Philosophy & Psychology. 10. Social Sciences. 11. Literature.
+  1\. Computer science, information and general works.
+  2\. Science and mathematics. 
+  3\. Seperate journals collection.
+  4\. Language.
+   
+  5\. Law. 
+  6\. Technology & applied science. 
+  7\. Religion. 
+  8\. Arts & Recreation. 
+  
+  9\. Philosophy & Psychology. 
+  10\. Social Sciences. 
+  11\. Literature.
 
 
-#### Haiglad
-
-
-![](http://behance.vo.llnwd.net/profiles3/147326/projects/9574331/c257e73fcb332e1b716db2576bab12c7.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles3/147326/projects/9574331/d65ee2d1780954ecbf951580af49713e.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles3/147326/projects/9574331/4224dc602ee05da56c571bfaf4c28663.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles3/147326/projects/9574331/bc73e3feff7f5c56ca3a8823dc481c1f.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles3/147326/projects/9574331/c5ee7c4b76f8ef635e3da9e065a10ca6.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles3/147326/projects/9574331/77882558e0779bcab5fedf151878bf08.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles3/147326/projects/9574331/9c77a0607b11d686d7ea672140474e5a.gif)
-
-
-![](http://behance.vo.llnwd.net/profiles3/147326/projects/9574331/b9dc6a415249b3ebc5bd7415ce9ed7a5.jpg)
-
-
-#### Muuseumid
+### Muuseumid
 
 
 ![](http://graphicambient.com/wp-content/uploads/2012/04/riv09.jpg)
@@ -125,7 +97,7 @@ http://visitbruges.be/
 ![](http://graphicambient.com/wp-content/uploads/2012/04/riv_all.jpg)
 
 
-#### Kino
+### Kino
 
 
 ![](http://behance.vo.llnwd.net/profiles5/114444/projects/8388893/3898cea387578e16c8b5d0f57de6245a.JPG)
@@ -146,7 +118,7 @@ http://visitbruges.be/
 ![](http://behance.vo.llnwd.net/profiles5/114444/projects/8388893/706fdbe778f93dae1c1c5fa95952380a.jpg)
 
 
-### Muu avalik ruum
+## Muu avalik ruum
 
 
 ![](http://behance.vo.llnwd.net/profiles2/162564/projects/8802507/582e09eb4310c3e49031740172b3b64d.jpg)
@@ -182,10 +154,7 @@ http://visitbruges.be/
 ![](http://graphicambient.com/wp-content/uploads/2013/01/hattrick_Prostate_Cancer_UK_13.jpg)
 
 
-### Kommertsruum
-
-
-#### Branding
+### Hotellid
 
 
 ![](http://graphicambient.com/wp-content/uploads/2012/06/poz01.jpg)
@@ -200,31 +169,8 @@ http://visitbruges.be/
 ![](http://graphicambient.com/wp-content/uploads/2012/06/poz11.jpg)
 
 
-## Branding
 
-
-![](http://behance.vo.llnwd.net/profiles4/175230/projects/8072137/8d3d26da21fd328b57e78eae8ce853ba.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles4/175230/projects/8072137/5b8489eac884fbe79ef60bef47c4c4ec.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles/73462/projects/6820533/ad3c19e434c3f008a3ebdf26e61f3dc8.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles/73462/projects/6820533/eadc3345f4a90888f65f3d130f21b9af.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles/73462/projects/6820533/29da811040642c19455f49c20f1e47f1.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles/73462/projects/6820533/2bedf7523ce26c9170b925d086c281d2.jpg)
-
-
-![](http://behance.vo.llnwd.net/profiles/73462/projects/6820533/efb8b018e648579da3768651dc062b8c.jpg)
-
-
-### Poed
+## Poed
 
 
 ![](http://twelve-studio.co.uk/wp-content/uploads/2011/11/sb_brand_refresh_3.jpg)
@@ -236,11 +182,7 @@ http://visitbruges.be/
 ![](http://twelve-studio.co.uk/wp-content/uploads/2011/11/sb_brand_refresh_8.jpg)
 
 
-![](http://twelve-studio.co.uk/wp-content/uploads/2011/11/sb_brand_refresh_9.jpg)
-
-
-
-### Parklad
+## Parklad
 
 
 ![](http://graphicambient.com/wp-content/uploads/2011/11/br09.jpg)
@@ -252,7 +194,7 @@ http://visitbruges.be/
 ![](http://graphicambient.com/wp-content/uploads/2011/11/br04.jpg)
 
 
-### Spad
+## Spad
 
 
 ![](http://behance.vo.llnwd.net/profiles25/620490/projects/8247675/f68b3edf8322ac887deb61b2a33eb061.jpg)
@@ -261,17 +203,16 @@ http://visitbruges.be/
 ![](http://behance.vo.llnwd.net/profiles25/620490/projects/8247675/83c6c7256fa6b8b8d6bdc3be42d29dd4.jpg)
 
 
-![](./images/vorskres1.png)
+![](/images/vorskres1.png)
 
 
-![](./images/vorskres2.png)
+![](/images/vorskres2.png)
 
 
-![](./images/vorskres3.png)
+![](/images/vorskres3.png)
 
-## Õu
 
-#### Linnad
+### Linnad
 
 
 ![](http://graphicambient.com/wp-content/uploads/2013/06/walknycmaps-01.jpg)
@@ -292,40 +233,49 @@ http://visitbruges.be/
 ![](http://graphicambient.com/wp-content/uploads/2013/06/walknycmaps-12.jpg)
 
 
+![](http://graphicambient.com/wp-content/uploads/2013/06/walknycmaps-22.jpg)
+
+
+![](http://graphicambient.com/wp-content/uploads/2013/06/walknycmaps-21.jpg)
+
+
 ![](http://graphicambient.com/wp-content/uploads/2013/06/walknycmaps-14.jpg)
 
 
 ![](http://graphicambient.com/wp-content/uploads/2013/06/walknycmaps-15.jpg)
 
 
-![](http://graphicambient.com/wp-content/uploads/2013/06/walknycmaps-21.jpg)
+![](/images/city1.png)
 
 
-![](http://graphicambient.com/wp-content/uploads/2013/06/walknycmaps-22.jpg)
+![](/images/city2.png)
 
 
-#### Loodusrajad
+http://visitbruges.be/
 
 
-![](./images/molina12.png)
+### Loodusrajad
 
 
-![](./images/molina11.png)
+![](/images/molina12.png)
 
 
-![](./images/molina8.png)
+![](/images/molina11.png)
 
 
-![](./images/molina3.png)
+![](/images/molina8.png)
 
 
-![](./images/molina4.png)
+![](/images/molina3.png)
 
 
-![](./images/molina5.png)
+![](/images/molina4.png)
 
 
-#### Lennujaamad
+![](/images/molina5.png)
+
+
+### Lennujaamad
 
 
 ![](http://behance.vo.llnwd.net/profiles5/150431/projects/556181/3fa5e1873b595ede013a0063fd816d7c.jpg)
@@ -346,13 +296,13 @@ http://visitbruges.be/
 ![](http://behance.vo.llnwd.net/profiles5/150431/projects/556181/9eb31e6690f8c599c3c4462ed0c9bde4.jpg)
 
 
-![](./images/fer1.jpg)
+![](/images/fer1.jpg)
 
 
-![](./images/fer2.jpg)
+![](/images/fer2.jpg)
 
 
-![](./images/fer3.jpg)
+![](/images/fer3.jpg)
 
 
 ## Erivajadused
@@ -401,3 +351,30 @@ http://visitbruges.be/
 
 
 https://vimeo.com/18635162
+
+
+![](http://www.maximeloiseau.com/data/A/2/page5.jpg)
+
+
+![](http://www.maximeloiseau.com/data/A/2/page6.jpg)
+
+
+![](http://www.maximeloiseau.com/data/A/2/page8.jpg)
+
+
+![](http://www.maximeloiseau.com/data/A/2/page9.jpg)
+
+
+![](http://www.maximeloiseau.com/data/A/2/pagea10A.jpg)
+
+
+![](http://www.maximeloiseau.com/data/A/3/caisse3.jpg)
+
+
+![](http://www.maximeloiseau.com/data/A/3/caisse4.jpg)
+
+
+![](http://www.maximeloiseau.com/data/A/3/a18.jpg)
+
+
+![](http://www.maximeloiseau.com/data/A/3/a20.jpg)

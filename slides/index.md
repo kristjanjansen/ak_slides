@@ -23,6 +23,7 @@
 
 [Kursuse hetkeseis](pictogram-current.md)
 [Kursuse plaan](pictogram-outline.md)
+[Sissejuhatus](pictogram-intro.md)
 [Üldised lingid](pictogram-reference.md)
 [Piktogrammide loomine](pictogram-creating.md)
 [Olümpia](pictogram-olympics.md)
