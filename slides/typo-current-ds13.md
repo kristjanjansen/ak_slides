@@ -72,6 +72,115 @@
 ![](http://media.typographicposters.com/chris-welsby/m/dnd-5-1200.jpg)
 
 
+## Annamaria
+
+
+![](http://24.media.tumblr.com/384baba73ab8e419b61152b127795d76/tumblr_mtcc408CLP1s2la0do1_500.jpg)
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/08/Archive-1000-11.jpg)
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer10-756px.jpg)
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer13-756px.jpg)
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/09/IsidroFerrer8-756px.jpg)
+
+
+## Kelli
+
+
+http://typography-daily.com/wp-content/uploads/2013/12/james-bond-3.jpg
+
+
+http://24.media.tumblr.com/63127293370b2cda5d8f399e9e6d66c1/tumblr_mx0blq3NrQ1qkxrtro1_500.jpg
+
+
+http://25.media.tumblr.com/c0207ec906c1ec68cf283b9cdd920965/tumblr_mx0bltJ5dq1qkxrtro1_500.jpg
+
+
+http://24.media.tumblr.com/ae7efb31fa8a7a2c5c66d2073216b630/tumblr_mx1gvnBgI61qkxrtro1_500.jpg
+
+
+![](http://25.media.tumblr.com/39af83350f9bad649e4751ff158d83aa/tumblr_mx6ye18byA1qi4z1yo6_500.jpg)
+
+
+
+## Kristel
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/D.png)
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/10/122660.png)
+
+
+![](http://www.typographicposters.com/wp-content/uploads/2013/10/1098397_10151497710116218_1693017890_n.jpg)
+
+
+![](http://25.media.tumblr.com/db1b0611888a9e57b77ea1801975aea3/tumblr_mv2mx1BKQ71qi4z1yo2_500.jpg)
+
+
+![](http://31.media.tumblr.com/3d6b3c6acb7282c95433e26a6f8c2359/tumblr_mv1mullTCJ1qi4z1yo1_500.jpg)
+
+
+## Anni
+
+
+![](http://25.media.tumblr.com/d8b9056340a5a46446a9e87eb2ceb9c7/tumblr_mx92qeKitx1r8tkaro1_500.jpg)
+
+
+![](http://31.media.tumblr.com/3e27e19f8867cbe50e719789216cc46d/tumblr_mx0askX1A51qkxrtro1_500.jpg)
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/12/james-bond-3.jpg)
+
+
+![](http://24.media.tumblr.com/831b23a11aeb25a0280f73a2cc5d605e/tumblr_mx0e8ejPQC1qkxrtro3_500.png)
+
+
+![](http://24.media.tumblr.com/ae7efb31fa8a7a2c5c66d2073216b630/tumblr_mx1gvnBgI61qkxrtro1_500.jpg)
+
+
+## Mirge
+
+
+![](http://25.media.tumblr.com/3a3faeaad86922e546e628798edb2485/tumblr_mx1gvnBgI61qkxrtro4_500.jpg)
+
+
+![](http://24.media.tumblr.com/d01421814eeb0c187b37d04da20fd618/tumblr_mx8c3bOA8S1qh0381o1_500.jpg)
+
+
+![](http://24.media.tumblr.com/3ddcebb665315970dc71221c71dbbe31/tumblr_mx7avfdLJJ1qh0381o1_500.jpg)
+
+
+![](http://31.media.tumblr.com/3ac7132e2a0aaafea4d7d67087a6dec0/tumblr_mx77js7oiJ1s2la0do1_500.jpg)
+
+
+![](http://24.media.tumblr.com/35358efb029bf9644a2f7137e99915b7/tumblr_mwz8w1whLf1qi4z1yo5_500.jpg)
+
+
+## Kaisa
+
+
+![](http://media.typographicposters.com/kim-hung/m/hkipt-2014-04.jpg)
+
+
+![](http://media.typographicposters.com/quim-marin/m/jazz.jpg)
+
+
+![](http://25.media.tumblr.com/2d47ecb254d3008c508d01039c823bc6/tumblr_mubglxIbKm1s2la0do1_500.jpg)
+
+
+![](http://media.typographicposters.com/pierre-rousteau/m/lorem5-pierre-rousteau.jpg)
+
+
+![](http://media.typographicposters.com/rejane-dal-bello/m/rejanedalbello-alzheimer-03.jpg)
+
+
 
 # Inspiratsioon 1
 
