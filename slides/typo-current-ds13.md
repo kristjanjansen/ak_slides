@@ -1,4 +1,65 @@
-# Inspiratsioon 2
+# Inspiratsioon 3
+
+
+## Blanche
+
+
+![](http://typography­daily.com/wp­content/uploads/2013/11/128235.jpg)
+
+
+![](http://25.media.tumblr.com/422a76413e46a1501973346c82fa6ece/tumblr_mv6x8oc3yW1qdt6e2o4_500.jpg
+
+
+![](http://24.media.tumblr.com/dc164a41665df9bfe726c0d00421d5c6/tumblr_mwkjj8uYgn1qh0381o1_500.jpg
+
+ 
+![](http://incredibletypes.com/it­cms/wp­content/uploads/2013/11/vanity­fair­100­editorial­design­01.jpg)
+
+
+![](http://typography­daily.com/wp­content/uploads/2013/11/127982.jpg)
+
+
+## Liina
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/11/FBI_Letraset-5.jpg)
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/11/FBI_Letraset-1.jpg)
+
+
+![](http://31.media.tumblr.com/1d70ffdf65cdfcb9481cd02364371cab/tumblr_mw7b75bCXf1qi4z1yo2_r1_500.png) 
+
+
+![](31.media.tumblr.com/2061a321232964d7bbffb663bfe018f5/tumblr_mw7b75bCXf1qi4z1yo1_r1_500.png)
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/11/serialcut_03.jpg)
+
+
+## Greta
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/11/APELOIG_CHICAGO-B-756x1136.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/11/YVES_SAINT_LAURENT-b.jpg)
+
+
+
+![](http://www.typetoken.net/wp-content/uploads/2013/11/Igarashi-01.jpg)
+
+
+
+![](http://25.media.tumblr.com/465f87e36a822454fe6fad657b28963f/tumblr_mwvsav7cR51qh0381o1_r2_500.jpg)
+
+
+
+![](http://typography-daily.com/wp-content/uploads/2013/11/Sans-titre-7.jpg)
+
+
+
 
 ## Angela
 
