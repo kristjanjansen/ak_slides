@@ -45,9 +45,25 @@ http://painstaking.co/
 http://visualia.me/
 
 
-## Tips and tools
-
-https://news.layervault.com/stories/11044-what-to-write-in-your-portfolio
+### 21-30
 
 
-http://hasaportfolio.com/
+http://gradexhibition.risd.edu/2013/students.php
+
+http://www.gerritrietveldacademie.nl/en/final-works/2013
+
+http://adriannazurek.com/
+
+http://www.rosshilldesign.co.uk/
+
+http://www.mattwilsondesigns.co.uk/
+
+http://www.jtpdesign.com/
+
+http://www.lottanieminen.com/
+
+http://www.justinaguilar.com/index.html
+
+http://thatma.de/
+
+http://dotmick.com/
