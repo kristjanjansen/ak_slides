@@ -1,5 +1,26 @@
 # Links
 
+# UI
+
+**OmniTouch**
+http://www.youtube.com/watch?feature=player_embedded&v=Pz17lbjOFn8
+http://www.chrisharrison.net/index.php/Research/OmniTouch
+
+**Sensing: Nokia Morph**
+http://www.youtube.com/watch?v=IX-gTobCJHs
+
+**Transparent phone concept**
+http://gadgetose.com/window-phone-concept/
+
+**Pop**
+http://popapp.in/
+
+**Microsoft 2009**
+http://www.youtube.com/watch?v=t5X2PxtvMsU
+
+**Clearboard 1993** 1:49
+http://vimeo.com/44544588
+
 ## Sketching
 
 http://www.smashingmagazine.com/2013/10/10/things-you-can-accomplish-with-hand-sketching-doodling/

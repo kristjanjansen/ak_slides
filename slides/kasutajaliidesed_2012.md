@@ -429,23 +429,3 @@ Kirjaharjutused, juuksurikäigu ja seenesousti *flow*
 Mobiilivõrdlus, käeharjutused, teekond Ferrumisse: kirjeldus, kaart, koomiks, kombinatsioon.
 
 
-# Reference
-
-**OmniTouch**
-http://www.youtube.com/watch?feature=player_embedded&v=Pz17lbjOFn8
-http://www.chrisharrison.net/index.php/Research/OmniTouch
-
-**Sensing: Nokia Morph**
-http://www.youtube.com/watch?v=IX-gTobCJHs
-
-**Transparent phone concept**
-http://gadgetose.com/window-phone-concept/
-
-**Pop**
-http://popapp.in/
-
-**Microsoft 2009**
-http://www.youtube.com/watch?v=t5X2PxtvMsU
-
-**Clearboard 1993** 1:49
-http://vimeo.com/44544588
