@@ -413,7 +413,7 @@ http://allthingsd.com/20120814/why-bill-gates-is-searching-for-a-better-toilet
 Lisainfo: http://www.gatesfoundation.org/watersanitationhygiene/Documents/wsh-gce-summary.pdf
 
 
-### 2. tund
+## 2. tund
 13\. oktoober 2012
 
 
@@ -422,7 +422,7 @@ Kirjaharjutused, juuksurikäigu ja seenesousti *flow*
 [RSA Animate - Changing Education Paradigms](http://www.youtube.com/watch?v=zDZFcDGpL4U)
 
 
-### 1. tund
+## 1. tund
 11\. oktoober 2012
 
 
