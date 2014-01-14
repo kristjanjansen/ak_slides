@@ -427,5 +427,3 @@ Kirjaharjutused, juuksurikäigu ja seenesousti *flow*
 
 
 Mobiilivõrdlus, käeharjutused, teekond Ferrumisse: kirjeldus, kaart, koomiks, kombinatsioon.
-
-
