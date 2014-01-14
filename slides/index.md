@@ -1,5 +1,10 @@
 ## Jooksvad kursused
 
+### MK-11 eksam
+
+[Eriprojektid 2013](specialprojects-mk11.md)
+[Kasutajaliidesed 2012](kasutajaliidesed_2012.md)
+
 ### Portfoolio
 
 [Portfolio](portfolio.md)
@@ -57,9 +62,7 @@
 [Cities](pictogram-wayfinding-cities.md)
 [Misc institutions](pictogram-wayfinding.md)
 
-## Olnud kursused
+## Muud kursused
 
-[MK eriprojektid 2013](specialprojects-mk11.md)
-[Kasutajaliidesed 2012](kasutajaliidesed_2012.md)
 [Tartu kunstikooli piktograafia 2012](kunstikool_2012.md)
 
