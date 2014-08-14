@@ -2,15 +2,15 @@
 
 ## Letter
 
-* ~~Teema: kirjatüübid / klassifikatsioon~~
+* Teema: kirjatüübid / klassifikatsioon
     * mõisted
     * variatsioonid
 * Ülesanded:
-    * ~~Geomeetriline kiri kaartega~~ + digitaliseerimine
-    * ~~Surnuaed~~ + analüüs **Mida teeme materjaliga?**
-    * ~~Lehekiri~~ **Mida teha? Blogipost?**
+    * Geomeetriline kiri kaartega + digitaliseerimine
+    * Surnuaed + analüüs **Mida teeme materjaliga?**
+    * Lehekiri **Mida teha? Blogipost?**
 * Ekskursioon:
-    * ~~Linnakirjad~~ + analüüs
+    * Linnakirjad + analüüs
     * Found type
 * Mis kiri sobib kuhu?
     * Ülesanne: "Pulmad" / "Matused"

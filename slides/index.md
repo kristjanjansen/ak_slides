@@ -1,17 +1,21 @@
 ## Jooksvad kursused
 
-### MK-11 eksam
+[TG14 Tüpograafia]
+[MKT14 Tüpograafia]
+[MK13 Kasutajaliides]
+
+## Olnud kursused
+
+### MK11 eksam
 
 [Eriprojektid 2013](specialprojects-mk11.md)
 [Kasutajaliidesed 2012](kasutajaliidesed_2012.md)
 
-### Portfoolio
+### MK11 Portfoolio
 
 [Portfolio](portfolio.md)
 
-### Tüpograafia
-
-#### MK13
+### MK13 Tüpograafia
 
 [Kursuse hetkeseis](typo-current.md)
 [Kursuse plaan](typo-outline.md)
@@ -22,15 +26,13 @@
 [Tahvlikiri](typo-blackboard.md)
 [Muud lingid](typo-reference.md)
 
-#### DS13
+### DS13 Tüpograafia
 
-[Kursuse hetkeseis](typo-current-ds13.md)
+[Kursuse seis](typo-current-ds13.md)
 
-### Piktograafia
+#### TG12 Piktograafia
 
-#### TG12
-
-[Kursuse hetkeseis](pictogram-current.md)
+[Kursuse seis](pictogram-current.md)
 [Kursuse plaan](pictogram-outline.md)
 [Sissejuhatus](pictogram-intro.md)
 [Üldised lingid](pictogram-reference.md)
@@ -43,16 +45,15 @@
 
 [Lingid](infographics.md)
 
-## Tulevased kursused
-
-### Kaardid
-
-[Viited](maps.md)
-
 ### Näitusedisain + Noor Meister
 
 [Viited](exhibition.md)
 
+## Muud kursused
+
+### Kaardid
+
+[Viited](maps.md)
 
 ### Wayfinding
 
@@ -65,4 +66,3 @@
 ## Muud kursused
 
 [Tartu kunstikooli piktograafia 2012](kunstikool_2012.md)
-
