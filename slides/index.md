@@ -2,7 +2,7 @@
 
 [TG14 Tüpograafia]
 [MKT14 Tüpograafia]
-[MK13 Kasutajaliides]
+[MK13 Kasutajaliides](ui-mk13.md)
 
 ## Olnud kursused
 
