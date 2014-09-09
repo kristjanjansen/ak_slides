@@ -1,8 +1,13 @@
 ## Jooksvad kursused
 
-[TG14 Tüpograafia]
-[MKT14 Tüpograafia]
-[MK13 Kasutajaliides](ui-mk13.md)
+### TG14 Tüpograafia
+
+[Inspiratsioon](typo-inspiration.md)
+
+### MK13 Kasutajaliides
+
+[Kursuse hetkeseis](ui-mk13.md)
+
 
 ## Olnud kursused
 
@@ -19,7 +24,6 @@
 
 [Kursuse hetkeseis](typo-current.md)
 [Kursuse plaan](typo-outline.md)
-[Inspiratsioon](typo-inspiration.md)
 [Kirja kasutamine](typo-usage.md)
 [Kirja loomine](typo-creating.md)
 [Toidukiri](typo-food.md)
