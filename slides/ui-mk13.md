@@ -18,6 +18,7 @@ http://getpocket.com/a/read/693963222
 
 https://www.youtube.com/watch?v=lfAixpkzcBQ
 https://medium.com/@ottonassar/10-beautiful-mobile-apps-6dc023f975af
+http://www.smashingmagazine.com/2014/08/26/dropbox-carousel-design-deconstructed-part-1/
 
 ### Boarding pass
 
