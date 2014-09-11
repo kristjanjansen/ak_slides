@@ -2,6 +2,7 @@
 
 ### TG14 Tüpograafia
 
+[Kursuse hetkeseis](typo-tg14.md)
 [Inspiratsioon](typo-inspiration.md)
 
 ### MK13 Kasutajaliides
