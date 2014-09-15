@@ -17,6 +17,11 @@ http://vimeo.com/60964497
 
 http://flavorwire.com/326643/10-auteurs-and-the-typefaces-they-love
 
+### Other
+
+http://vimeo.com/5385464
+https://ia700806.us.archive.org/27/items/artofletteringsi00boyc/artofletteringsi00boyc.pdf
+
 
 ### Type in movies
 
