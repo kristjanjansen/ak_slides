@@ -94,15 +94,7 @@ http://www.lisaolausson.com/pages/play.html
 https://klim.co.nz/blog/il-magazine-covers/
 
 
-### Type in movies
 
-http://www.marksimonson.com/notebook/view/typecasting
-
-http://www.artofthetitle.com/
- 
-http://flavorwire.com/326643/10-auteurs-and-the-typefaces-they-love
-
-http://annyas.com/screenshots/
 
 ### Posters
 

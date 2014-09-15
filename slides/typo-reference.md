@@ -165,11 +165,7 @@ http://typetrumps.com/
 
 Spiekerman https://vimeo.com/49744848 
 
-Print to screen https://vimeo.com/69375692
-
 http://www.sofiebeier.dk/filmstosee.html
-
-http://flavorwire.com/326643/10-auteurs-and-the-typefaces-they-love
 
 ### Animated type
 

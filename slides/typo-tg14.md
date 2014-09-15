@@ -1,8 +1,43 @@
+## Filmid 2
+
+### Wood
+
+http://pegleg.it/films/10513-plan-9-from-outer-space
+https://www.youtube.com/watch?v=SvOi2d7fI4w
+http://www.marksimonson.com/notebook/view/typecasting
+
+### Artist
+
+http://vimeo.com/35793790
+http://www.marksimonson.com/notebook/category/son-of-typecasting
+
+### Overview
+
+http://vimeo.com/60964497
+
+http://flavorwire.com/326643/10-auteurs-and-the-typefaces-they-love
+
+
+### Type in movies
+
+http://www.marksimonson.com/notebook/view/typecasting
+
+http://www.artofthetitle.com/
+ 
+http://flavorwire.com/326643/10-auteurs-and-the-typefaces-they-love
+
+http://annyas.com/screenshots/
+
+## Filmid 1
+
+
 http://vimeo.com/m/65899856
 
 http://vimeo.com/m/20759580
 
 http://www.artofthetitle.com
+
+Print to screen https://vimeo.com/69375692
 
 
 ## Valikuülesanne
