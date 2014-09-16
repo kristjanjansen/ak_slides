@@ -28,6 +28,12 @@ http://vimeo.com/5385464
 https://ia700806.us.archive.org/27/items/artofletteringsi00boyc/artofletteringsi00boyc.pdf
 
 
+### Wes
+
+http://uproxx.com/filmdrunk/2014/04/video-wes-anderson-style-forrest-gump-intro/
+https://www.youtube.com/watch?v=W7voy1vit6Y
+
+
 ### Type in movies
 
 http://www.marksimonson.com/notebook/view/typecasting
