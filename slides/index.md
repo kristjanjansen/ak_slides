@@ -5,10 +5,17 @@
 [Kursuse hetkeseis](typo-tg14.md)
 [Inspiratsioon](typo-inspiration.md)
 
+[Kirja kasutamine](typo-usage.md)
+[Kirja loomine](typo-creating.md)
+[Toidukiri](typo-food.md)
+[Tahvlikiri](typo-blackboard.md)
+
+[MK13 2013 tüpokursuse kava](typo-current.md)
+[DS13 2013 tüpokursuse kava](typo-current-ds13.md)
+
 ### MK13 Kasutajaliides
 
 [Kursuse hetkeseis](ui-mk13.md)
-
 
 ## Olnud kursused
 
@@ -23,17 +30,13 @@
 
 ### MK13 Tüpograafia
 
-[Kursuse hetkeseis](typo-current.md)
-[Kursuse plaan](typo-outline.md)
-[Kirja kasutamine](typo-usage.md)
-[Kirja loomine](typo-creating.md)
-[Toidukiri](typo-food.md)
-[Tahvlikiri](typo-blackboard.md)
+
+
 [Muud lingid](typo-reference.md)
 
 ### DS13 Tüpograafia
 
-[Kursuse seis](typo-current-ds13.md)
+
 
 #### TG12 Piktograafia
 
@@ -71,3 +74,7 @@
 ## Muud kursused
 
 [Tartu kunstikooli piktograafia 2012](kunstikool_2012.md)
+
+## Ülejäägid
+
+[Kursuse plaan](typo-outline.md)
