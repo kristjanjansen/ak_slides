@@ -1,8 +1,9 @@
 ## Jooksvad kursused
 
-### TG14 Tüpograafia
+### Tüpograafia
 
-[Kursuse hetkeseis](typo-tg14.md)
+[TG14 kursuse hetkekava](typo-tg14.md)
+
 [Inspiratsioon](typo-inspiration.md)
 
 [Kirja kasutamine](typo-usage.md)
@@ -10,19 +11,20 @@
 [Toidukiri](typo-food.md)
 [Tahvlikiri](typo-blackboard.md)
 
-[MK13 2013 tüpokursuse kava](typo-current.md)
-[DS13 2013 tüpokursuse kava](typo-current-ds13.md)
+[Vana MK13 2013 tüpokursuse kava](typo-current.md)
+[Vana DS13 2013 tüpokursuse kava](typo-current-ds13.md)
 
-### MK13 Kasutajaliides
+### Kasutajaliides
 
-[Kursuse hetkeseis](ui-mk13.md)
+[Materjalid](ui-mk13.md)
+
+[Vana MK11 2012 kasutajaliidese kava](kasutajaliidesed_2012.md)
 
 ## Olnud kursused
 
 ### MK11 eksam
 
 [Eriprojektid 2013](specialprojects-mk11.md)
-[Kasutajaliidesed 2012](kasutajaliidesed_2012.md)
 
 ### MK11 Portfoolio
 

@@ -73,9 +73,6 @@ https://medium.com/@michaelvillar/improve-the-payment-experience-with-animations
 
 https://medium.com/@zmh/bye-google-maps-ea3ea10f84dc
 
-### Mail
-
-http://mrng.me/
 
 ### Raamatu UI
 
@@ -95,11 +92,9 @@ https://www.navdy.com/
 https://medium.com/@dnevozhai/car-dashboard-ui-collection-123ce3ab5303
 https://www.automatic.com/
 
-
-## MulCul
+## Multikulti
 
 http://randomwire.com/why-japanese-web-design-is-so-different/
-
 
 ### Inspiration
 
@@ -124,7 +119,6 @@ https://medium.com/@flaviehalais/can-this-map-change-the-way-cities-deal-with-in
 ### Music
 
 https://medium.com/@jasonmesut/musical-interactions-6f7bdf7709f3
-
 
 ### Other
 
