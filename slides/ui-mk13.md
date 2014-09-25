@@ -1,18 +1,25 @@
+### Monteiro 
+
+http://vimeo.com/68470326
+
 ### Movies
 
 http://www.connectingthefilm.com/
 
 ### History 
 
-https://www.youtube.com/watch?v=aqW6Sp279Z0&app=desktop
+https://www.youtube.com/watch?v=aqW6Sp279Z0 Parc Movies
 https://medium.com/re-form/x-to-close-417936dfc0dc
+http://uxmas.com/2013/history-of-usability
+https://www.youtube.com/watch?feature=player_embedded&v=4PJcABbtvtA AT&T predictions
+http://techchannel.att.com/play-video.cfm/2012/8/27/AT&T-Archives-BLIT-UNIX-GUI Blit
 
 ### Future
 
 http://futureinterface.tumblr.com/
 http://hudsandguis.com/
 http://jtnimoy.com/blogs/projects/14881671
-http://getpocket.com/a/read/693963222
+http://dailyexhaust.com/2014/08/ui-in-movies.html
 
 ### Mobile
 

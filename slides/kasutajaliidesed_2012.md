@@ -95,6 +95,9 @@ http://www.cooper.com/journal/2012/08/the-best-interface-is-no-interface.html/
 
 ###  Physical-digital merge: Lo-fi
 
+**GPS shoes**
+http://dominicwilcox.com/portfolio/gpsshoe
+
 **Tableau**
 http://vimeo.com/17280777#
 http://supermechanical.com/tableau/
@@ -391,24 +394,17 @@ https://itunes.apple.com/us/app/weather-hd-2/id364193735?mt=8&ign-mpt=uo%3D4
 
 ### Probleem
 
-http://www.youtube.com/watch?v=fdwvuTrycYU
-http://www.gatesfoundation.org/infographics/Pages/reinvent-the-toilet-info.aspx
-
-Lisainfo 
-
-http://www.gatesfoundation.org/speeches-commentary/Pages/sylvia-mathews-burwell-2011-reinventing-the-toilet.aspx
-
-
-### Taustauuring
-
+https://www.youtube.com/watch?v=ps0TmroTsq4 Indian toilet issue remains despite the promise
 http://www.slideshare.net/thepottyproject/insights-preview-the-potty-project
-
-Ahmedabad, Bangalore, Mumbai, New Dehli, Pune
 
 
 ### Lahendus
 
-http://www.youtube.com/watch?feature=player_embedded&v=z7PQMqGuWlU
+
+http://www.youtube.com/watch?v=fdwvuTrycYU Reinvent the Toilet
+https://www.youtube.com/watch?v=wkeZR2K_LwA Reinvent the Toilet Fair 
+https://www.youtube.com/watch?v=z7PQMqGuWlU Reinvent the Toilet Winner 
+
 http://allthingsd.com/20120814/why-bill-gates-is-searching-for-a-better-toilet
 Lisainfo: http://www.gatesfoundation.org/watersanitationhygiene/Documents/wsh-gce-summary.pdf
 
