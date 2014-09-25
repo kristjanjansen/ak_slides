@@ -28,16 +28,6 @@
 
 [Portfolio](portfolio.md)
 
-### MK13 Tüpograafia
-
-
-
-[Muud lingid](typo-reference.md)
-
-### DS13 Tüpograafia
-
-
-
 #### TG12 Piktograafia
 
 [Kursuse seis](pictogram-current.md)
@@ -57,7 +47,7 @@
 
 [Viited](exhibition.md)
 
-## Muud kursused
+## Muud materjalid
 
 ### Kaardid
 
@@ -71,10 +61,11 @@
 [Cities](pictogram-wayfinding-cities.md)
 [Misc institutions](pictogram-wayfinding.md)
 
-## Muud kursused
+### Pikto
 
 [Tartu kunstikooli piktograafia 2012](kunstikool_2012.md)
 
-## Ülejäägid
+### Ülejäägid
 
 [Kursuse plaan](typo-outline.md)
+[Materjalid](typo-reference.md)
